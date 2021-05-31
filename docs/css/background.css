@@ -1,3 +1,16 @@
 body {
 	background-image: url(../img/background.jpg);
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	background-color: #999999;
+	color: black;
+	min-height: 25px;
+	width: 100%;
 }
