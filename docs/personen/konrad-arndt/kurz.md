@@ -1,0 +1,131 @@
+# Konrad Ardnt
+
+Kurztext:
+
+**Konrad Arndt**
+
+**26. 6. 1899 -- 13. 11. 1940**
+
+**Metallarbeiter, Gewerkschaftsfunktionär, SPD-Stadtverordneter, lokaler
+Anführer der Republikschutzorganisationen Reichsbanner Schwarz Rot Gold
+und Eiserne Front sowie Aktivist mehrerer antinazistischer
+Widerstandszellen**
+
+Unablässig hatte der Wiesbadener Arbeitersekretär des Allgemeinen
+Deutschen Gewerkschaftsbundes im ganzen Rhein-Main-Gebiet vor der
+heraufziehenden faschistischen Gefahr gewarnt. Deshalb war er am Ende
+der Weimarer Republik ständig verbalen Anfeindungen, verschiedentlich
+sogar körperlichen Attacken ausgesetzt. Nachdem er ein von SA-Leuten am
+24. März 1933 verübtes Messerattentat mit knapper Not überlebt hatte,
+wurde er von den „Nationalsozialisten" zwei Monate später aus seinem
+gewerkschaftlichen Beschäftigungsverhältnis fristlos entlassen. Trotz
+fortwährender polizeilicher Überwachung, wiederholten Haussuchungen und
+mehrmaliger tage- bzw. wochenlanger Inhaftierung blieb Arndt in
+konspirativem Kontakt mit einigen Gesinnungsfreunden in Wiesbaden und in
+Frankfurt am Main. Von 1935 bis 1938 wurde er in den
+Konzentrationslagern Esterwegen und Sachsenhausen drangsaliert. Seine
+Freilassung erfolgte mit der Maßgabe, wegen seines großen
+Bekanntheitsgrades als Regimegegner hierorts seinen Wohnsitz doch in die
+Mainmetropole, die Heimatstadt seiner Frau Betty, zu verlegen. Bei
+Kriegsausbruch rückte er als Gefreiter beim Frankfurter
+Heimat-Kraftfahr-Park der Wehrmacht ein. Für die dort bestehende
+Widerstandszelle realisierte er sodann die Verbindung zur Résistance in
+Belgien. Auf der Rückfahrt einer Dienstreise nach Brüssel, die wohl
+zugleich einen konspirativen Hintergrund hatte, ist Arndt unter
+ungeklärten Umständen ums Leben gekommen.
+
+BIOGRAFIE:
+
+**Konrad Arndt**
+
+1926 war der im pommerschen Stolp geborene und in Elmshorn aufgewachsene
+Bautzener Funktionär des Deutschen Metallarbeiter-Verbandes nach
+Wiesbaden gekommen, um fortan als Arbeitersekretär beim hiesigen
+Allgemeinen Deutschen Gewerkschaftsbund zu wirken.
+
+In den nächsten Jahren stand Arndt stets in vorderster Front bei den
+Bemühungen, der bald immer bedrohlicher werdenden NS-Bewegung Paroli zu
+bieten. Auch der Stadt- und Bezirksrabbiner Dr. Paul Lazarus wurde von
+ihm zur Aufklärung über deren besorgniserregende Judenfeindschaft
+gewonnen. 1929 rückte Arndt für die SPD in die
+Stadtverordnetenversammlung ein. Ferner führte er hierorts die beiden
+Republikschutzorganisationen Reichsbanner Schwarz Rot Gold und Eiserne
+Front an, denen reichsweit mehrere Millionen Mitglieder angehörten.
+Seine Frau Betty betätigte sich derweil ehrenamtlich für beider Partei
+wie für die Arbeiterwohlfahrt.
+
+Arndts Agitationsreden „gegen Faschismus und Diktatur, für Demokratie
+und Sozialismus" zogen Zuhörer in vielen südhessischen Städten in ihren
+Bann. Fruchtlos blieb indessen sein Versuch, die Wiesbadener Kommunisten
+noch im Februar 1933 zur Unterlassung ihrer unablässigen Angriffe auf
+die Führungsspitzen der Sozialdemokratie zu bewegen. Dies sei nämlich
+die Voraussetzung dafür, wie er in einem „Offenen Brief an die
+KPD-Arbeiter" betonte, endlich „dem Faschismus eine geschlossene Front
+der gesamten Arbeiterschaft" entgegenstellen zu können.
+
+Nachdem er zuvor bereits mehrmalig von NS-Aktivisten misshandelt worden
+war, verübten am 24. März jenes Jahres drei SA-Leute ein Messerattentat
+auf ihn, bei dem er lebensgefährlich verletzt wurde. Eine Zeit lang
+musste er deshalb in einer Klinik behandelt werden.
+
+Sofort nach der Zerschlagung der freien Gewerkschaftsbewegung durch die
+„Nationalsozialisten" am 2. Mai 1933 wurde er wiederum für kurze Zeit
+inhaftiert. Wenig später entließ man ihn fristlos aus seinem
+Arbeitsverhältnis. Dem vorherigen Versuch, ihn zur Mitarbeit in der
+lokalen Leitung der neu geschaffenen faschistischen Zwangsorganisation
+„Deutsche Arbeitsfront" zu bewegen, hatte er sich standhaft widersetzt.
+
+Nachdem ihm zunächst untersagt worden war, erneut eine geregelte Arbeit
+aufzunehmen, gelang es ihm dann doch, zumindest einen kleinen mobilen
+Lebensmittelhandel aufzuziehen, bei dem ihm seine Frau und die beiden
+Söhne Günter und Rudi zur Hand gingen. Bald darauf konnte Arndt jene
+Einkünfte durch die allerdings ebenfalls nur kärglichen Provisionen aus
+einer Tätigkeit als Versicherungsvertreter aufstocken. Darüber hinaus
+erhielt die Familie regelmäßig Zuwendungen durch die niemals enttarnte
+illegale Geldsammelstelle der Wiesbadener SPD, die sich im
+Tabakwarenladen von Max Meinhold in der Bleichstraße 26 befand.
+
+Trotz ständiger Observation, Haussuchungen und weiteren, manchmal auch
+wochenlangen Inhaftierungen blieb er konspirativ in Verbindung mit
+einigen Gesinnungsgenossen hierorts, aber auch in Frankfurt am Main.
+Hierzu gehörten z. B. der vormalige Wormser SPD-Stadtrat und spätere
+Präsident des Hessischen Landtages Franz Fuchs sowie Johannes Rebholz,
+bis 1933 Vorsitzender der Frankfurter SPD und nach dem Krieg
+Oberbürgermeister von Offenbach.
+
+Im Sommer 1935 wurde Arndt abermals festgenommen und Anfang Oktober ins
+KZ Esterwegen verschleppt. Im Jahr darauf musste er an der Errichtung
+des KZ Sachsenhausen mitwirken. Auch dort ist er, wie u. a. sein
+Wiesbadener KZ-Kamerad Paul Krüger bezeugt hat, wiederholt fürchterlich
+misshandelt worden.
+
+Erst im Herbst 1938 erfolgte seine Haftentlassung. Hierbei war ihm zur
+Auflage gemacht worden, seinen Wohnsitz nach Frankfurt zu verlegen, da
+er in Wiesbaden als Regimegegner zu bekannt sei. In der Heimatstadt
+seiner Frau Betty hatte er sich wie vordem regelmäßig bei der Gestapo zu
+melden. Ab 1939 arbeitete er in Frankfurt wieder für dieselbe
+Versicherungsgesellschaft wie zuvor. Dort bestand seit geraumer Zeit
+eine Widerstandsgruppe um den späteren Bundesfinanzminister Alex Möller.
+Aber schon nach wenigen Monaten wurde Arndt diese Akquisitionstätigkeit
+von der Gestapo untersagt.
+
+Um dem ungeheuren Überwachungsdruck zu entgehen, ließ er sich im Herbst
+jenes Jahres als Gefreiter zum Frankfurter Heimat-Kraftfahr-Park der
+Wehrmacht einberufen. Hier war von der Widerstandsgruppe um Alex Möller
+inzwischen eine weitere Anti-Nazi-Zelle gebildet worden. Auf der
+Rückfahrt einer Dienstreise nach Brüssel, bei der er für jene
+Widerstandsstruktur höchstwahrscheinlich zugleich ein weiteres Mal die
+Verbindung zu belgischen Oppositionskreisen wahrnehmen sollte,
+verunglückte Arndt am 13. November 1940 in der Nähe von Köln unter bis
+heute ungeklärten Umständen tödlich.
+
+In Wiesbaden sind das Alte Gewerkschaftshaus in der Wellritzstraße 49,
+eine Straße im Stadtteil Klarenthal sowie eine Altenwohnanlage und ein
+Altenhilfezentrum der Arbeiterwohlfahrt im Stadtteil Bierstadt nach
+Konrad Arndt benannt. Vor dem früheren Domizil der Familie Arndt in der
+Oestricher Straße 6 erinnert ein „Stolperstein" an den couragierten
+Nazi-Gegner.
+
+Dr. Axel Ulrich
+
+{{ person_links(page.file)}}
