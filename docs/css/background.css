@@ -1,16 +1,27 @@
 body {
-	background-image: url(../img/background.jpg);
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
+  background-image: url(../img/background.jpg);
+  color: black;
+  font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+  font-weight: bold;
 }
 
 a {
-	color: black;
+  color: black;
+  text-decoration: none;
 }
 
 a:hover {
-	background-color: #999999;
-	color: black;
-	min-height: 25px;
-	width: 100%;
+  color: black;
+  text-decoration: none;
+}
+a.nav-link:hover {
+  background-color: #999999;
+  color: black;
+  min-height: 25px;
+  width: 100%;
+}
+
+ul img {
+  max-width: 100px;
+  max-height: 100px;
 }
