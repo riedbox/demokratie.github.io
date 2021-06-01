@@ -8,7 +8,7 @@
 
 
 	{%- block site_nav %}
-	<div id="toc-collapse" class="navbar-collapse collapse card bg-transparent">
+	<div id="toc-collapse" class="navbar-collapse collapse bg-transparent">
 		{%- if nav|length>1 %}
 			<ul class="nav flex-column">
 				{%- for nav_item in nav %}
@@ -24,7 +24,7 @@
 	{%- endblock %}
 
 	{%- block section_nav %}
-	<div id="toc-collapse" class="navbar-collapse collapse card bg-transparent">
+	<div id="toc-collapse" class="navbar-collapse page-nav collapse bg-transparent">
 		{%- if page.parent %}
 			<ul class="nav flex-column">
 				{%- for nav_item in page.parent.children %}

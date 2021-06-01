@@ -18,10 +18,30 @@ a.nav-link:hover {
   background-color: #999999;
   color: black;
   min-height: 25px;
-  width: 100%;
+}
+.bs-sidebar .nav > li > a {
+  font-weight: normal;
 }
 
+.bs-sidebar .nav > li > a:hover,
+.bs-sidebar .nav > li > a:focus {
+  text-decoration: none;
+  border-right: none;
+}
+.bs-sidebar > .navbar-collapse > .nav {
+  width: auto;
+}
 ul img {
   max-width: 100px;
   max-height: 100px;
+}
+
+.page-nav a.nav-link {
+  background-color: #48afaf;
+  color: white;
+  margin: 0.5rem;
+}
+
+.page-nav a.nav-link:hover {
+  background-color: #999999;
 }
