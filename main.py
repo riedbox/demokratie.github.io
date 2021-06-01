@@ -5,6 +5,19 @@ Basic example of a Mkdocs-macros module
 import math
 import os
 
+def read_file(filename):
+    file = open(filename)
+    line = file.read().replace("\n", " ")
+    file.close()
+    return line
+
+def get_directories(path):
+    f = []
+    for (dirpath, dirnames, filenames) in os.walk(path):
+        f.extend(dirnames)
+        break
+    return f
+
 def get_files(path):
     f = []
     for (dirpath, dirnames, filenames) in os.walk(path):
@@ -51,6 +64,37 @@ def define_env(env):
 
 
     @env.macro
-    def image_gallery(file):
+    def person_links(file):
         dir_path = os.path.dirname(os.path.realpath(file.abs_src_path))
-        return get_files(dir_path)
+        directory_files = get_files(dir_path)
+        markup = []
+        markup.extend("<ul>")
+        for directory_file in directory_files:
+            if directory_file.find(".jpg") != -1:
+                markup.extend("<li>")
+                markup.extend("<img src=\"" + directory_file + "\"/>")
+                markup.extend("</li>")
+        markup.extend("</ul>")
+        return "".join(markup);
+
+    @env.macro
+    def image_gallery(file, dirname):
+        dir_path = os.path.dirname(os.path.realpath(file.abs_src_path))
+        directories = get_directories(dir_path + "/" + dirname)
+        markup = []
+        markup.extend("<div class=\"container\">")
+        markup.extend("<div class=\"row\">")
+        for directory in directories:
+            markup.extend("<a class=\"col-md-4 person-link\" href=\"" + dirname + "/" + directory + "/kurz.html\">")
+            person_path = dir_path + "/" + dirname + "/" + directory
+            markup.extend("<img src=\"" + dirname + "/" + directory + "/Abb 1.jpg\"" + "/>")
+            name = read_file(dir_path + "/" + dirname + "/" + directory + "/name")
+            markup.extend("<h2>" + name + "</h2>")
+            beschreibung = read_file(dir_path + "/" + dirname + "/" + directory + "/beschreibung")
+            markup.extend("<p>" + beschreibung + "</p>")
+            geburtsdaten = read_file(dir_path + "/" + dirname + "/" + directory + "/geburtsdaten")
+            markup.extend("<p>" + geburtsdaten + "</p>")
+            markup.extend("</a>")
+        markup.extend("</div>")
+        markup.extend("</div>")
+        return "".join(markup);
