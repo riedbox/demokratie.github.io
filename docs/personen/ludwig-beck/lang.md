@@ -1,3 +1,6 @@
+---
+title: Mehr Information
+---
 **Ludwig Beck**
 
 Der Sohn des auch kommunalpolitisch engagierten Eigentümers der

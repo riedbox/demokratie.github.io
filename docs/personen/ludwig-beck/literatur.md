@@ -1,3 +1,7 @@
+---
+title: Literaturhinweise
+---
+
 **Literatur**
 
 Klaus-Jürgen Müller: Generaloberst Ludwig Beck. Eine Biographie.
