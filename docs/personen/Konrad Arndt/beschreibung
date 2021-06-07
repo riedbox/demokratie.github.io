@@ -1,0 +1,1 @@
+Metallarbeiter, Gewerkschaftsfunktionär, SPD-Stadtverordneter, lokaler Anführer der Republikschutzorganisationen Reichsbanner Schwarz-Rot-Gold und Eiserne Front sowie Aktivist mehrerer antinazistischer Widerstandszellen
