@@ -4,12 +4,24 @@
 }
 
 body {
-  background-image: url(../img/background.jpg);
+  background-image: url(../img/background_800.jpg);
   background-size: cover;
   box-sizing: content-box;
   color: black;
   font-family: OpenSans, Helvetica, Helvetica Neue, Arial, sans-serif;
   font-weight: normal;
+}
+
+@media screen and (min-width: 1919px) {
+  body {
+    background-image: url(../img/background_1920.jpg);
+  }
+}
+
+@media screen and (min-width: 2799px) {
+  body {
+    background-image: url(../img/background_2800.jpg);
+  }
 }
 
 body > .container {
