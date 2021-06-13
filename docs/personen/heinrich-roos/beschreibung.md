@@ -1,3 +1,0 @@
-**Kommunalbeamter, Akteur einer lokalen, bürgerlich-demokratischen
-Widerstandsgruppe, später Mitgründer des Aufbau-Ausschusses Wiesbaden
-sowie u. a. auch der CDU, Stadtrat und Stadtkämmerer**
