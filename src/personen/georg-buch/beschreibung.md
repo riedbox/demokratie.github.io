@@ -1,1 +1,6 @@
-Georg Buch
+**Schriftsetzer, Jugend- und zudem Propagandaleiter der SPD, auch deren
+letzter Vorsitzender vor der Illegalität, dann Anführer einer lokalen
+Widerstandsgruppe zumeist jüngerer Sozialdemokraten, später wiederum
+Multifunktionär seiner Partei, Stadtverordneter, hauptamtlicher
+Stadtrat, Landtagsabgeordneter, Bürgermeister und Oberbürgermeister,
+Präsident des Hessischen Landtages**
