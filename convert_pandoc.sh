@@ -7,11 +7,17 @@ METADATA_FILENAMES=(beschreibung name geburtsdaten)
 
 echo "Processing $1"
 
+IS_METADATA_FILE=false
+
 for METADATA_FILENAME in ${METADATA_FILENAMES[@]}; do
 	if [ "$BASE" = "$METADATA_FILENAME" ]
 	then
-		pandoc -t plain $1 -o $DIR/$BASE.txt
-	else
-		pandoc -t markdown $1 -o $DIR/$BASE.md
+		IS_METADATA_FILE=true
 	fi
 done
+
+if [ "$IS_METADATA_FILE" = true ] ; then
+	pandoc -t plain $1 -o $DIR/$BASE.txt
+else
+	pandoc -t markdown $1 -o $DIR/$BASE.md
+fi
