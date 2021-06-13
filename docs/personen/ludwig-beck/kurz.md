@@ -1,10 +1,3 @@
----
-title: KurzBiografie
-beschreibung: Chef des Generalstabes des Heeres, Generaloberst a. D., Haupt der militärisch-bürgerlichen Opposition, designiertes Staatsoberhaupt der Verschwörer des „20. Juli"
-geburtsdaten: 29.06.1880 - 20.07.1944
-name: Ludwig Beck
----
-
 **Ludwig Beck**
 
 **29. 6. 1880 -- 20. 7. 1944**
@@ -49,5 +42,3 @@ ausersehen. Nach der Niederschlagung der Erhebung im Oberkommando des
 Heeres, der Berliner Kommandozentrale der Verschwörer, wurde Beck dort
 die Gelegenheit zur Selbsttötung gewährt, nach deren zweimaligem
 Scheitern der Schwerverwundete erschossen worden ist.
-
-{{person_links(page.file)}}

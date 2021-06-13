@@ -1,7 +1,3 @@
----
-title: Zitate zur Person
----
-
 ***Zitate***
 
 Die Geschichte wird diese Führer mit einer Blutschuld belasten, wenn sie

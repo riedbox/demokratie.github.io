@@ -1,0 +1,2 @@
+**Verkäufer, Mitglied des Katholischen Jungmänner-Verbandes (KJMV) und
+der Hitler-Jugend (HJ), in der Wehrmacht zuletzt Oberreiter**

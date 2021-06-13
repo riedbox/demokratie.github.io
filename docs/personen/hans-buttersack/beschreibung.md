@@ -1,0 +1,3 @@
+**Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der
+Bergkirchengemeinde, Rechtsbeistand des lokalen Pfarrernotbundes, dann
+der Bekennenden Kirche und u. a. auch von Wiesbadener Juden**

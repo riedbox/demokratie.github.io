@@ -1,0 +1,4 @@
+**Jurist, Oberleutnant der Reserve, 1943 Beteiligter eines
+Attentatsversuchs auf Hitler, Netzwerker und Kurier der Verschwörer vom
+„20. Juli 1944", später Rechtsanwalt und Notar sowie Richter am
+Bundesverfassungsgericht**
