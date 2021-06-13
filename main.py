@@ -87,7 +87,7 @@ def define_env(env):
         for directory in directories:
             markup.extend("<a class=\"col-md-4 person-link\" href=\"" + dirname + "/" + directory + "/kurz.html\">")
             person_path = dir_path + "/" + dirname + "/" + directory
-            markup.extend("<img src=\"" + dirname + "/" + directory + "/Abb 1.jpg\"" + "/>")
+            markup.extend("<img src=\"" + dirname + "/" + directory + "/bilder/Abb 1.jpg\"" + "/>")
             name = read_file(dir_path + "/" + dirname + "/" + directory + "/name.md")
             markup.extend("<h2>" + name + "</h2>")
             beschreibung = read_file(dir_path + "/" + dirname + "/" + directory + "/beschreibung.md")
