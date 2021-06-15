@@ -58,7 +58,8 @@
       {%- block extrahead %} {% endblock %}
     </head>
 
-    <body{% if page and page.is_homepage %} class="homepage"{% endif %}>
+    <body{% if page and (page.file.url == 'index.html') %} class="homepage"{% endif %}>
+        <h1>{{ config.site_name}} </h1>
         <div class="navbar fixed-top d-block d-md-none navbar-expand-lg navbar-{% if config.theme.nav_style == "light" %}light{% else %}dark{% endif %} bg-{{ config.theme.nav_style }}">
             <div class="container">
 
@@ -164,8 +165,19 @@
         <div class="container">
             <div class="row">
                 {%- block content %}
-                    <div class="col-md-3">{% include "toc.html" %}</div>
-                    <div class="col-md-9" role="main">{% include "content.html" %}</div>
+
+                    {%- if page.file.url == 'index.html' %}
+                        <div class="col-md-12" role="main">{% include "content.html" %}</div>
+                    {%- else -%}
+                        <div class="col-md-3">{% include "toc.html" %}</div>
+
+                        {%- if page.file.url == 'personen.html' %}
+                            <div class="col-md-9" role="main">{% include "content.html" %}</div>
+                        {%- else -%}
+                            <div class="col-md-6" role="main">{% include "content.html" %}</div>
+                        {%- endif %}
+
+                    {%- endif %}
                 {%- endblock %}
             </div>
         </div>
