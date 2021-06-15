@@ -1,8 +1,3 @@
-# Homepage
-
-## Für Demokratie! Wiesbadener Bürgerinnen und Bürger im Widerstand gegen die NS-Diktatur
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/416321255" width="640" height="360" frameborder="0" allowfullscreen>
-</iframe>
+<video src="movie/Demokratie_Trailer.mp4" controls width="100%"></video>
 
 [Start](start.md)
