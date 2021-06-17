@@ -80,3 +80,37 @@ ul img {
 .page-nav a.nav-link:hover {
   background-color: #999999;
 }
+
+.homepage h1 {
+  position: relative;
+  z-index: 2;
+}
+
+.homepage .video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+@keyframes fadeinout {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.homepage  .start-message{
+  position: fixed;
+  top: 25%;
+  text-align: center;
+  width: 100%;
+}
+
+.homepage  .start-message h2 {
+  animation: fadeinout 10s infinite linear;
+  color: red;
+}
+
+body.homepage{
+  overflow: hidden;
+}
