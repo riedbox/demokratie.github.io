@@ -13,6 +13,8 @@ durch die Antikriegsagitation der Sozialdemokratie und das sonstige
 Vorgehen der Revolutionäre verhindert worden sei, revidierte er dieses
 Fehlurteil schließlich.
 
+<img alt="Abb 2" src="bilder/Abb%202.jpg" style="float: right;width: 100px;margin: 2rem;">
+
 Der trotzdem weiterhin überzeugte Monarchist diente während der von ihm
 somit gewiss nicht geschätzten Weimarer Republik in verschiedenen
 Truppen- und Stabsstellen und war dabei massiv an der geheimen
