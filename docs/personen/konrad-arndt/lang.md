@@ -1,123 +1,89 @@
-**Hermann Kaiser**
+1926 war der im pommerschen Stolp geborene und in Elmshorn aufgewachsene
+Bautzener Funktionär des Deutschen Metallarbeiter-Verbandes nach
+Wiesbaden gekommen, um fortan als Arbeitersekretär beim hiesigen
+Allgemeinen Deutschen Gewerkschaftsbund zu wirken.
 
-Der in Remscheid geborene Sohn des Direktors der Wiesbadener
-Oberrealschule und nachmaligen Schulrats am Provinzialschulkollegium in
-Kassel Dr. Ludwig Kaiser hatte Mathematik, Physik, Geschichte und
-Kunstgeschichte in Halle und Göttingen studiert. Nach seiner
-Rekrutenzeit in Kassel war er 1912 wieder nach Wiesbaden gegangen, um
-hier eine Stelle als Oberlehrer an der ehemaligen Lehranstalt seines
-Vaters, der späteren Oranienschule, anzutreten.
+In den nächsten Jahren stand Arndt stets in vorderster Front bei den
+Bemühungen, der bald immer bedrohlicher werdenden NS-Bewegung Paroli zu
+bieten. Auch der Stadt- und Bezirksrabbiner Dr. Paul Lazarus wurde von
+ihm zur Aufklärung über deren besorgniserregende Judenfeindschaft
+gewonnen. 1929 rückte Arndt für die SPD in die
+Stadtverordnetenversammlung ein. Ferner führte er hierorts die beiden
+Republikschutzorganisationen Reichsbanner Schwarz-Rot-Gold und Eiserne
+Front an, denen reichsweit mehrere Millionen Mitglieder angehörten.
+Seine Frau Betty betätigte sich derweil ehrenamtlich für beider Partei
+wie für die Arbeiterwohlfahrt.
 
-Aus dem Ersten Weltkrieg kehrte der Feldartillerist, der 1914 freiwillig
-zu den Fahnen geeilt war, als mehrfach dekorierter Oberleutnant zurück.
-Die durch die Revolution 1918/19 errungene erste deutsche Demokratie
-wurde von dem durch und durch kaisertreuen Nationalkonservativen
-vehement abgelehnt. Gleiches galt für die 1919 und dann erneut 1923
-unternommenen Versuche von Separatisten, Wiesbaden zum Regierungssitz
-einer „Rheinischen Republik" zu machen. Den Abzug der alliierten
-Besatzungstruppen aus dem Rheinland im Sommer 1930 empfand Kaiser -- wie
-die überwiegende Mehrheit der Deutschen damals auch -- als das Ende
-einer „nationalen Schmach".
+Arndts Agitationsreden „gegen Faschismus und Diktatur, für Demokratie
+und Sozialismus" zogen Zuhörer in vielen südhessischen Städten in ihren
+Bann. Fruchtlos blieb indessen sein Versuch, die Wiesbadener Kommunisten
+noch im Februar 1933 zur Unterlassung ihrer unablässigen Angriffe auf
+die Führungsspitzen der Sozialdemokratie zu bewegen. Dies sei nämlich
+die Voraussetzung dafür, wie er in einem „Offenen Brief an die
+KPD-Arbeiter" betonte, endlich „dem Faschismus eine geschlossene Front
+der gesamten Arbeiterschaft" entgegenstellen zu können.
 
-Neben seinem Lehrerberuf standen kriegshistorische Forschungen und die
-militärische Traditionspflege im Fokus seiner Interessen. Der Höhepunkt
-seines Agierens in dieser Hinsicht war 1934 die Errichtung des Denkmals
-für die Weltkriegsgefallenen des 1. Nassauischen
-Feldartillerie-Regiments Nr. 27 Oranien auf dem Luisenplatz, für das er
-sich seit Jahren mit ganzer Kraft eingesetzt hatte. Bei dessen
-Einweihung hatte er zwar „die nationale Bewegung" gewürdigt, die „den
-neuen sozialen Staat der Deutschen aufzubauen im Begriff" sei, dabei
-aber Hitler, den NS-Gauleiter Jakob Sprenger und den Wiesbadener
-NS-Bürgermeister Felix Piékarski unerwähnt gelassen, was zu jener Zeit
-ein unglaublicher Affront war.
+Nachdem er zuvor bereits mehrmalig von NS-Aktivisten misshandelt worden
+war, verübten am 24. März jenes Jahres drei SA-Leute ein Messerattentat
+auf ihn, bei dem er lebensgefährlich verletzt wurde. Eine Zeit lang
+musste er deshalb in einer Klinik behandelt werden.
 
-Kaisers schrittweise Abkehr von der NSDAP, der er im Vorjahresfrühling
-beigetreten war, ist durch die vom Diktator befohlene, als
-Niederschlagung eines angeblichen Putschversuchs Ernst Röhms verbrämte
-Mordaktion der SS an den Führungsspitzen der SA und anderen Hitler
-missliebig Gewordenen im Sommer 1934 ausgelöst worden. Diesen
-verbrecherischen Umtrieben sind in ganz Deutschland etwa 200 Personen
-zum Opfer gefallen, darunter General Kurt von Schleicher, Hitlers
-unmittelbarer Amtsvorgänger, der frühere Reichsorganisationsleiter der
-NSDAP Gregor Strasser sowie Herbert von Bose, ein jungkonservativer
-Widerständler, mit dessen Schwiegervater General Viktor Kühne Hermann
-Kaiser wegen kriegsgeschichtlicher Fragen in Kontakt stand. Auch seine
-Brüder Ludwig und Heinrich Kaiser, die sich beide bereits vor 1933 klar
-gegen Hitler positioniert hatten und später gleichfalls mehr oder minder
-intensiv in den Umsturzversuch des „20. Juli" involviert gewesen sind,
-werden nicht ohne Einfluss gewesen sein auf seine immer deutlicher zu
-Tage getretene Distanzierung vom NS-Regime.
+Sofort nach der Zerschlagung der freien Gewerkschaftsbewegung durch die
+„Nationalsozialisten" am 2. Mai 1933 wurde er wiederum für kurze Zeit
+inhaftiert. Wenig später entließ man ihn fristlos aus seinem
+Arbeitsverhältnis. Dem vorherigen Versuch, ihn zur Mitarbeit in der
+lokalen Leitung der neu geschaffenen faschistischen Zwangsorganisation
+„Deutsche Arbeitsfront" zu bewegen, hatte er sich standhaft widersetzt.
 
-Mit Kriegsbeginn wurde der Studienrat zur Wehrmacht einberufen und schon
-nach einigen Monaten ins Oberkommando des Heeres (OKH) abkommandiert.
-Dort hatte er -- Anfang 1941 zum Hauptmann befördert -- das
-Kriegstagebuch im Stab des Chefs der Heeresrüstung und Befehlshabers des
-Ersatzheeres zu führen. In dieser Funktion erhielt er zwangsläufig
-Kenntnis von den an den Fronten und in den eroberten Gebieten verübten
-Verbrechen, vor allem auch vom Völkermord an den Juden. Dies alles
-empörte ihn zutiefst, obwohl ihm gewisse antijüdische Ressentiments
-durchaus nicht fremd gewesen waren.
+Nachdem ihm zunächst untersagt worden war, erneut eine geregelte Arbeit
+aufzunehmen, gelang es ihm dann doch, zumindest einen kleinen mobilen
+Lebensmittelhandel aufzuziehen, bei dem ihm seine Frau und die beiden
+Söhne Günter und Rudi zur Hand gingen. Bald darauf konnte Arndt jene
+Einkünfte durch die allerdings ebenfalls nur kärglichen Provisionen aus
+einer Tätigkeit als Versicherungsvertreter aufstocken. Darüber hinaus
+erhielt die Familie regelmäßig Zuwendungen durch die niemals enttarnte
+illegale Geldsammelstelle der Wiesbadener SPD, die sich im
+Tabakwarenladen von Max Meinhold in der Bleichstraße 26 befand.
 
-Seit 1941 kooperierte Kaiser immer enger mit Generaloberst a. D. Ludwig
-Beck und mit Dr. Carl Goerdeler, den beiden maßgeblichen zivilen
-Anführern des militärisch-bürgerlich kombinierten Widerstandsflügels der
-Umsturzbewegung vom „20. Juli", sowie mit vielen anderen wichtigen
-Regimegegnern. Geheime Verbindungswege führten auch zur
-Widerstandsgruppe „Kreisauer Kreis", zu NS-Gegnern in Göttingen, in
-Kassel und Wiesbaden, hier z. B. über den mit ihm befreundeten Kaufmann
-Ludwig Schwenck zu einem bürgerlich-liberal geprägten Oppositionskreis
-um den späteren CDU-Stadtkämmerer Heinrich Roos. Außerdem verfasste
-Kaiser eine Abhandlung über „Wesen und Aufgaben der Politik" sowie die
-Denkschrift „Gedanken über Reformen des Erziehungs- und Bildungswesens"
-und einen Aufruf an die Wehrmacht, der bei Gelingen des Umsturzvorhabens
-über den Rundfunk und durch die Presse hätte bekannt gegeben werden
-sollen.
+Trotz ständiger Observation, Haussuchungen und weiteren, manchmal auch
+wochenlangen Inhaftierungen blieb er konspirativ in Verbindung mit
+einigen Gesinnungsgenossen hierorts, aber auch in Frankfurt am Main.
+Hierzu gehörten z. B. der vormalige Wormser SPD-Stadtrat und spätere
+Präsident des Hessischen Landtages Franz Fuchs sowie Johannes Rebholz,
+bis 1933 Vorsitzender der Frankfurter SPD und nach dem Krieg
+Oberbürgermeister von Offenbach.
 
-Im Auftrag Goerdelers sollte Kaiser sogar die weiteren Verhandlungen mit
-den an der Verschwörung ebenfalls beteiligten Anführern des
-sozialdemokratischen und gewerkschaftlichen Widerstandes führen, und
-zwar mit dem einstigen Reichstagsabgeordneten Dr. Julius Leber und dem
-Gewerkschaftsführer Wilhelm Leuschner, vordem Innenminister des
-Volksstaates Hessen. Diese hatten gegenüber ihren konservativen
-Bündnispartnern sicherlich keine Einwände vorzubringen gegen eine
-Ernennung Kaisers zum Staatssekretär in einem nach dem Umsturz neu zu
-schaffenden Kultusministerium entweder mit dem vormaligen
-Zentrumspolitiker und württembergischen Staatspräsidenten Dr. h. c.
-Eugen Bolz oder besser noch mit ihrem eigenen Parteigenossen Prof. Dr.
-Adolf Reichwein an der Spitze.
+Im Sommer 1935 wurde Arndt abermals festgenommen und Anfang Oktober ins
+KZ Esterwegen verschleppt. Im Jahr darauf musste er an der Errichtung
+des KZ Sachsenhausen mitwirken. Auch dort ist er, wie u. a. sein
+Wiesbadener KZ-Kamerad Paul Krüger bezeugt hat, wiederholt fürchterlich
+misshandelt worden.
 
-Die Gründe, die für das Hitler-Attentat durch Oberst Claus Graf Schenk
-von Stauffenberg und den daran gekoppelten Umsturzversuch sprachen,
-hatte sich der Mittelsmann zwischen den militärischen und zivilen
-Widerstandskräften in seinem privaten Tagebuch notiert, darunter das
-„Vermeiden weiterer Blutopfer", die „Mitwirkung" an der „Vorbereitung
-und Gestaltung des Friedens" mit dem Ziel der Bewahrung der
-Reichsgrenzen, die „Selbstabrechnung mit Verbrechern im Volk" sowie die
-Bildung einer „freien Regierung mit eigener selbstgewählter Verfassung".
-Die herausragende Stellung Kaisers innerhalb der Verschwörung zeigte
-sich schließlich auch daran, dass er am 20. Juli 1944 per Fernschreiben
-aus der Umsturzzentrale in Berlin an den Wehrkreis XII Wiesbaden sofort
-herangezogen werden sollte, um dann hier als Verbindungsoffizier für die
-erforderliche wechselseitige Unterrichtung der einzelnen Kommandoebenen
-zu sorgen.
+Erst im Herbst 1938 erfolgte seine Haftentlassung. Hierbei war ihm zur
+Auflage gemacht worden, seinen Wohnsitz nach Frankfurt zu verlegen, da
+er in Wiesbaden als Regimegegner zu bekannt sei. In der Heimatstadt
+seiner Frau Betty hatte er sich wie vordem regelmäßig bei der Gestapo zu
+melden. Ab 1939 arbeitete er in Frankfurt wieder für dieselbe
+Versicherungsgesellschaft wie zuvor. Dort bestand seit geraumer Zeit
+eine Widerstandsgruppe um den späteren Bundesfinanzminister Alex Möller.
+Aber schon nach wenigen Monaten wurde Arndt diese Akquisitionstätigkeit
+von der Gestapo untersagt.
 
-Hermann Kaiser wurde am 21. Juli 1944 zusammen mit seinen beiden Brüdern
-nach einer Familienfeier in Kassel verhaftet. Während der folgenden
-Verhöre wurden sie zum Teil schwer gefoltert. Hermann Kaiser wurde am
-17. Januar 1945 vom „Volksgerichtshof" zum Tode verurteilt und am 23.
-Januar in der Berliner Strafanstalt Plötzensee hingerichtet.
+Um dem ungeheuren Überwachungsdruck zu entgehen, ließ er sich im Herbst
+jenes Jahres als Gefreiter zum Frankfurter Heimat-Kraftfahr-Park der
+Wehrmacht einberufen. Hier war von der Widerstandsgruppe um Alex Möller
+inzwischen eine weitere Anti-Nazi-Zelle gebildet worden. Auf der
+Rückfahrt einer Dienstreise nach Brüssel, bei der er für jene
+Widerstandsstruktur höchstwahrscheinlich zugleich ein weiteres Mal die
+Verbindung zu belgischen Oppositionskreisen wahrnehmen sollte,
+verunglückte Arndt am 13. November 1940 in der Nähe von Köln unter bis
+heute ungeklärten Umständen tödlich.
 
-In Wiesbaden erinnern an ihn eine Gedenktafel vor dem Haupteingang der
-Oranienschule und eine weitere im Aufgang zur dortigen Aula im 2. Stock
-des Hauptgebäudes, desgleichen eine Zusatztafel am Denkmal des 1.
-Nassauischen Feldartillerie-Regiments Nr. 27 Oranien auf dem Luisenplatz
-sowie eine nach ihm benannte Straße im Stadtteil Klarenthal. Des
-Weiteren hat der Förderkreis der Oranienschule anlässlich ihres
-150-jährigen Bestehens 2007 einen alljährlich zu vergebenen, mit jeweils
-maximal 1.000,-- € ausgestatteten und auf zehn Jahre festgeschriebenen
-Hermann-Kaiser-Förderpreis für herausragende schulische Leistungen und
-soziales Engagement ausgesetzt, wobei „ebenfalls Aktivitäten" einbezogen
-werden sollten, „die sich mit der Zeit Hermann Kaisers
-auseinandersetzen".
+In Wiesbaden sind das Alte Gewerkschaftshaus in der Wellritzstraße 49,
+eine Straße im Stadtteil Klarenthal sowie eine Altenwohnanlage und ein
+Altenhilfezentrum der Arbeiterwohlfahrt im Stadtteil Bierstadt nach
+Konrad Arndt benannt. Vor dem früheren Domizil der Familie Arndt in der
+Oestricher Straße 6 erinnert ein „Stolperstein" an den couragierten
+Nazi-Gegner.
 
-Dr. Rolf Faber
+Dr. Axel Ulrich

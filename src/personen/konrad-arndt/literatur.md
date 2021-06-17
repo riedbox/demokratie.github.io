@@ -1,43 +1,22 @@
-**Literatur**
+Betty Arndt: Überfall auf einen Wiesbadener Gewerkschaftssekretär, in:
+Axel Ulrich (Bearb.): Hessische Gewerkschafter im Widerstand 1933--1945.
+Hrsg.: DGB-Bildungswerk Hessen und Studienkreis zur Erforschung und
+Vermittlung der Geschichte des deutschen Widerstandes 1933--1945. Gießen
+1983, S. 30--32.
 
-Fabian von Schlabrendorff: Begegnungen in fünf Jahrzehnten. Tübingen
-1979, S. 289--320.
+Axel Ulrich: Konrad Arndt. Ein Wiesbadener Gewerkschafter und
+Sozialdemokrat im Kampf gegen den Faschismus. Mit einem Beitrag von Hajo
+Rübsam zur Geschichte des Alten Gewerkschaftshauses in Wiesbaden. Hrsg.:
+IG Metall Verwaltungsstelle Wiesbaden-Limburg und Verein Volkshaus J. P.
+Wiesbaden 2001 (als PDF-Datei abrufbar auf der Homepage des DGB
+Hessen-Thüringen, Region Frankfurt-Rhein-Main /
+Wiesbaden-Rheingau-Taunus -- DGB Wiesbaden: Es gilt die Geschichte wach
+zu halten).
 
-Ger van Roon: Hermann Kaiser und der deutsche Widerstand, in:
-Vierteljahrshefte für Zeitgeschichte, 24. Jg., Stuttgart 1976, S.
-259--286.
-
-Rolf Faber, Axel Ulrich: Hermann Kaiser (1885 -- 1945), in: dies.: Im
-Kampf gegen Diktatur und Rechtlosigkeit -- für Menschlichkeit und
-Gerechtigkeit. Ein Klarenthaler Straßen-ABC des Widerstandes und der
-Verfolgung in 21 Lebensbildern, in: Peter Joachim Riedle (Hrsg.):
-Wiesbaden und der 20. Juli 1944. Beiträge von Gerhard Beier, Lothar
-Bembenek, Rolf Faber, Peter M. Kaiser und Axel Ulrich. Hrsg.: Magistrat
-der Landeshauptstadt Wiesbaden -- Stadtarchiv. Wiesbaden 1996 (Schriften
-des Stadtarchivs Wiesbaden, Bd. 5), S. 135--238, hier: S. 176--181.
-
-Bernhard R. Kroener: Hermann Kaiser -- Opposition aus konservativer
-Verantwortungsethik, in: Bernd Heidenreich, Sönke Neitzel (Hrsg.): Der
-militärische Widerstand gegen Hitler -- der Beitrag Hessens zum 20. Juli
-1944. Wiesbaden 2005 (Hessische Landeszentrale für politische Bildung:
-POLIS 42. Analysen -- Meinungen -- Debatten), S. 37--49 (als PDF-Datei
-abrufbar auf der Homepage der Hessischen Landeszentrale für politische
-Bildung: Publikationen -- POLIS 42).
-
-Peter M. Kaiser: Über Hermann Kaiser, in: Peter Joachim Riedle (Hrsg.):
-Wiesbaden und der 20. Juli 1944. Beiträge von Gerhard Beier, Lothar
-Bembenek, Rolf Faber, Peter M. Kaiser und Axel Ulrich. Hrsg.: Magistrat
-der Landeshauptstadt Wiesbaden -- Stadtarchiv. Wiesbaden 1996 (Schriften
-des Stadtarchivs Wiesbaden, Bd. 5), S. 83--100.
-
-Peter M. Kaiser: Die Verbindungen der Verschwörer des „20. Juli 1944"
-nach Hessen am Beispiel der Brüder Kaiser, in: Renate Knigge-Tesche,
-Axel Ulrich (Hrsg.): Verfolgung und Widerstand in Hessen 1933--1945.
-Frankfurt/M. 1996, S. 548--564.
-
-Peter M. Kaiser (Hrsg.): Mut zum Bekenntnis. Die geheimen Tagebücher des
-Hauptmanns Hermann Kaiser 1941/1943. Berlin 2010.
-
-Peter Hoffmann: Widerstand ∙ Staatsstreich ∙ Attentat. Der Kampf der
-Opposition gegen Hitler. 4., neu überarb. u. erg. Ausg. München, Zürich
-1985.
+Sabine Hock: Im Schatten des Hakenkreuzes. Eine Jugend in der Weimarer
+Republik und unter Hitler (1927--1945), in: S. Hock, Hans Sarkowicz
+(Bearb.): Rudi Arndt. Politik mit Dynamit. Eine politische Biografie von
+Roselinde Arndt, Armin Clauss, Heinrich Halbig, S. Hock, Rolf
+Messerschmidt, Günter Mick, Petra Roth, H. Sarkowicz, Wilhelm von
+Sternburg, Klaus Wettig. Hanau 2011, S. 12--50, siehe darin viele
+Hinweise auf Rudi Arndts Vater Konrad Arndt.
