@@ -88,9 +88,8 @@ def define_env(env):
         return "".join(markup);
 
     @env.macro
-    def image_gallery(file, dirname):
+    def image_gallery(file, dirname, directories):
         dir_path = os.path.dirname(os.path.realpath(file.abs_src_path))
-        directories = get_directories(dir_path + "/" + dirname)
         markup = []
         markup.extend("<div class=\"m-0 p-0\">")
         markup.extend("<div class=\"row\">")
