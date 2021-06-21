@@ -169,14 +169,8 @@
                     {%- if page.file.url == 'index.html' %}
                         <div class="col-md-12" role="main">{% include "content.html" %}</div>
                     {%- else -%}
-                        <div class="col-md-3">{% include "toc.html" %}</div>
-
-                        {%- if page.file.url == 'personen.html' %}
-                            <div class="col-md-9" role="main">{% include "content.html" %}</div>
-                        {%- else -%}
-                            <div class="col-md-6" role="main">{% include "content.html" %}</div>
-                        {%- endif %}
-
+                        <div class="col-md-1">{% include "toc.html" %}</div>
+                        <div class="col-md-11" role="main">{% include "content.html" %}</div>
                     {%- endif %}
                 {%- endblock %}
             </div>

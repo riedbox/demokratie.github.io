@@ -44,6 +44,16 @@ def define_env(env):
     env.variables.baz = "John Doe"
 
     @env.macro
+    def bild(bilder, index):
+        bild = bilder[index]
+        markup = []
+        for key, value in bild.items():
+            unterzeile = bild[key]["unterzeile"]
+            format = bild[key]["format"]
+            markup.extend(f'<span data-toggle="modal" data-target="#exampleModal"><img class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#carouselExample"  data-slide-to="{index}"/></span>')
+        return "".join(markup)
+
+    @env.macro
     def bar(x):
         return (2.3 * x) + 7
 
@@ -82,7 +92,7 @@ def define_env(env):
         dir_path = os.path.dirname(os.path.realpath(file.abs_src_path))
         directories = get_directories(dir_path + "/" + dirname)
         markup = []
-        markup.extend("<div class=\"container m-0 p-0\">")
+        markup.extend("<div class=\"m-0 p-0\">")
         markup.extend("<div class=\"row\">")
         for directory in directories:
             markup.extend("<a class=\"col-md-4 person-link\" href=\"" + dirname + "/" + directory + "/kurz.html\">")

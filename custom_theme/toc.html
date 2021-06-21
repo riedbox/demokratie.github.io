@@ -22,20 +22,4 @@
 		{%- endif %}
 	</div>
 	{%- endblock %}
-
-	{%- block section_nav %}
-	<div id="toc-collapse" class="navbar-collapse page-nav collapse bg-transparent">
-		{%- if page.parent %}
-			<ul class="nav flex-column">
-				{%- for nav_item in page.parent.children %}
-					{%- if not nav_item.children %}
-					<li class="navitem{% if nav_item.active %} active{% endif %}">
-						<a href="{{ nav_item.url|url }}" class="nav-link">{{ nav_item.title }}</a>
-					</li>
-					{%- endif %}
-				{%- endfor %}
-			</ul>
-		{%- endif %}
-	</div>
-	{%- endblock %}
 </div>

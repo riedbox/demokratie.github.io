@@ -7,3 +7,5 @@ extra_css:
     - css/background.css
 plugins:
     - macros
+markdown_extensions:
+  - attr_list
