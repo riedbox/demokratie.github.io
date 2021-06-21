@@ -180,6 +180,10 @@ img.hauptbild {
 .modal-header button {
   color: white;
 }
+
+.page-title {
+  color: #48afaf;
+}
 .uebersicht {
   background-color: #48afaf;
   display: flex;
