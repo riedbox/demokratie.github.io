@@ -1,3 +1,11 @@
+---
+title: KurzBiografie
+hauptbild: Abb 1.jpg
+geburtsdaten: 26.06.1899 – 13.11.1940
+name: Konrad Arndt
+beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“ als Kulturstaatssekretär vorgesehen
+---
+
 Unablässig hatte der Wiesbadener Arbeitersekretär des Allgemeinen
 Deutschen Gewerkschaftsbundes im ganzen Rhein-Main-Gebiet vor der
 heraufziehenden faschistischen Gefahr gewarnt. Deshalb war er am Ende

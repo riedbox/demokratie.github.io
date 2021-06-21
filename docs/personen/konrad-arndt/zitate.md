@@ -1,3 +1,11 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+geburtsdaten: 26.06.1899 – 13.11.1940
+name: Konrad Arndt
+beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“ als Kulturstaatssekretär vorgesehen
+---
+
 Der Konrad, der war der Mutigste von uns allen. (Georg Buch)
 
 In dem schweren Kampf der Arbeiterschaft gegen die Reaktion, den wir

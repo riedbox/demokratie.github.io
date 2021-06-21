@@ -1,3 +1,11 @@
+---
+title: Literaturhinweise
+hauptbild: Abb 1.jpg
+geburtsdaten: 26.06.1899 – 13.11.1940
+name: Konrad Arndt
+beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“ als Kulturstaatssekretär vorgesehen
+---
+
 Betty Arndt: Überfall auf einen Wiesbadener Gewerkschaftssekretär, in:
 Axel Ulrich (Bearb.): Hessische Gewerkschafter im Widerstand 1933–1945.
 Hrsg.: DGB-Bildungswerk Hessen und Studienkreis zur Erforschung und

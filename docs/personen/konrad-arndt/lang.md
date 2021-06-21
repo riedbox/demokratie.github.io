@@ -1,3 +1,32 @@
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: Einladung zu einer Vortragsveranstaltung mit Dr. Paul Lazarus, 1930
+ - Abb 3.jpg:
+    format: links
+    unterzeile: „Hessischer Volksfreund", 8. Februar 1933
+ - Abb 4.jpg:
+    format: rechts
+    unterzeile: „Volksstimme", 18. Februar 1933
+ - Abb 5.jpg:
+    format: links
+    unterzeile: Konrad Arndt mit Ehefrau Betty und den Söhnen Günter und Rudi (r.) während eines Ausflugs zum Chausseehaus, 1933
+ - Abb 6.jpg:
+    format: rechts
+    unterzeile: Die Familie nach der Haftentlassung Arndts, 1939
+ - Abb 7.jpg:
+    format: rechts
+    unterzeile: k.a.
+geburtsdaten: 26.06.1899 – 13.11.1940
+name: Konrad Arndt
+beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“ als Kulturstaatssekretär vorgesehen
+---
+
+
+
 1926 war der im pommerschen Stolp geborene und in Elmshorn aufgewachsene
 Bautzener Funktionär des Deutschen Metallarbeiter-Verbandes nach
 Wiesbaden gekommen, um fortan als Arbeitersekretär beim hiesigen
