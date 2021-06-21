@@ -2,11 +2,11 @@ Der deutschnationale Monarchist hatte die Machtübertragung an Hitler am
 30. Januar 1933 im Grunde begrüßt. Deshalb hat der Gauführer des
 paramilitärischen, strikt antirepublikanisch positionierten
 Wehrverbandes Stahlhelm, Bund der Frontsoldaten auch tags darauf
-zusammen mit seinen Kameraden am Wiesbadener „Hitler-Huldigungsmarsch"
+zusammen mit seinen Kameraden am Wiesbadener „Hitler-Huldigungsmarsch“
 teilgenommen. Doch bald schon setzte ein Desillusionierungsprozess ein,
 der ihn zunehmend in Distanz zum NS-Regime rücken ließ. Sein zwar
-bereits 1933/34 „gleichgeschalteter" Wehrverband konnte bis zu seiner
-endgültigen Auflösung wegen angeblich „staatsfeindlichen Treibens" im
+bereits 1933/34 „gleichgeschalteter“ Wehrverband konnte bis zu seiner
+endgültigen Auflösung wegen angeblich „staatsfeindlichen Treibens“ im
 Jahr 1935 allerdings noch ein gewisses organisatorisches Eigenleben
 beibehalten. So hat Buttersack z. B. in jenem Jahr demonstrativ eine
 halbe Hundertschaft Stahlhelm-Leute zum Neujahrsgottesdienst der

@@ -34,22 +34,22 @@ und sein Domizil sogar einmal von einem bewaffneten SA-Trupp heimgesucht
 worden ist, setzte Krüger seine antifaschistische Arbeit unter nun
 illegalen Bedingungen fort. So sorgte er von einem unverdächtigen
 Ausweichquartier aus dafür, dass die beiden RGO-Betriebszeitungen
-„Scheinwerfer" und „Kommunalarbeiter" noch eine Weile weiter erscheinen
+„Scheinwerfer“ und „Kommunalarbeiter“ noch eine Weile weiter erscheinen
 konnten.
 
 Hierbei zeigte sich, dass die KPD und deren Nebenorganisationen all
-ihren zu jener Zeit an die SPD gerichteten „Einheitsfront"-Aufrufen zum
+ihren zu jener Zeit an die SPD gerichteten „Einheitsfront“-Aufrufen zum
 Trotz insbesondere deren Funktionäre nach wie vor genauso rigoros
 bekämpften wie die Faschisten. So brachte die Mai-Nummer des
-„Scheinwerfer", des RGO-Organs für die Belegschaft der Verkehrsbetriebe
+„Scheinwerfer“, des RGO-Organs für die Belegschaft der Verkehrsbetriebe
 Wiesbaden, unter der Überschrift „Achtung S.P.D.-Arbeiter! Der Verrat
-Eurer Führer geht noch weiter!" einen Artikel, durch den die frühen
+Eurer Führer geht noch weiter!“ einen Artikel, durch den die frühen
 sozialdemokratischen Widerstandsbestrebungen im Rhein-Main-Gebiet
 skrupellos publik gemacht wurden. Deren Anführer, der
 Reichstagsabgeordnete Dr. Carlo Mierendorff sowie der vormalige
 Vorsitzende des Sozialistischen Deutschen Studenten-Bundes an der
 Frankfurter Universität Siegfried Höxter, wurden darin obendrein noch
-mit ihren Klarnamen genannt, was einer -- freilich unausgesprochenen --
+mit ihren Klarnamen genannt, was einer – freilich unausgesprochenen –
 Aufforderung an die NS-Verfolger gleichkam, deren Aktivitäten doch
 möglichst bald ein Ende zu bereiten.
 
@@ -98,7 +98,7 @@ Engagement im hier ebenfalls nur kurzzeitig bestehenden
 Einheitsausschuss von SPD und KPD. 1946 arbeitete er mit im Beratenden
 Landesausschuss und in der Verfassungberatenden Landesversammlung
 Groß-Hessen. Im selben Jahr wurde er Geschäftsführender Sekretär der
-Gewerkschaft Öffentliche Verwaltungen und Betriebe -- Bezirk Wiesbaden,
+Gewerkschaft Öffentliche Verwaltungen und Betriebe – Bezirk Wiesbaden,
 der späteren Gewerkschaft Öffentliche Dienste, Transport und Verkehr
 (ÖTV), rückte in den Landesvorstand seiner Partei auf und wurde in den
 Hessischen Landtag gewählt, dem er bis 1950 angehörte. Von 1948 bis 1952

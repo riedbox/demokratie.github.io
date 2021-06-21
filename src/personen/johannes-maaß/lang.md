@@ -15,33 +15,33 @@ und Kommissionen. Auch engagierte Maaß sich für eine damalige kleine
 Volksschullehrer-Gewerkschaft, deren hiesigen Zweigverein er 1912
 mitgegründet hatte. Darüber hinaus veröffentlichte er etliche
 pädagogisch-politische Schriften, darunter die beide 1919 erschienenen
-Broschüren „Demokratie, Sozialismus und Schule" und „Die Volksschule im
-Volksstaat".
+Broschüren „Demokratie, Sozialismus und Schule“ und „Die Volksschule im
+Volksstaat“.
 
 Im Fokus seines schulischen wie außerschulischen Schaffens stand stets
 die Demokratieerziehung. Getreu seinem Kredo „Den Schwachen helfen, der
-Gerechtigkeit dienen" galt sein besonderes Augenmerk dabei der
+Gerechtigkeit dienen“ galt sein besonderes Augenmerk dabei der
 Arbeiterschaft, den Arbeitslosen und der schulentlassenen Jugend.
 Deshalb wurde von ihm auch in Kooperation mit Georg Buch von der
 Sozialistischen Arbeiterjugend (SAJ), welche bereits seit geraumer Zeit
 ein kleineres diesbezügliches Bildungsprogramm durchführte, speziell für
 diese SPD-Jugendorganisation ein umfassendes, an der VHS angesiedeltes
-Kursprogramm entwickelt: Die „Schule der Arbeiterjugend" startete mit
+Kursprogramm entwickelt: Die „Schule der Arbeiterjugend“ startete mit
 ihren Veranstaltungen im Frühjahr 1932, war eigentlich auf drei Jahre
 angelegt und erfreute sich sogleich ziemlich großen Zuspruchs. Zur
 Heranbildung entsprechend qualifizierter jüngerer sozialdemokratischer
 Führungskräfte wurde dort eine Vielzahl politischer, ökonomischer,
 juristischer und sonstiger Themen behandelt, so z. B. die beiden
-brandaktuellen Probleme „Bolschewismus und Faschismus" und die
-entsprechend höchstbrisante Frage „Demokratie oder Diktatur?". Doch
+brandaktuellen Probleme „Bolschewismus und Faschismus“ und die
+entsprechend höchstbrisante Frage „Demokratie oder Diktatur?“. Doch
 jener frühe lokale Ansatz zu systematischer staatsbürgerlicher
 Bildungsarbeit im demokratiestabilisierenden Sinne wurde schon bald nach
-der Machtübergabe an die „Nationalsozialisten" von diesen zunichte
+der Machtübergabe an die „Nationalsozialisten“ von diesen zunichte
 gemacht.
 
 Nachdem die NSDAP von ihm noch kurz zuvor nicht zuletzt wegen ihrer von
 ihm dezidiert als unsinnig und demokratiefeindlich verurteilten „Blut
-und Rasse"- bzw. ihrer „Blut und Boden"-Ideologie heftig kritisiert
+und Rasse“- bzw. ihrer „Blut und Boden“-Ideologie heftig kritisiert
 worden war, sah Maaß sich im Frühjahr 1933 gezwungen, vom Vorsitz des
 Volkshochschulbundes und als Studienleiter der VHS zurückzutreten wie
 auch aus seiner Partei auszutreten. Als ehrenamtliches
@@ -74,7 +74,7 @@ abzuschirmenden Parteifunktionäre ebenso wie eine bestimmte Kerngruppe
 nicht minder zuverlässiger, doch bis 1933 noch nicht sonderlich
 hervorgetretener jüngerer Sozialdemokraten unauffällig zusammenzuhalten
 und in ihrer Gesinnungstreue zu festigen, damit mit ihnen nach dem Ende
-des „Dritten Reiches" unverzüglich die demokratische Reorganisation in
+des „Dritten Reiches“ unverzüglich die demokratische Reorganisation in
 Angriff genommen werden konnte.
 
 Elf Jahre lang stand Maaß unter Polizeiaufsicht, sah sich fortgesetzt
@@ -101,7 +101,7 @@ jener Zeit zwecks Anwerbung neuer Mitstreiter für den Widerstand
 durchgeführten Wiesbaden-Besuch neben dem einstigen Junglehrer-Obmann
 des aufgelösten Preußischen Lehrervereins Walter Jude auch Johannes Maaß
 aufgesucht hat, entzieht sich unserer Kenntnis, ist aber nicht völlig
-auszuschließen. Und nicht anders lässt sich Maaß' unmittelbare oder auch
+auszuschließen. Und nicht anders lässt sich Maaß‘ unmittelbare oder auch
 nur indirekte Verbindung zum von Heinrich Maschmeyer konspirativ
 angeleiteten hiesigen Vertrauensleutestützpunkt Leuschners zwar als
 wahrscheinlich annehmen, nicht jedoch hieb- und stichfest nachweisen.

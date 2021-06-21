@@ -1,5 +1,6 @@
 ---
 title: LangBiografie
+hauptbild: Abb 1.jpg
 bilder:
  - Abb 2.jpg:
     format: links
@@ -20,10 +21,6 @@ beschreibung: Chef des Generalstabes des Heeres, Generaloberst a. D., Haupt der 
 geburtsdaten: 29.06.1880 - 20.07.1944
 name: Ludwig Beck
 ---
-
-{{ bilder }}
-
-**Ludwig Beck**
 
 Der Sohn des auch kommunalpolitisch engagierten Eigentümers der
 Biebricher Eisen- und Stahlgießerei Rheinhütte Prof. Dr. Ludwig Beck
@@ -53,7 +50,7 @@ Beck den Aufstieg Deutschlands zur zentraleuropäischen Hegemonialmacht
 ermöglichen wollte, waren dies für Hitler unabdingbare Voraussetzungen
 zur Vorbereitung des von ihm angestrebten großen Expansionskrieges.
 
-![General Ludwig Beck](bilder/Abb 2.jpg){: .bild .links}
+{{ bild(bilder, 0) }}
 Von Beck, inzwischen zum General der Artillerie befördert, sind
 begrenzte, rasch durchgeführte Kriege in Mitteleuropa zur Durchsetzung
 deutscher Interessen nie ausgeschlossen worden. Gleichwohl hatte ihn
@@ -90,8 +87,7 @@ Carl Goerdeler. Beide waren nicht nur Hauptakteure, sondern vielmehr
 unangefochtene Anführer der diesbezüglichen zivil-militärischen
 Opposition bürgerlicher Prägung.
 
-![In Becks Domizil in Berlin-Lichterfelde fanden viele
-konspirative Treffen der Widerständler des „20. Juli“ statt.](bilder/Abb 3.jpg){: .bild .links}
+{{ bild(bilder, 1) }}
 Daneben unterhielt Beck spätestens seit 1939 klandestine Beziehungen
 auch mit Vertretern der demokratischen Linken, insbesondere mit dem
 früheren hessischen Innenminister und sozialdemokratischen
@@ -110,7 +106,7 @@ die eines ständestaatlich-autoritären Staatswesens ab, was aber von
 Leuschner und seinen Mitstreitern bestimmt nicht akzeptiert worden wäre,
 wenigstens nicht auf Dauer. Auch an der Ausarbeitung bzw. der
 Überarbeitung von Aufrufen an die Wehrmacht und an die Zivilbevölkerung
-war Beck beteiligt. ![Aus dem Gedenkblock zum 20. Jahrestag des Umsturzversuchs](bilder/Abb 4.jpg){: .bild .rechts}Mit Nachdruck bestand er darauf, dass am politischen
+war Beck beteiligt. {{ bild(bilder, 2) }} Mit Nachdruck bestand er darauf, dass am politischen
 Charakter des geplanten Staatstreichs auch von den beteiligten Militärs
 nicht gerüttelt wurde. Aus demselben Grund forderte er seit Herbst 1943
 die Benennung sogenannter Politischer Beauftragter und Unterbeauftragter
@@ -135,15 +131,14 @@ werden müsse, darin waren sich keineswegs nur die in die Verschwörung
 involvierten, bereits seit gut einem Jahrzehnt miteinander verbündeten
 christlichen, liberalen und sozialdemokratischen Widerständler einig.
 
-![1964 am Biebricher Elternhaus in der Rheingaustraße 138 / Ecke
-Am Parkfeld angebrachte Gedenktafel](bilder/Abb 5.jpg){: .bild .links}
+{{ bild(bilder, 3) }}
 Nachdem der Aufstand binnen weniger Stunden in sich zusammengebrochen
 war, wurde Beck am späten Abend des 20. Juli 1944 in der Befehlszentrale
 der Verschwörung, dem Oberkommando des Heeres im Berliner Bendlerblock,
 gefangen genommen und – als sein Versuch, sich selbst zu töten, zweimal
 gescheitert war – gegen Mitternacht erschossen.
 
-![Gedenktafel in der Wiesbadener Diltheyschule](bilder/Abb 6.jpg){: .bild .rechts  data-toggle="modal" data-target="#exampleModal"}
+{{ bild(bilder, 4) }}
 An ihn erinnern in Wiesbaden eine Gedenktafel am Wohnhaus der Eltern in
 Biebrich, die Ludwig-Beck-Schule auf dem Gräselberg, eine Gedenktafel in
 der Pausenhalle der Diltheyschule und biographische Hinweise auf deren
@@ -151,52 +146,3 @@ Homepage sowie der durch die hessische Landeshauptstadt verliehene
 Ludwig-Beck-Preis für Zivilcourage.
 
 Dr. Rolf Faber
-
-
-
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <div id="carouselExample" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carouselExample" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExample" data-slide-to="1"></li>
-            <li data-target="#carouselExample" data-slide-to="2"></li>
-            <li data-target="#carouselExample" data-slide-to="3"></li>
-          </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img class="d-block w-100" src="https://images.unsplash.com/photo-1546853020-ca4909aef454?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="First slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="https://images.unsplash.com/photo-1546534505-d534e27ecb35?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="https://images.unsplash.com/photo-1546111380-cfca9a43dd85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="Third slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="https://images.unsplash.com/photo-1547288242-f3d375fc7b5f?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="Fourth slide">
-            </div>
-          </div>
-          <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>

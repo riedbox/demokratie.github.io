@@ -4,7 +4,7 @@ heraufziehenden faschistischen Gefahr gewarnt. Deshalb war er am Ende
 der Weimarer Republik ständig verbalen Anfeindungen, verschiedentlich
 sogar körperlichen Attacken ausgesetzt. Nachdem er ein von SA-Leuten am
 24. März 1933 verübtes Messerattentat mit knapper Not überlebt hatte,
-wurde er von den „Nationalsozialisten" zwei Monate später aus seinem
+wurde er von den „Nationalsozialisten“ zwei Monate später aus seinem
 gewerkschaftlichen Beschäftigungsverhältnis fristlos entlassen. Trotz
 fortwährender polizeilicher Überwachung, wiederholten Haussuchungen und
 mehrmaliger tage- bzw. wochenlanger Inhaftierung blieb Arndt in

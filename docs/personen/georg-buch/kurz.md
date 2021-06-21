@@ -15,7 +15,7 @@ bald aufgegeben, nicht aber die Sammlung von Unterstützungsgeldern für
 verfolgte Gesinnungsfreunde. Erst Anfang 1941 wurde eine Denunziation
 Buchs Gruppe zum Verhängnis. Insgesamt zwölf Widerständlerinnen und
 Widerständler wurden daraufhin zu Haftstrafen verurteilt. Er selbst
-hatte als deren „maßgebender geistiger Führer" eine Gefängnisstrafe von
+hatte als deren „maßgebender geistiger Führer“ eine Gefängnisstrafe von
 zweieinhalb Jahren zu verbüßen. Anschließend wurde er noch in den
 berüchtigten Konzentrationslagern Hinzert und Sachsenhausen
 drangsaliert. Nach seiner Befreiung im Frühjahr 1945 engagierte er sich

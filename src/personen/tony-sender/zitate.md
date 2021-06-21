@@ -8,23 +8,23 @@ bedeutet als neben der Vernichtung der Freiheit auch die Vernichtung
 aller Kulturwerte, die sich die Menschheit geschaffen hat, dass er
 bedeutet ein würdeloses Dasein für alle Menschen von Charakter, dass er
 bedeutet den Tod des freien geistigen Lebens, den Tod auch der freien
-Forschung. (...) Der Sinn der Erhaltung der Demokratie ist aber auch die
+Forschung. (…) Der Sinn der Erhaltung der Demokratie ist aber auch die
 Erhaltung der sozialen Errungenschaften. (aus dem Protokoll des
 Leipziger SPD-Parteitages, 1931)
 
 Was war unser Verbrechen? Die Freiheit zu sehr geliebt zu haben. Aber
 wie hätte ich anders gekonnt? War nicht mein ganzes Leben ein Kampf um
-mehr Freiheit gewesen -- um gesellschaftliche Bedingungen, unter denen
+mehr Freiheit gewesen – um gesellschaftliche Bedingungen, unter denen
 jedes Individuum die Bedürfnisse empfinden und befriedigen kann, die uns
 erst zum Menschen machen? (aus ihrer Autobiographie, 1939)
 
 Denn niemals kann durch das Wirken zersplitterter Gruppen ein
-regierender Faschismus überwunden werden. Hierzu ist unerlässlich -- die
+regierender Faschismus überwunden werden. Hierzu ist unerlässlich – die
 ganze geschlossene, antifaschistische revolutionäre Front. Für den Sturz
 des deutschen Faschismus und damit auch für die Überwindung des
 faschistischen Gedankens in Europa arbeiten, bedeutet darum in erster
 Linie, alle Bemühungen einsetzen für die Sammlung und die Einigung.
-(aus: „Die Neue Weltbühne", 22. November 1934)
+(aus: „Die Neue Weltbühne“, 22. November 1934)
 
 Man ist in diesen Tagen der grässlichen deutschen Barbarei gegen die
 Juden ganz verstört. Schwer, den Willen zum Leben zu behaupten.

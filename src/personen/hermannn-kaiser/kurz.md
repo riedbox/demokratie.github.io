@@ -20,7 +20,7 @@ Stellvertretenden Generalkommando XII Wiesbaden und zu einigen hiesigen
 zivilen NS-Gegnern. Bei einem geglückten Umsturz hätte er zunächst in
 die wichtige Funktion des Verbindungsoffiziers zwischen dem OKH und dem
 Wehrkreis XII rücken sollen. Am 17. Januar 1945 ist Hermann Kaiser vom
-„Volksgerichtshof" zum Tode verurteilt worden. Das Urteil wurde eine
+„Volksgerichtshof“ zum Tode verurteilt worden. Das Urteil wurde eine
 Woche später im Hinrichtungsschuppen der Strafanstalt Berlin-Plötzensee
 vollstreckt.
 

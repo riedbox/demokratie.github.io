@@ -12,9 +12,9 @@ Deutschlands (USPD) gewesen. In der Novemberrevolution des folgenden
 Jahres ist Sender als Generalsekretärin der Exekutive des Frankfurter
 Arbeiterrates hervorgetreten. Schon bald war sie von ihrer Partei mit
 der Redaktionsleitung ihrer neuen Tageszeitung für den Südwesten
-„Volksrecht" betraut worden. Seit 1920 wirkte sie zudem als Redakteurin
+„Volksrecht“ betraut worden. Seit 1920 wirkte sie zudem als Redakteurin
 der vom Deutschen Metallarbeiter-Verband herausgegebenen
-„Betriebsräte-Zeitschrift", für die sie bis 1933 über 400 Artikel
+„Betriebsräte-Zeitschrift“, für die sie bis 1933 über 400 Artikel
 schrieb.
 
 Der Frankfurter Stadtverordnetenversammlung hat Toni Sender von 1919 bis
@@ -27,8 +27,8 @@ Parteiausschuss der SPD gehörte sie seit 1922 an, Mitglied ihrer
 Programmkommission war sie bis 1924, und überdies wirkte sie ab 1928 als
 einziges weibliches Mitglied in der Wehrkommission beim
 SPD-Parteivorstand mit. Obendrein noch ist ihr damals die Redaktion der
-SPD-Illustrierten „Frauenwelt" übertragen worden, während sie im
-Informationsorgan für die Funktionärinnen ihrer Partei „Die Genossin"
+SPD-Illustrierten „Frauenwelt“ übertragen worden, während sie im
+Informationsorgan für die Funktionärinnen ihrer Partei „Die Genossin“
 ebenfalls eifrig publizierte. Darüber hinaus trat sie seinerzeit nicht
 nur in der Reichshauptstadt und in Sachsen, sondern in vielen deutschen
 Städten, verschiedentlich zudem in Belgien, Frankreich und den USA als
@@ -51,7 +51,7 @@ März, noch am Wahltag, Hals über Kopf aus Deutschland zu fliehen.
 Ihren Kampf gegen den Faschismus an der Macht setzte die vorerst völlig
 Mittellose erst von der Tschechoslowakei, seit dem Sommer 1933 dann von
 Belgien aus fort. In Antwerpen, wo sie als außenpolitische
-Leitartiklerin für die sozialistische „Volksgazet" arbeitete, stand sie
+Leitartiklerin für die sozialistische „Volksgazet“ arbeitete, stand sie
 schon bald an der Spitze einer Gruppe ebenfalls hierher geflüchteter
 Sozialdemokraten, von denen viele dem Reichsbanner Schwarz-Rot-Gold
 angehörten. Diese unterhielten einen illegalen Kurierdienst, um vor
@@ -63,16 +63,16 @@ Untergrundkampf der hiesigen Antifaschisten.
 
 Nach zwei mehrmonatigen Vortragsreisen quer durch die USA, die wiederum
 der Aufklärung über das faschistische Deutschland und die dortige
-Widerstandsbewegung dienten, fasste die im Vorjahr vom „Dritten Reich"
+Widerstandsbewegung dienten, fasste die im Vorjahr vom „Dritten Reich“
 Ausgebürgerte Ende 1935 den Entschluss, nicht mehr nach Belgien
 zurückzukehren. Anfangs lebte sie in Washington, bald darauf in New
 York. Zunächst arbeitete sie für eine Pariser und eine Brüsseler Zeitung
 als Auslandskorrespondentin, schrieb aber u. a. auch für die in New York
-erschienene deutschsprachige „Neue Volkszeitung". Diese war ebenso
+erschienene deutschsprachige „Neue Volkszeitung“. Diese war ebenso
 antifaschistisch wie antikommunistisch ausgerichtet und ist dabei
 deutlich sozialdemokratisch positioniert gewesen. Nachdem sie Ende 1936
 zu den Unterzeichnern des Pariser Volksfront-Aufrufs „Für Frieden,
-Freiheit und Brot!" gehört hatte, informierte sie sich Mitte des
+Freiheit und Brot!“ gehört hatte, informierte sie sich Mitte des
 nächsten Jahres während einer ausgedehnten Europareise u. a. über den
 Bürgerkrieg in Spanien sowie über die Volksfront-Regierung in
 Frankreich. Kaum in die USA zurückgekehrt, trat Sender der American
@@ -82,7 +82,7 @@ deutschen Juden die Einwanderung in die Vereinigten Staaten
 ermöglichten.
 
 Auch ihrem 1939 veröffentlichten Rückblick „The Autobiography of a
-German Rebel" hat sie selbstredend eine dezidiert antinazistische
+German Rebel“ hat sie selbstredend eine dezidiert antinazistische
 Stoßrichtung verliehen. Ihren Lebensunterhalt bestritt sie seinerzeit
 nicht nur als Journalistin, sondern daneben als überaus gefragte
 Vortragsrednerin zu allen möglichen brandaktuellen, auch
@@ -135,7 +135,7 @@ Freier Gewerkschaften, auf den das AFL-Mandat übergegangen war, auch für
 die deutsche Bevölkerung verwenden. Das bis zu ihrem Ausscheiden Ende
 1956 für sie fraglos bestimmende Thema war die Bekämpfung von Sklaverei
 und Zwangsarbeit, und zwar vor allem in der von ihr als „roter
-Faschismus" klassifizierten Sowjetunion und in deren Satellitenstaaten,
+Faschismus“ klassifizierten Sowjetunion und in deren Satellitenstaaten,
 was dementsprechend für heftigste Konflikte mit dem kommunistischen
 Weltgewerkschaftsbund sorgte.
 

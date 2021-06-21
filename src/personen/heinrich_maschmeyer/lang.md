@@ -21,7 +21,7 @@ vorgehen zu lassen, hatte es am Ende auch in Hessen nicht vermocht, die
 NS-Machtübernahme zu verhindern.
 
 Bereits im März 1933 wurde der diesen daher extrem verhasste
-Leuschner-Getreue, der zuvor mit sofortiger Wirkung „beurlaubt" worden
+Leuschner-Getreue, der zuvor mit sofortiger Wirkung „beurlaubt“ worden
 war und seine Schusswaffen hatte abgeben müssen, von Wormser SA- und
 SS-Leuten verhaftet und in das gerade erst in einer stillgelegten
 Papierfabrik im nahen Osthofen errichtete KZ verschleppt. Dieses diente
@@ -35,19 +35,19 @@ Demütigungen, Schikanen und Quälereien führten schließlich dazu, dass er
 einen ersten Herzinfarkt erlitt, der im April zu seiner Haftentlassung
 führte.
 
-Mitte 1933 gab er -- gewiss als Schutzbehauptung -- an, er sei bereits
-Im Februar 1933 aus der SPD ausgetreten. Doch auch dies konnte seine am
-22. Juni 1933 verfügte Entlassung aus dem hessischen Staatsdienst
-aufgrund des neuen „Gesetzes zur Wiederherstellung des
-Berufsbeamtentums" nicht verhindern. Um dem ständigen Überwachungsdruck
-und auch den sonstigen Nachstellungen der Wormser Nazis zu entgehen,
-wich er mit seiner Familie alsbald nach Frankfurt aus. Im Jahr darauf
-ließ er sich in Wiesbaden nieder. Da er zunächst ohne Ruhegehalt
-dastand, war er gezwungen, das von seinem Vater ererbte Haus in
-Offenbach zu veräußern, und zwar erheblich unter Wert. Sodann erzielte
-er sein Auskommen mit einer Lebensmittelgroßhandlung. Erst nach
-Klageführung beim Landgericht Darmstadt ist ihm eine allerdings um 25
-Prozent gekürzte Pension gewährt worden.
+Mitte 1933 gab er – gewiss als Schutzbehauptung – an, er sei bereits Im
+Februar 1933 aus der SPD ausgetreten. Doch auch dies konnte seine am 22.
+Juni 1933 verfügte Entlassung aus dem hessischen Staatsdienst aufgrund
+des neuen „Gesetzes zur Wiederherstellung des Berufsbeamtentums“ nicht
+verhindern. Um dem ständigen Überwachungsdruck und auch den sonstigen
+Nachstellungen der Wormser Nazis zu entgehen, wich er mit seiner Familie
+alsbald nach Frankfurt aus. Im Jahr darauf ließ er sich in Wiesbaden
+nieder. Da er zunächst ohne Ruhegehalt dastand, war er gezwungen, das
+von seinem Vater ererbte Haus in Offenbach zu veräußern, und zwar
+erheblich unter Wert. Sodann erzielte er sein Auskommen mit einer
+Lebensmittelgroßhandlung. Erst nach Klageführung beim Landgericht
+Darmstadt ist ihm eine allerdings um 25 Prozent gekürzte Pension gewährt
+worden.
 
 Aufgrund seines polizeilichen Fachwissens war Maschmeyer klar, dass er
 weiterhin mit Observation zu rechnen hatte. Auch um nur niemand sonst in
@@ -77,8 +77,8 @@ einem seiner Mitstreiter, was sich aber wie so vieles andere in jenem
 Zusammenhang nicht mehr erhellen lässt. Jedenfalls hat der in jene
 Aktivitäten selbst involvierte Heidelberger Widerständler Emil Henk
 bereits 1946 einen Zeitzeugenbericht zur politischen Vorgeschichte des
-Umsturzversuchs vom 20. Juli 1944 veröffentlicht, in dem Maschmeyer --
-leider ohne Nennung näherer Details -- als Leiter des Wiesbadener
+Umsturzversuchs vom 20. Juli 1944 veröffentlicht, in dem Maschmeyer –
+leider ohne Nennung näherer Details – als Leiter des Wiesbadener
 Vertrauensleutestützpunktes aufgeführt wird.
 
 Mit Sicherheit hat er in mehr oder minder intensivem Kontakt gestanden
@@ -86,7 +86,7 @@ mit dem vormaligen hessischen Staatsrat und bis zuletzt engen
 Leuschner-Vertrauten Ludwig Schwamb, dem regionalen Leiter jenes
 Widerstandsnetzwerks im Bereich zwischen Kassel und Heidelberg, der dann
 wie Leuschner sowie etliche ihrer Freunde und Konfidenten wegen
-Beteiligung am „20. Juli" hingerichtet worden ist. Und auch mit dem
+Beteiligung am „20. Juli“ hingerichtet worden ist. Und auch mit dem
 früheren hessischen Landtagsabgeordneten und nachmaligen
 rheinland-pfälzischen Innen-, dann Sozialminister Jakob Steffan, der in
 Leuschners bzw. Schwambs Auftrag von Mainz aus die politische
@@ -107,9 +107,9 @@ dass Maaß just zur selben Zeit, nämlich 1942, damit begonnen hatte,
 umfangreiche reformpädagogische Konzeptionen zu erarbeiten, als auch der
 Darmstädter Experte für die Geschichte der politischen Parteien in
 Deutschland Prof. Dr. Ludwig Bergsträsser für den mit ihm befreundeten
-Leuschner eine erste Denkschrift zu Neuordnungsfragen verfasste --
-beides zweifellos eminent wichtig für die Zeit nach dem ersehnten Ende
-der Diktatur.
+Leuschner eine erste Denkschrift zu Neuordnungsfragen verfasste – beides
+zweifellos eminent wichtig für die Zeit nach dem ersehnten Ende der
+Diktatur.
 
 Über den früheren Reichsbanner-Aktivisten und späteren Wiesbadener
 Regierungspräsidenten Martin Nischalke sowie einen weiteren Mittelsmann
@@ -118,7 +118,7 @@ hielt Maschmeyer überdies eine verdeckte Verbindung aufrecht zum
 um den alsbaldigen Mitgründer der Wiesbadener CDU Heinrich Roos, vordem
 hier ebenfalls Mitglied des Reichsbanners. Auch von dessen
 Oppositionsgruppe führten mehrere Verbindungswege zu Anführern der
-Verschwörung vom „20. Juli" in Berlin bzw. in Frankfurt am Main.
+Verschwörung vom „20. Juli“ in Berlin bzw. in Frankfurt am Main.
 
 Maschmeyers Widerstandsstützpunkt wie auch der Zirkel um Roos blieben
 nach dem Scheitern jenes Umsturzversuchs dank ihrer umsichtigen
@@ -128,12 +128,12 @@ Wiedererrichtung einer Demokratie ins Zeug legen, und zwar nicht zuletzt
 im Rahmen des insbesondere im Freundeskreis um Roos wurzelnden
 Aufbau-Ausschusses Wiesbaden. Doch Maschmeyer war eine Mitwirkung in
 jener sofort nach Einmarsch der US-Truppen basisdemokratisch gebildeten
-„Vertretung aller antinationalsozialistischen Kräfte" unserer Stadt
+„Vertretung aller antinationalsozialistischen Kräfte“ unserer Stadt
 lediglich für kurze Zeit beschieden. Sein früher Tod war wohl eine
 Spätfolge seiner 1933 nur wenige Wochen währenden Inhaftierung im KZ
 Osthofen.
 
-Vor seinem Domizil in der Rheinstraße 97 ist ein „Stolperstein" zur
+Vor seinem Domizil in der Rheinstraße 97 ist ein „Stolperstein“ zur
 Erinnerung an ihn verlegt worden.
 
 Dr. Axel Ulrich

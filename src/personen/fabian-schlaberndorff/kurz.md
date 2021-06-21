@@ -19,14 +19,14 @@ Smolensk beteiligt. Auch fungierte er als Kurier zwischen den
 Oppositionellen an der Ostfront und jenen im Reichsgebiet. Einen Monat
 nach dem gescheiterten Umsturzversuch vom 20. Juli 1944 wurde
 Schlabrendorff festgenommen. Am 16. März 1945 gelang es dem mehrfach
-schwer Gefolterten, vom „Volksgerichtshof" freigesprochen zu werden.
+schwer Gefolterten, vom „Volksgerichtshof“ freigesprochen zu werden.
 Dann wurde ihm jedoch eröffnet, es handele sich um ein Fehlurteil und er
 werde erschossen. Bis er in Südtirol von der US-Army befreit wurde,
 musste er noch die Inhaftierung in drei Konzentrationslagern erleiden.
 Nach dem Krieg setzte er sich für die Wiedererrichtung der Demokratie
 und die Erinnerung an den militärisch-bürgerlichen Widerstand ein. In
 besonderem Maße engagierte er sich für die Belange der Überlebenden des
-„20. Juli" sowie für die der Hinterbliebenen und Nachfahren der Opfer
+„20. Juli“ sowie für die der Hinterbliebenen und Nachfahren der Opfer
 jener antinazistischen Aktion.
 
 \[RF\]

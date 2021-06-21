@@ -10,7 +10,7 @@ Jugendlichen eine Fahrradtour, während der sie sich zu einem Abstecher
 nach Kirchähr im Westerwälder Gelbachtal entschlossen. Hier wollten sie
 nicht nur die Dorfkirche besuchen, sondern auch das vormalige Freizeit-,
 Tagungs- und Wanderheim für die katholischen Jugendlichen des Bistums
-Limburg. Dieses war mittlerweile von den „Nationalsozialisten"
+Limburg. Dieses war mittlerweile von den „Nationalsozialisten“
 beschlagnahmt und der HJ zur Nutzung übergeben worden. Nachdem die
 Limburger gemeinsam mit fünf weiteren Jugendlichen aus dem Dorf
 Frickhofen, die in Kirchähr zu ihnen gestoßen waren, unter Führung
@@ -22,16 +22,16 @@ so auch das PX-Symbol des KJMV. Zum Schluss wurden, wie schon zu Beginn
 der Aktion, mit Steinen einige Fensterscheiben eingeworfen. Nach einer
 Denunziation durch einen Ortsansässigen kam es kurz darauf zur Festnahme
 durch die Gestapo sowie zur Anklageerhebung „wegen Vergehens gegen das
-Heimtücke-Gesetz, Hausfriedensbruchs und Sachbeschädigung". Am 16. Mai
+Heimtücke-Gesetz, Hausfriedensbruchs und Sachbeschädigung“. Am 16. Mai
 1941 wurde Leber vom in Montabaur zusammengetretenen Sondergericht im
 Bezirk des Oberlandesgerichts Frankfurt/M. zu einer achtmonatigen
 Haftstrafe verurteilt, wohingegen sechs seiner an jener antinazistischen
 Spontanaktion beteiligten Glaubensfreunde mit Arreststrafen noch
 glimpflich davonkamen. Während seiner Inhaftierung in der damaligen
 Jugendstrafanstalt Rockenberg bei Butzbach musste Leber Zwangsarbeit in
-einem Steinbruch verrichten und war -- wie schon zuvor als
-Untersuchungshäftling in Frankfurt -- fortgesetzt üblen Misshandlungen
-ausgesetzt. Obwohl er nach seiner Freilassung für „wehrunwürdig" erklärt
+einem Steinbruch verrichten und war – wie schon zuvor als
+Untersuchungshäftling in Frankfurt – fortgesetzt üblen Misshandlungen
+ausgesetzt. Obwohl er nach seiner Freilassung für „wehrunwürdig“ erklärt
 worden war, wurde er im April des folgenden Jahres zu einer
 Radfahr-Schwadron der Wehrmacht eingezogen. Kein Jahr später ist Josef
 Leber mit nur 19 Jahren in der Sowjetunion gefallen.

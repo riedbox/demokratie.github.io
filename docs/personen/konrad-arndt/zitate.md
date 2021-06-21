@@ -6,7 +6,7 @@ und uneinig. Diese bedauerliche Tatsache erfüllt jeden denkenden
 Arbeiter mit größter Sorge. Der sehnlichste Wunsch aller Kameraden,
 einschließlich der Führer der Eisernen Front, geht dahin, dem Faschismus
 eine geschlossene Front der gesamten Arbeiterschaft entgegenzustellen.
-(...) Der gemeinsame Kampf der Arbeiterschaft gegen den Faschismus setzt
+(…) Der gemeinsame Kampf der Arbeiterschaft gegen den Faschismus setzt
 aber vor allem voraus, dass die gehässigen Angriffe, die jetzt wieder
 von den KPD-Führern gegen die Führer der SPD und Eisernen Front
 erfolgen, unterbleiben. (aus dem Offenen Brief Arndts von der
@@ -20,7 +20,7 @@ eindeutig hervor, dass wir mit Ihrer Mitarbeit an dem Aufbauprogramm der
 nationalen Regierung nicht zu rechnen haben, da Sie mit Ihrer Aussage
 das unterstützen, was die SPD und ihre Gewerkschaften in den letzten 14
 Jahren gemacht haben. (aus dem Entlassungsschreiben der
-„Nationalsozialistischen Betriebszellen-Organisation" an Arndt vom 23.
+„Nationalsozialistischen Betriebszellen-Organisation“ an Arndt vom 23.
 Mai 1933)
 
 Die Nazis haben meinen Mann aufgrund seiner gewerkschaftlichen und

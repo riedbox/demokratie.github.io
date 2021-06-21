@@ -30,13 +30,13 @@ paktierte nicht nur mit der Reichswehrführung sowie mit anderen
 dezidiert nationalkonservativen und deutschnationalen Kräften, sondern
 sogar mit der NSDAP. So war es auch für Buttersack nur geboten, sich mit
 seinen Stahlhelm-Kameraden am Abend des 31. Januar 1933 am „Wiesbadener
-Huldigungsmarsch" für Hitler zu beteiligen. Hiermit sollte der Freude
+Huldigungsmarsch“ für Hitler zu beteiligen. Hiermit sollte der Freude
 über die am Vortag erfolgte Ernennung des NSDAP-Vorsitzenden zum
 Reichskanzler Ausdruck verliehen werden, und dies obwohl die Stahlhelmer
-noch kurz zuvor -- und gewiss nicht nur hierorts -- in manch heftige,
-auch tätliche Auseinandersetzung mit SA-Leuten und anderen
-„Nationalsozialisten" verwickelt gewesen sind. Als der Stahlhelm geraume
-Zeit später „gleichgeschaltet" und in die SA eingegliedert wurde,
+noch kurz zuvor – und gewiss nicht nur hierorts – in manch heftige, auch
+tätliche Auseinandersetzung mit SA-Leuten und anderen
+„Nationalsozialisten“ verwickelt gewesen sind. Als der Stahlhelm geraume
+Zeit später „gleichgeschaltet“ und in die SA eingegliedert wurde,
 verweigerte Buttersack sich dem für sich persönlich.
 
 Seine zunehmende Distanzierung vom NS-Regime war schon am 21. Oktober
@@ -46,15 +46,15 @@ auf dem Luisenplatz ersichtlich geworden: Als nämlich hierbei die Parade
 abgehalten wurde, hatte er seinen rechten Arm nicht zum längst
 obligatorischen Hitler-Gruß erhoben, was als unerhörte Schmähung des
 Diktators galt. Und während einer Aufführung von Friedrich Schillers
-„Don Carlos" soll er sich bei der Forderung des Marquis von Posa an den
-spanischen König Philipp II. „Geben Sie Gedankenfreiheit, Sire!" sogar
+„Don Carlos“ soll er sich bei der Forderung des Marquis von Posa an den
+spanischen König Philipp II. „Geben Sie Gedankenfreiheit, Sire!“ sogar
 in seiner Theaterloge erhoben haben, um laut zu applaudieren.
 Insbesondere die kirchenfeindlichen und antijüdischen Maßnahmen und auch
 die vielen sonstigen Schandtaten des NS-Regimes hatten Buttersacks
 fortschreitende Desillusionierung bewirkt.
 
 Als Ende 1933 auch in Wiesbaden ein Pfarrer-Notzusammenschluss nicht
-zuletzt wegen der Einführung des „Arierparagraphen" in der Deutschen
+zuletzt wegen der Einführung des „Arierparagraphen“ in der Deutschen
 Evangelischen Kirche (DEK) gebildet worden war, hatte dieser bereits auf
 die juristische und sonstige Unterstützung Buttersacks zählen können.
 Offenbar auf seine Anregung hin gründete sich im Frühjahr 1934
@@ -72,13 +72,13 @@ Nassau-Hessen entsandt.
 Spätestens seit jenem Jahr wurde er observiert, mehrfach zur Gestapo zum
 Verhör zitiert und wiederholt kurzzeitig in Haft genommen, um ihn auf
 diese Weise auf NS-Kurs zu zwingen. In einem Verfahren, das gegen ihn
-1936 vor dem „Ehrengericht" des NS-Rechtswahrerbundes angestrengt wurde,
+1936 vor dem „Ehrengericht“ des NS-Rechtswahrerbundes angestrengt wurde,
 warf man Buttersack vor, sowohl mit seiner Tätigkeit für die Bekennende
 Kirche als auch als Gauführer des Stahlhelm staatsfeindlichen Zielen
 gedient und obendrein noch eine Jüdin in einem Arbeitsgerichtsprozess
 anwaltlich vertreten zu haben. In einer anderen Streitsache wurde 1937
-moniert, er wende alte, vom „Dritten Reich" längst überwundene „jüdische
-Praktiken" an. Und im Jahr darauf führte die Denunziation abfälliger
+moniert, er wende alte, vom „Dritten Reich“ längst überwundene „jüdische
+Praktiken“ an. Und im Jahr darauf führte die Denunziation abfälliger
 Stammtischäußerungen zu einem weiteren Verfahren, und zwar wegen
 Beleidigung u. a. des Wiesbadener NS-Bürgermeisters Felix Piékarski, das
 aber im Jahr darauf mit Freispruch endete. Trotzdem hatte Buttersack
@@ -100,7 +100,7 @@ der Bergkirchengemeinde gleichfalls eng verbunden war und schließlich in
 Berlin zu den militärischen Anführern des Umsturzversuchs vom 20. Juli
 1944 zählte, unterhielt Buttersack recht intensive Beziehungen.
 
-Weil er seit 1940 „Schenkungen" von Juden an Nichtjuden notariell
+Weil er seit 1940 „Schenkungen“ von Juden an Nichtjuden notariell
 beglaubigt und so deren Besitz vor einer Beschlagnahme bewahrt hatte,
 wurde Buttersack am 6. Mai 1943 verhaftet. Hierbei spielte außerdem ein
 abgefangener Trostbrief eine Rolle, den er an eine zum Zeitpunkt seiner

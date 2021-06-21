@@ -3,22 +3,22 @@
 Das mit am besten organisierte Gebiet war der Bereich zwischen Kassel
 und Heidelberg. Wie sah es in diesem Bereich kurz vor dem 20. Juli
 (1944) aus? Die Zentrale saß in Frankfurt. Sie wurde von dem früheren
-hessischen Staatsrat (Ludwig) Schwamb geleitet. (...) Schwamb setzte zum
+hessischen Staatsrat (Ludwig) Schwamb geleitet. (…) Schwamb setzte zum
 Leiter der nordhessischen Illegalität den heutigen Bezirkssekretär der
 Frankfurter Gewerkschaften (Willi) Richter ein. Für den Bereich
-Frankfurt--Heidelberg wurde (der frühere SPD-Landtags- und
-Reichstagsabgeordnete Jakob) Steffan bestimmt. (...) Steffan übergab in
+Frankfurt–Heidelberg wurde (der frühere SPD-Landtags- und
+Reichstagsabgeordnete Jakob) Steffan bestimmt. (…) Steffan übergab in
 den wichtigsten Großstädten die Leitung erfahrenen Politikern. In
 Frankfurt lag sie in den Händen vo(m nunmehrigen) Kriminalrat
-(Christian) Fries, der sich seinen Stab von Mitarbeitern schuf. (...) In
+(Christian) Fries, der sich seinen Stab von Mitarbeitern schuf. (…) In
 Wiesbaden leitete die Widerstandsbewegung der frühere Polizeidirektor
 (Heinrich) Maschmeyer, ebenfalls ein Sozialist. In Mainz unterstand die
 Illegalität Alfred Freitag, einem Sozialisten, der mit einer
-katholischen Gruppe (...) zusammenarbeitete. (...) In Darmstadt
-organisierte der derzeitige (hessische) Innenminister Heinrich Zinnkann
-die Widerstandsgruppe. (Auszüge aus dem zeitnah erstellten
-Insiderbericht des Heidelberger Widerständlers Emil Henk über die zivile
-Basis des Umsturzversuchs am Beispiel Hessens)
+katholischen Gruppe (…) zusammenarbeitete. (…) In Darmstadt organisierte
+der derzeitige (hessische) Innenminister Heinrich Zinnkann die
+Widerstandsgruppe. (Auszüge aus dem zeitnah erstellten Insiderbericht
+des Heidelberger Widerständlers Emil Henk über die zivile Basis des
+Umsturzversuchs am Beispiel Hessens)
 
 Um Wiesbaden herum bis nach Kassel und Heidelberg sind in vielen Orten
 Genossen tätig, die für bestimmte Aufgaben geeignete Personen
@@ -35,7 +35,7 @@ Gestaltungsaufgaben müssen entsprechend vorbereitet werden, damit wir
 angemessen einzugreifen in der Lage sind. Zugleich ist in Kooperation
 mit anderen die erste Phase des Umsturzes einzuleiten. (Aussage eines
 nach eigenem Bekunden seinerzeit in unserer Stadt „in eine Gemeinschaft
-illegaler sozialistischer Gewerkschafter" eingebundenen
+illegaler sozialistischer Gewerkschafter“ eingebundenen
 Sozialdemokraten, die dieser Anfang September 1943 gegenüber dem damals
 in Ost-Polen als Wehrmachtfunker eingesetzten sudetendeutschen NS-Gegner
 Lorenz Knorr bei einem konspirativen Sondierungsgespräch im Wiesbadener

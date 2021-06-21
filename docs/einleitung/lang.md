@@ -43,7 +43,7 @@ Frühjahr bei einem Fluchtversuch angeschossen, was wenig später seinen
 Tod zur Folge hatte. Einige Monate danach wurde auch dessen
 Parteigenosse Karl Müller erschossen, weil er ebenfalls angeblich einen
 Fluchtversuch unternommen hatte. Hier wie anderenorts kam es schon in
-dieser Frühphase des „Dritten Reiches" außerdem zu zahllosen
+dieser Frühphase des „Dritten Reiches“ außerdem zu zahllosen
 Verhaftungen von NS-Gegnern vor allem aus den beiden unversöhnlich
 zerstrittenen Arbeiterparteien SPD und KPD, die vielfach drakonisch
 bestraft bzw. oftmals umgehend in eines der eilends errichteten
@@ -57,13 +57,13 @@ KPD oder ihrer Nebenorganisationen. Diese hohe Verfolgungsquote der
 Kommunisten rührte zum einen aus ihrer unbestreitbar respektierlichen
 Risikobereitschaft, zum anderen aus ihrer verfehlten politischen
 Lageeinschätzung und der daraus resultierenden verhängnisvollen
-Strategie eines „Massenwiderstandes". Durch die Verbreitung einer
+Strategie eines „Massenwiderstandes“. Durch die Verbreitung einer
 Vielzahl von zum Teil in Wiesbaden, zum Teil von ihrer Bezirksleitung in
 Frankfurt hergestellten, überdies aber auch von ihrem Exilapparat
 eingeschmuggelten antinazistischen Flugblättern und Periodika hofften
 sie, sich dabei allen Ernstes zunächst noch in einer „vorrevolutionären
-Situation" wähnend, das NS-Herrschaftssystem stürzen zu können, um
-anschließend eine „Diktatur des Proletariats" nach stalinistischem
+Situation“ wähnend, das NS-Herrschaftssystem stürzen zu können, um
+anschließend eine „Diktatur des Proletariats“ nach stalinistischem
 Vorbild zu errichten. Wegen des horrenden Verfolgungsdrucks
 zerbröckelten ihre anfänglich noch recht ausgeprägten illegalen
 Organisationsstrukturen auch auf lokaler Ebene bereits nach wenigen
@@ -83,10 +83,10 @@ Doch weder hierdurch noch mit ihrer dafür umso mehr intensivierten
 antinazistischen Flüsterpropaganda ließ sich die bis zuletzt
 größtenteils unbeirrbar nazifizierte Bevölkerung zum Sturz des
 Terrorregimes mobilisieren und damit zur Errichtung des von den
-Kommunisten herbeigesehnten „Räte-Deutschlands". Einige Jahre später
+Kommunisten herbeigesehnten „Räte-Deutschlands“. Einige Jahre später
 erst haben Einzelne von ihnen, etwa der Gewerkschaftssekretär und
 Kommunalpolitiker Paul Krüger, selbstkritisch bekannt, während der
-Weimarer Republik und im „Dritten Reich" unverzeihlich viele politische
+Weimarer Republik und im „Dritten Reich“ unverzeihlich viele politische
 Fehler begangen zu haben.
 
 Die SPD nahm auch in Wiesbaden bereits 1933 Abstand von sämtlichen
@@ -98,17 +98,17 @@ Leserkreise. Dort stand die Bewahrung des Gruppenzusammenhalts, eine
 mehr oder minder systematische politische Schulungsarbeit und dadurch
 die Stabilisierung der demokratischen Gesinnung der Beteiligten für die
 Zeit nach Hitler im Vordergrund des Agierens. Diesem Zweck diente
-hauptsächlich die „Sozialistische Aktion", das über konspirative Kanäle
+hauptsächlich die „Sozialistische Aktion“, das über konspirative Kanäle
 vom Prager Exilvorstand bezogene neue Parteiorgan für die
 antinazistische Inlandsarbeit. Eine der sozialdemokratischen
 Kleinstgruppen bestand bis in die ersten Kriegsjahre hinein in Dotzheim
 um Albert Müller und Luise Schwarz. Eine weitere hatte Konrad Arndt um
-sich geschart, bis er im Herbst 1935 -- übrigens zusammen mit Paul
-Krüger und einigen anderen Wiesbadener Antifaschisten -- ins KZ
-Esterwegen verbracht worden war. 1934/35 führte der damals meist
-arbeitslose Angestelltengewerkschafter Georg Feller zusammen mit seinem
-zuvor aus politischen Gründen aus städtischen Diensten entlassenen
-Kameraden Albert Markloff eine Restgruppe des lokalen Reichsbanners
+sich geschart, bis er im Herbst 1935 – übrigens zusammen mit Paul Krüger
+und einigen anderen Wiesbadener Antifaschisten – ins KZ Esterwegen
+verbracht worden war. 1934/35 führte der damals meist arbeitslose
+Angestelltengewerkschafter Georg Feller zusammen mit seinem zuvor aus
+politischen Gründen aus städtischen Diensten entlassenen Kameraden
+Albert Markloff eine Restgruppe des lokalen Reichsbanners
 Schwarz-Rot-Gold an, welche einen Leserkreis von an die 50
 Gesinnungsfreunden mit der aus Frankfurt über Hochheim und Mainz-Kastel
 bezogenen, auf Dünndruckpapier und im Kleinformat hergestellten
@@ -122,7 +122,7 @@ Auch der vormalige Propagandaleiter der Wiesbadener SPD Georg Buch, dem
 im Frühjahr 1933 die Aufgabe übertragen worden war, die
 Organisationsstrukturen seiner Partei auf die Erfordernisse der
 Illegalität umzustellen, wurde mit einem bestimmten Kontingent der
-„Sozialistischen Aktion" und anderen Anti-Nazi-Schriften aus Frankfurt
+„Sozialistischen Aktion“ und anderen Anti-Nazi-Schriften aus Frankfurt
 beliefert, jedenfalls bis zur Mitte 1934 erfolgten Verhaftung des von
 dort aus operierenden damaligen konspirativen Leiters des
 SPD-Widerstandes in Südwestdeutschland Willy Knothe. Buch schottete
@@ -158,15 +158,15 @@ hätten nach einer geglückten Militäraktion allerorten in die umgehend
 von den bisherigen NS-Funktionsträgern frei gemachten
 entscheidungsrelevanten Positionen in den Kommunal- und
 Landesverwaltungen sowie in der NS-Zwangsorganisation „Deutsche
-Arbeitsfront" rücken sollen, um die Militäroperation von dort aus zu
+Arbeitsfront“ rücken sollen, um die Militäroperation von dort aus zu
 unterstützen und abzusichern, damit möglichst zügig zu demokratischen
 Verhältnissen zurückgekehrt werden könnte. Nach dem gescheiterten
 Umsturzversuch vom 20. Juli 1944 wurde die breite zivile Basis jener
-„Friedensbewegung", so die zeitgenössische Charakterisierung durch die
+„Friedensbewegung“, so die zeitgenössische Charakterisierung durch die
 Exil-SPD, von der im Reichssicherheitshauptamt eingerichteten
 Sonderkommission hier wie überhaupt bloß rudimentär enttarnt. Daher sind
 nur einige der wichtigsten zivilen und militärischen Anführer und
-Unterstützer der Aktion gefasst, vor den „Volksgerichtshof" gestellt,
+Unterstützer der Aktion gefasst, vor den „Volksgerichtshof“ gestellt,
 dort meistenteils zum Tode verurteilt und sodann hingerichtet worden.
 Hierzu gehörte auch Ludwig Schwamb, der frühere hessische Staatsrat und
 enge Vertraute Leuschners, der dessen ziviles Widerstandsnetzwerk in der
@@ -174,7 +174,7 @@ ganzen Region zwischen Kassel und Heidelberg erst von Berlin und zuletzt
 von Frankfurt aus konspirativ angeleitet hatte und der in der
 unmittelbaren Umsturzsituation die Aufgaben des Politischen Beauftragten
 der Verschwörer im Wehrkreis XII Wiesbaden hätte übernehmen sollen. Wäre
-der Coup d'État geglückt, hätte Schwamb hier konsequenterweise an die
+der Coup d’État geglückt, hätte Schwamb hier konsequenterweise an die
 Spitze der neuen nichtnazistischen Regierung in Hessen-Nassau rücken
 sollen.
 
@@ -193,7 +193,7 @@ intern antinazistische Aufklärungsarbeit leistete, widmeten sich der
 Unterstützung rassistisch oder politisch Verfolgter, während einige
 wenige Oppositionelle dort über verdeckte Verbindungen zu einzelnen
 regionalen bzw. reichsweiten Anführern der zivilen Basis der
-Umsturzbewegung des „20. Juli" verfügten. So hatte der frühere
+Umsturzbewegung des „20. Juli“ verfügten. So hatte der frühere
 katholische Arbeitersekretär und ehrenamtliche Wiesbadener Stadtrat
 Ferdinand Grün über eine kleinere, im Rhein-Main-Gebiet verankerte
 Gruppe christlicher Gewerkschafter indirekt Fühlung mit dem
@@ -216,7 +216,7 @@ bei einem Erfolg des Unternehmens sicher etliche davon für die dann auch
 hier möglichst umgehend in Angriff zu nehmende demokratische
 Reorganisationsarbeit herangezogen worden wären.
 
-Welche weiteren Wiesbadener NS-Gegner in die „20. Juli"-Aktivitäten
+Welche weiteren Wiesbadener NS-Gegner in die „20. Juli“-Aktivitäten
 einbezogen gewesen sind bzw. diese sogar als deren Anführer unablässig
 vorangetrieben haben, lässt sich also nur in Einzelfällen mit Gewissheit
 sagen: Ganz ohne Frage gilt dies für den 1938 aus Protest gegen Hitlers
@@ -240,31 +240,30 @@ Wenngleich Hauptmann Kaiser und Beck ebenso wie Dr. Goerdeler und
 Stauffenberg vordem noch nur als rückwärtsgewandt zu bezeichnende
 politische Vorstellungen gehegt hatten, so waren sie doch mit der Zeit
 und sicherlich nicht unbeeinflusst durch Leuschner und seine Mitstreiter
-zur einhelligen Überzeugung gelangt, dass -- so hat es jedenfalls
-Hermann Kaiser in seinem Tagebuch festgehalten -- nach dem Umsturz eine
-„freie Regierung mit eigener selbstgewählter Verfassung" vonnöten sei.
-Während die beiden Brüder Dr. Otto John und Dr. Hans John genauso wie
-Beck und Hauptmann Kaiser ihre Widerstandsaktivitäten in Berlin bzw.
-vorwiegend dort entfalteten, ist Oberleutnant Dr. Fabian von
-Schlabrendorff, ein weiterer wichtiger Netzwerker des „20.
-Juli"-Widerstandes mit Wiesbaden-Bezug, der bereits 1943 an einem
-Attentatsversuch auf Hitler beteiligt gewesen war, häufig als Kurier
-zwischen den oppositionellen Militärs an der Ostfront und jenen im
-Heimatheer im Einsatz gewesen. In unserer Stadt war in das
-Umsturzvorhaben mit Bestimmtheit der Chef des Generalstabes Generalmajor
-Erwin Gerlach eingeweiht, den aber an jenem Donnerstagabend die
-diesbezüglichen Befehle aus der Berliner Zentrale der Verschwörung zu
-spät erreicht haben. Außer Gerlach soll vor Ort mindestens noch der Kern
-der sogenannten Führerreserve in die Staatsstreichpläne eingeweiht
-gewesen sein. Auch mehrere standrechtliche Erschießungen in den Tagen
-nach dem 20. Juli 1944, von denen Zeitzeugen berichteten, lassen darauf
-schließen, dass jener Konspiration in Wiesbaden noch weitere
-Regimegegner angehört hatten, deren Identität jedoch nicht mehr zu
-ermitteln ist.
+zur einhelligen Überzeugung gelangt, dass – so hat es jedenfalls Hermann
+Kaiser in seinem Tagebuch festgehalten – nach dem Umsturz eine „freie
+Regierung mit eigener selbstgewählter Verfassung“ vonnöten sei. Während
+die beiden Brüder Dr. Otto John und Dr. Hans John genauso wie Beck und
+Hauptmann Kaiser ihre Widerstandsaktivitäten in Berlin bzw. vorwiegend
+dort entfalteten, ist Oberleutnant Dr. Fabian von Schlabrendorff, ein
+weiterer wichtiger Netzwerker des „20. Juli“-Widerstandes mit
+Wiesbaden-Bezug, der bereits 1943 an einem Attentatsversuch auf Hitler
+beteiligt gewesen war, häufig als Kurier zwischen den oppositionellen
+Militärs an der Ostfront und jenen im Heimatheer im Einsatz gewesen. In
+unserer Stadt war in das Umsturzvorhaben mit Bestimmtheit der Chef des
+Generalstabes Generalmajor Erwin Gerlach eingeweiht, den aber an jenem
+Donnerstagabend die diesbezüglichen Befehle aus der Berliner Zentrale
+der Verschwörung zu spät erreicht haben. Außer Gerlach soll vor Ort
+mindestens noch der Kern der sogenannten Führerreserve in die
+Staatsstreichpläne eingeweiht gewesen sein. Auch mehrere standrechtliche
+Erschießungen in den Tagen nach dem 20. Juli 1944, von denen Zeitzeugen
+berichteten, lassen darauf schließen, dass jener Konspiration in
+Wiesbaden noch weitere Regimegegner angehört hatten, deren Identität
+jedoch nicht mehr zu ermitteln ist.
 
 Neben diesen allesamt prononciert politisch motivierten
-Widerstandsformen -- auch die oppositionellen Militärs hatten letztlich
-Beweggründe solcher Art -- gab es im Bereich der beiden Großkirchen auch
+Widerstandsformen – auch die oppositionellen Militärs hatten letztlich
+Beweggründe solcher Art – gab es im Bereich der beiden Großkirchen auch
 etliche Beispiele für Proteste gegen die sich mit den Jahren zunehmend
 radikalisierende Gleichschaltungs- und Verfolgungspraxis des NS-Regimes.
 In manchen Fällen lassen sich diese durchaus als Vorformen politischen
@@ -279,7 +278,7 @@ protestantischen Pfarrer angehörte, konnte sich in unserer Stadt auf
 eine Anhängerschaft von zunächst mehreren Hundert, später sogar einigen
 Tausend Gläubigen stützen. Wenngleich es hier wie dort nur in sehr
 seltenen Fällen zur grundsätzlichen politischen Zurückweisung des
-„Dritten Reiches" als totalitäres Herrschaftssystem in toto gekommen
+„Dritten Reiches“ als totalitäres Herrschaftssystem in toto gekommen
 war, so wurde doch durch die ständige NS-Überwachung aller Aktivitäten
 sämtlicher evangelischen und katholischen Geistlichen schon nach kurzer
 Zeit immer öfter festgestellt, dass ihre Gottesdienste und andere
@@ -300,7 +299,7 @@ seines jahrelangen regimekritischen Engagements zu einer Geldstrafe
 sowie zu einer durch die Untersuchungshaft freilich bereits verbüßten
 mehrmonatigen Festungshaft verurteilt worden; er wurde noch vor dem
 Gerichtssaal von der Gestapo erneut verhaftet und musste die folgenden
-sieben Jahre als „persönlicher Gefangener des Führers" u. a. in den
+sieben Jahre als „persönlicher Gefangener des Führers“ u. a. in den
 Konzentrationslagern Sachsenhausen und Dachau darben. In jenem
 berüchtigten KZ nordwestlich von München endete Anfang 1945 das Leben
 von Dr. Hans Buttersack, der sich bis zu seiner Verhaftung zwei Jahre
@@ -331,7 +330,7 @@ oder bei der Beschaffung bzw. Zurverfügungstellung immer wieder zu
 wechselnder illegaler Quartiere für verfolgte Gesinnungsgenossen. Auch
 aus rein humanitären, nur vermeintlich unpolitischen Motiven haben sich
 manche Frauen für NS-Verfolgte engagiert. So hatte Elisabeth Ritter vom
-gleichnamigen, „Unter den Eichen" gelegenen Ausflugslokal den 1944/45 im
+gleichnamigen, „Unter den Eichen“ gelegenen Ausflugslokal den 1944/45 im
 benachbarten KZ-Außenkommando des SS-Sonderlagers Hinzert inhaftierten,
 zumeist aus Luxemburg stammenden politischen Häftlingen Unterstützung
 vielfältiger Art zukommen lassen. Als diese kurz vor Eintreffen der
@@ -340,7 +339,7 @@ kommandiert wurden, konnten einige KZler sich absetzen und durften sich
 bis zu ihrer Befreiung im Café Ritter verborgen halten. Auch manch
 andere Beispiele solcher für die Helfer selbst stets höchst riskanten
 Hilfeleistungen für NS-Verfolgte sind keineswegs nur aus der Endphase
-des „Tausendjährigen Reiches" überliefert. Überaus rar sind Hinweise auf
+des „Tausendjährigen Reiches“ überliefert. Überaus rar sind Hinweise auf
 nichtjüdische Deutsche, die jüdischen Familienangehörigen, Freunden,
 Nachbarn oder Kollegen zum Überleben verholfen haben.
 
@@ -352,7 +351,7 @@ zurückgekehrt sind: So ist die einem jüdischen Elternhaus in Biebrich
 entstammende langjährige SPD-Reichstagsabgeordnete Toni Sender im
 Frühjahr 1933 nach wiederholten massiven antijüdischen Hetztiraden und
 sogar Morddrohungen Hals über Kopf aus Deutschland geflüchtet, um fortan
-vom Exil aus gegen das „Dritte Reich" zu kämpfen. Nach dem Krieg wirkte
+vom Exil aus gegen das „Dritte Reich“ zu kämpfen. Nach dem Krieg wirkte
 sie weiterhin in den USA, deren Staatsbürgerin sie seit 1943 war. Sie
 ist aber gleichwohl ihrer alten Heimat bis an ihr Lebensende verbunden
 geblieben. Der Anteil von Frauen am hier wie aus dem Exil geleisteten
@@ -371,7 +370,7 @@ diesbezüglichen Betätigung. Basisdemokratisch konstituierte sich bereits
 Ende März, Anfang April 1945 auf Initiative von Heinrich Roos der
 überparteiliche Aufbau-Ausschuss Wiesbaden, welcher im Kern in seinem
 vormaligen oppositionellen Freundeskreis wurzelte und sich als
-„Vertretung der antinationalsozialistischen Kräfte" unserer Stadt
+„Vertretung der antinationalsozialistischen Kräfte“ unserer Stadt
 verstand. Daneben rief auch ein Kampfbund gegen den Nazismus die
 Bevölkerung zur konsequenten Beseitigung aller noch vorhandenen
 Überbleibsel der Diktatur auf. Frühere Mitglieder der SPD schlossen sich
@@ -398,8 +397,8 @@ Oberbürgermeister und schließlich als Präsident des Hessischen Landtags.
 Im Interesse der Demokratie seien, so hat Buch in der ersten Sitzung der
 fünf Wochen zuvor wieder frei gewählten Wiesbadener
 Stadtverordnetenversammlung am 2. Juli 1946 betont, vor allen Dingen
-„alle Sonderinteressen auszuschalten", und obendrein müsse immerfort
-beachtet werden, dass „das Gemeinwohl über allem steht".
+„alle Sonderinteressen auszuschalten“, und obendrein müsse immerfort
+beachtet werden, dass „das Gemeinwohl über allem steht“.
 
 Die hier vorgestellten biographischen Porträts von Wiesbadener
 Bürgerinnen und Bürgern, die dem NS-Regime couragiert ihren Widerstand

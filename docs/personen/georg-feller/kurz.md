@@ -9,7 +9,7 @@ unserem Stadtmuseum zu sehen ist, hatte er seinerzeit bei seiner
 Schwester in Sicherheit gebracht. Seit dem Frühjahr 1934 wurde die von
 ihm und Albert Markloff jetzt konspirativ angeleitete Wiesbadener
 Reichsbanner-Gruppe von Frankfurt aus über Mainz-Kastel regelmäßig mit
-der vom Prager Exilvorstand der SPD bezogenen „Sozialistischen Aktion"
+der vom Prager Exilvorstand der SPD bezogenen „Sozialistischen Aktion“
 und anderen antinazistischen Materialien versorgt. Im Herbst 1935
 erfolgten seine und Markloffs Festnahmen. Doch beide verrieten selbst
 unter der Folter keinen der von ihnen politisch beeinflussten rund 50

@@ -58,13 +58,13 @@ sprechen, und wagt es, als Vorteile dieses Verrates zu nennen:
 
 11. Wiedergewinnung von Ehre, Selbstachtung und Achtung!!!
 
-(Auszug aus dem Todesurteil des „Volksgerichtshofs" vom 17. Januar 1945)
+(Auszug aus dem Todesurteil des „Volksgerichtshofs“ vom 17. Januar 1945)
 
 Wenn es unter den Verrätern des 20. Juli überhaupt eine Steigerung an
 Gemeinheit geben kann, so ist einer der Gemeinsten Hermann Kaiser.
 Dreimal hat er unserem Führer den Eid geleistet: als Beamter, als
 Parteigenosse und als Offizier. Diesen Eid hat er schmählich gebrochen!
-(...) Dieser Mann muss ein für alle Mal um unserer Sauberkeit willen, um
+(…) Dieser Mann muss ein für alle Mal um unserer Sauberkeit willen, um
 unserer Ehre willen aus unserer Mitte ausgelöscht werden. Er hat sich
 selbst für immer ehrlos gemacht. (Auszüge aus dem Todesurteil des
-„Volksgerichtshofs" vom 17. Januar 1945)
+„Volksgerichtshofs“ vom 17. Januar 1945)

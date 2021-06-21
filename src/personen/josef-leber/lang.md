@@ -17,7 +17,7 @@ zerrissen worden. Hierbei soll er, wie aus der Anklageschrift des
 Oberstaatsanwalts beim Sondergericht in Frankfurt/M. vom April 1941
 hervorgeht, erklärt haben: „Wir wollen den Brüdern zeigen, dass wir auch
 noch da sind. Wenn man uns auch verbietet und uns unsere Heime abnimmt,
-so lassen wir uns das doch nicht ohne Weiteres gefallen."
+so lassen wir uns das doch nicht ohne Weiteres gefallen.“
 
 Das 1928 eingeweihte Karlsheim hatte bis zu seiner vorläufigen
 Schließung durch die braunen Machthaber im März 1939 der katholischen
@@ -63,8 +63,8 @@ drei Limburger inzwischen Mitglied der HJ. Diese war längst von einer
 Partei- zu einer Staatsorganisation umgewandelt worden, in der nach
 Einführung der Zwangsmitgliedschaft im Jahr 1936 sowie nach der
 sogenannten Jugenddienstverordnung von 1939 nahezu alle deutschen
-Jugendlichen zwischen 10 und 18 Jahren zum -- wie es explizit hieß --
-„Ehrendienst am Deutschen Volke" verpflichtet waren.
+Jugendlichen zwischen 10 und 18 Jahren zum – wie es explizit hieß –
+„Ehrendienst am Deutschen Volke“ verpflichtet waren.
 
 Treibende Kraft bei den antinazistischen Aktivitäten im nunmehrigen, an
 jenem Tag allerdings von den Jung-Nazis nicht genutzten HJ-Heim in
@@ -73,15 +73,15 @@ Dieser verlieh seiner Verärgerung über die Inbesitznahme jener
 Einrichtung durch die NS-Staatsjugend wiederholt deutlich Ausdruck. Die
 ganze Aktion dauerte nicht länger als eine halbe Stunde. Sodann ist noch
 die nahe gelegene Kirche aufgesucht worden, um dort zu beten und das
-Trutzlied der katholischen Pfarrjugend „Nun stehet alle Mann für Mann"
+Trutzlied der katholischen Pfarrjugend „Nun stehet alle Mann für Mann“
 zu singen. Anschließend begaben sich die Jungkatholiken abermals zum
-HJ-Heim, wo sie -- wiederum angefeuert von Leber -- während ihrer
-Abfahrt von jenem Ort wie auch schon zuvor nach ihrem Eintreffen mit
-Steinen mehrere Fensterscheiben einwarfen. Nach ihrer Rückkehr nach
-Limburg besuchten Leber und die drei dort beheimateten Jugendlichen noch
-eine abendliche Jugendpredigt von Kaplan Bokler, der als entschiedener
-Gegner des NS-Regimes galt und in jenen Jahren daher auch mehrfach zum
-Verhör durch die Gestapo zitiert worden ist.
+HJ-Heim, wo sie – wiederum angefeuert von Leber – während ihrer Abfahrt
+von jenem Ort wie auch schon zuvor nach ihrem Eintreffen mit Steinen
+mehrere Fensterscheiben einwarfen. Nach ihrer Rückkehr nach Limburg
+besuchten Leber und die drei dort beheimateten Jugendlichen noch eine
+abendliche Jugendpredigt von Kaplan Bokler, der als entschiedener Gegner
+des NS-Regimes galt und in jenen Jahren daher auch mehrfach zum Verhör
+durch die Gestapo zitiert worden ist.
 
 Zwar war von den Jugendlichen vor dem HJ-Heim sicherheitshalber eine
 Wache postiert worden, aber ein Dorfbewohner hatte dennoch die ganze
@@ -109,7 +109,7 @@ schließlich zu einem Nervenzusammenbruch und in dessen Folge zu seinem
 Tod.
 
 Josef Leber wurde nach seiner Haftentlassung Ende 1941 zwar für
-„wehrunwürdig" erklärt, ist dann aber doch im April 1942 zur Wehrmacht
+„wehrunwürdig“ erklärt, ist dann aber doch im April 1942 zur Wehrmacht
 eingezogen worden und im Krieg gegen die Sowjetunion zum Einsatz
 gekommen. Dort ist er am 13. März 1943 bei Boldino gefallen. Kurz nach
 dem Krieg ist das gegen ihn 1941 verhängte Sondergerichtsurteil als

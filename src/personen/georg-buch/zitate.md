@@ -11,7 +11,7 @@ sieben Genossen teilnehmen.
 Anfangs konnte ich zu solchen Treffen immer noch illegales
 Schriftmaterial mitbringen, das aus Prag stammte und über Frankfurt zu
 uns nach Wiesbaden geleitet wurde. Dabei handelte es sich meist um die
-„Sozialistische Aktion", manchmal aber auch um getarnte Broschüren im
+„Sozialistische Aktion“, manchmal aber auch um getarnte Broschüren im
 Kleinformat.
 
 In der ersten Zeit nach unserem Verbot blieben wir SAJler aufgrund

@@ -38,7 +38,7 @@ Schrebergarten an der Waldstraße in Richtung Dotzheim vergraben worden.
 Waren anfänglich noch zum Teil recht wagemutige antinazistische
 Propagandaaktionen durchgeführt worden, so nahm man des enormen
 Verhaftungsrisikos wegen hiervon bald Abstand. Im September 1933 kam
-Buch für zwei Wochen in der Gersdorff-Kaserne in „Schutzhaft", wie diese
+Buch für zwei Wochen in der Gersdorff-Kaserne in „Schutzhaft“, wie diese
 Zwangsmaßnahme beschönigend genannt wurde. Bei zwei Haussuchungen sind
 bei ihm überdies Materialien und Bücher in großer Zahl konfisziert
 worden.

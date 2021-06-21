@@ -15,13 +15,13 @@ Seine Frau Betty betätigte sich derweil ehrenamtlich für beider Partei
 wie für die Arbeiterwohlfahrt.
 
 Arndts Agitationsreden „gegen Faschismus und Diktatur, für Demokratie
-und Sozialismus" zogen Zuhörer in vielen südhessischen Städten in ihren
+und Sozialismus“ zogen Zuhörer in vielen südhessischen Städten in ihren
 Bann. Fruchtlos blieb indessen sein Versuch, die Wiesbadener Kommunisten
 noch im Februar 1933 zur Unterlassung ihrer unablässigen Angriffe auf
 die Führungsspitzen der Sozialdemokratie zu bewegen. Dies sei nämlich
 die Voraussetzung dafür, wie er in einem „Offenen Brief an die
-KPD-Arbeiter" betonte, endlich „dem Faschismus eine geschlossene Front
-der gesamten Arbeiterschaft" entgegenstellen zu können.
+KPD-Arbeiter“ betonte, endlich „dem Faschismus eine geschlossene Front
+der gesamten Arbeiterschaft“ entgegenstellen zu können.
 
 Nachdem er zuvor bereits mehrmalig von NS-Aktivisten misshandelt worden
 war, verübten am 24. März jenes Jahres drei SA-Leute ein Messerattentat
@@ -29,11 +29,11 @@ auf ihn, bei dem er lebensgefährlich verletzt wurde. Eine Zeit lang
 musste er deshalb in einer Klinik behandelt werden.
 
 Sofort nach der Zerschlagung der freien Gewerkschaftsbewegung durch die
-„Nationalsozialisten" am 2. Mai 1933 wurde er wiederum für kurze Zeit
+„Nationalsozialisten“ am 2. Mai 1933 wurde er wiederum für kurze Zeit
 inhaftiert. Wenig später entließ man ihn fristlos aus seinem
 Arbeitsverhältnis. Dem vorherigen Versuch, ihn zur Mitarbeit in der
 lokalen Leitung der neu geschaffenen faschistischen Zwangsorganisation
-„Deutsche Arbeitsfront" zu bewegen, hatte er sich standhaft widersetzt.
+„Deutsche Arbeitsfront“ zu bewegen, hatte er sich standhaft widersetzt.
 
 Nachdem ihm zunächst untersagt worden war, erneut eine geregelte Arbeit
 aufzunehmen, gelang es ihm dann doch, zumindest einen kleinen mobilen
@@ -83,7 +83,7 @@ In Wiesbaden sind das Alte Gewerkschaftshaus in der Wellritzstraße 49,
 eine Straße im Stadtteil Klarenthal sowie eine Altenwohnanlage und ein
 Altenhilfezentrum der Arbeiterwohlfahrt im Stadtteil Bierstadt nach
 Konrad Arndt benannt. Vor dem früheren Domizil der Familie Arndt in der
-Oestricher Straße 6 erinnert ein „Stolperstein" an den couragierten
+Oestricher Straße 6 erinnert ein „Stolperstein“ an den couragierten
 Nazi-Gegner.
 
 Dr. Axel Ulrich

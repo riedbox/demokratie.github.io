@@ -1,19 +1,19 @@
 **Ludwig Beck**
 
-**29. 6. 1880 -- 20. 7. 1944**
+**29. 6. 1880 – 20. 7. 1944**
 
 **Chef des Generalstabes des Heeres, Generaloberst a. D., Haupt der
 militärisch-bürgerlichen Opposition, designiertes Staatsoberhaupt der
-Verschwörer des „20. Juli"**
+Verschwörer des „20. Juli“**
 
 Die Machtübertragung an Hitler und den daraus resultierenden
-„politischen Umschwung" hatte der Sohn eines Biebricher Fabrikanten als
-„ersten großen Lichtblick seit 1918" empfunden. Strikter Befürworter
+„politischen Umschwung“ hatte der Sohn eines Biebricher Fabrikanten als
+„ersten großen Lichtblick seit 1918“ empfunden. Strikter Befürworter
 einer umgehenden und massiven Wiederaufrüstung, war er im Herbst 1933
 zum Chef des Truppenamtes im Reichswehrministerium ernannt worden, wie
 der Generalstab des Heeres aus Tarnungsgründen damals noch hieß. In den
 nächsten Jahren hatte sich Beck als einer der wichtigsten Begründer der
-Wehrmacht des „Dritten Reiches" profiliert. Als Hitler den Waffengang
+Wehrmacht des „Dritten Reiches“ profiliert. Als Hitler den Waffengang
 gegen die Tschechoslowakei vorbereiten ließ, den Beck zwar nicht für
 grundsätzlich falsch, aber für verfrüht erachtete, war von ihm 1938 der
 kollektive Rücktritt der höchsten Generäle sowie die Ausschaltung der

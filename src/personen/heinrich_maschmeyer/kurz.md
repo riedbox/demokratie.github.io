@@ -2,7 +2,7 @@ Schon im Polizeidienst der Stadt Offenbach, mehr noch aber dann ab 1930
 als Polizeidirektor in Worms hatte der Sozialdemokrat in vorderster
 Front gestanden bei der Bekämpfung der immer stärker werdenden und dabei
 fortwährend aggressiver agierenden NS-Bewegung. Im März 1933 gehörte er
-infolgedessen zu den Ersten, die von den „Nationalsozialisten" verfolgt,
+infolgedessen zu den Ersten, die von den „Nationalsozialisten“ verfolgt,
 ihrer Freiheit beraubt und auf mannigfache Weise drangsaliert worden
 sind. Im KZ Osthofen wurde er damals zusammen mit führenden Wormser
 Kommunisten in eine Zelle gesperrt, wo man ihn mehrfach schwer
@@ -30,6 +30,6 @@ Verfolgungsmaßnahmen nach dem gescheiterten Umsturzversuch vom 20. Juli
 engagierte Maschmeyer sich im Frühjahr 1945 noch für wenigen Wochen im
 damals sogleich basisdemokratisch gebildeten Aufbau-Ausschuss Wiesbaden,
 der sich dezidiert als „Vertretung aller antinationalsozialistischen
-Kräfte der Bürgerschaft" verstanden hat.
+Kräfte der Bürgerschaft“ verstanden hat.
 
 \[AU\]

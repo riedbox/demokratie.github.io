@@ -8,7 +8,7 @@ Ersten Weltkrieges, in dem er als Generalstabsoffizier an der Westfront
 eingesetzt gewesen war, und die Novemberrevolution des Jahres 1918 hatte
 Beck als nationale Schmach empfunden. Erst noch Anhänger der damals
 durchaus nicht nur in bürgerlichen Kreisen weit verbreiteten
-„Dolchstoßlegende", nach welcher der Sieg des deutschen Heeres angeblich
+„Dolchstoßlegende“, nach welcher der Sieg des deutschen Heeres angeblich
 durch die Antikriegsagitation der Sozialdemokratie und das sonstige
 Vorgehen der Revolutionäre verhindert worden sei, revidierte er dieses
 Fehlurteil schließlich.
@@ -19,7 +19,7 @@ Truppen- und Stabsstellen und war dabei massiv an der geheimen
 Aufrüstung beteiligt. Zum Generalleutnant aufgestiegen, wurde er im
 Herbst 1933 zum Chef des Truppenamtes im Reichswehrministerium ernannt,
 so bis 1935 die Tarnbezeichnung des Generalstabes des Heeres. Hitlers
-„Drittem Reich" gegenüber anfänglich noch positiv positioniert, sorgte
+„Drittem Reich“ gegenüber anfänglich noch positiv positioniert, sorgte
 Beck zielstrebig für dessen weitere Aufrüstung. Früh verlangte er die
 Wiedereinführung der Allgemeinen Wehrpflicht und die Remilitarisierung
 des Rheinlandes, was beides von Hitler dann 1935/36 unter Bruch der
@@ -35,12 +35,12 @@ Hitlers Ankündigung vor den höchsten militärischen Befehlshabern sowie
 dem Reichsaußenminister vom 5. November 1937 immens bestürzt, demnächst,
 d. h. bei noch nicht vollständig erfolgter Wiederaufrüstung zunächst die
 Tschechoslowakei und Österreich zu annektieren, um später die Behebung
-der vorgeblichen deutschen „Raumnot" insgesamt ebenfalls auf dem „Weg
-der Gewalt" herbeizuführen. Obwohl ihn die Totalitätsansprüche und die
+der vorgeblichen deutschen „Raumnot“ insgesamt ebenfalls auf dem „Weg
+der Gewalt“ herbeizuführen. Obwohl ihn die Totalitätsansprüche und die
 extreme Amoralität Hitlers und seiner Gefolgschaft bereits seit geraumer
 Zeit abgestoßen hatten, führte erst der höchst riskante Kriegskurs des
 Diktators bei Beck zu jenem, von mehreren Denkschriften markierten
-Distanzierungsprozess, der ihn -- freilich vergebens -- den kollektiven
+Distanzierungsprozess, der ihn – freilich vergebens – den kollektiven
 Rücktritt der Generalität zwecks Bewahrung des Friedens fordern ließ.
 Jener Konflikt endete schließlich mit dem Entlassungsgesuch des
 Generalstabschefs im Sommer 1938.
@@ -88,8 +88,8 @@ nicht gerüttelt wurde. Aus demselben Grund forderte er seit Herbst 1943
 die Benennung sogenannter Politischer Beauftragter und Unterbeauftragter
 für die einzelnen Wehrkreise. Diese sollten am Tag X umgehend
 herangezogen werden und „bis auf weiteres die Aufgaben des
-Verwaltungschefs" übernehmen. Auch sollten sie den jeweiligen
-„Wehrkreisbefehlshaber in allen politischen Fragen" beraten und
+Verwaltungschefs“ übernehmen. Auch sollten sie den jeweiligen
+„Wehrkreisbefehlshaber in allen politischen Fragen“ beraten und
 überhaupt dort für die Durchsetzung der zivilen Ziele der zunächst noch
 auf das Militär gestützten Umsturzregierung sorgen.
 
@@ -100,7 +100,7 @@ hätte aber erst nach dem Ende des Krieges und nach der Durchführung von
 freien Wahlen begründet werden können. Wegen seiner Krebserkrankung wäre
 Beck aber wahrscheinlich schon bald von Wilhelm Leuschner abgelöst
 worden. Dieser sollte zunächst als Vizekanzler fungieren, während Carl
-Goerdeler -- aller Voraussicht nach ebenfalls nur übergangsweise -- das
+Goerdeler – aller Voraussicht nach ebenfalls nur übergangsweise – das
 Amt des Reichskanzlers zugedacht gewesen war. Dass durch jenen Rechts-
 und Verfassungsstaat eine wirkliche soziale Demokratie konstituiert
 werden müsse, darin waren sich keineswegs nur die in die Verschwörung
@@ -110,8 +110,8 @@ christlichen, liberalen und sozialdemokratischen Widerständler einig.
 Nachdem der Aufstand binnen weniger Stunden in sich zusammengebrochen
 war, wurde Beck am späten Abend des 20. Juli 1944 in der Befehlszentrale
 der Verschwörung, dem Oberkommando des Heeres im Berliner Bendlerblock,
-gefangen genommen und -- als sein Versuch, sich selbst zu töten, zweimal
-gescheitert war -- gegen Mitternacht erschossen.
+gefangen genommen und – als sein Versuch, sich selbst zu töten, zweimal
+gescheitert war – gegen Mitternacht erschossen.
 
 An ihn erinnern in Wiesbaden eine Gedenktafel am Wohnhaus der Eltern in
 Biebrich, die Ludwig-Beck-Schule auf dem Gräselberg, eine Gedenktafel in

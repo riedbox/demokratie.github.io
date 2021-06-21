@@ -54,7 +54,7 @@ Wiederaufbauarbeit umgehend in Angriff nehmen zu können.
 Fortan wurde über Peter Hück in Mainz-Kastel antinazistisches
 Propagandamaterial nach Wiesbaden geliefert, insbesondere das in der
 Tschechoslowakei vom dorthin ins Exil ausgewichenen SPD-Vorstand
-herausgegebene Periodikum „Sozialistische Aktion". Da dessen Bezieher
+herausgegebene Periodikum „Sozialistische Aktion“. Da dessen Bezieher
 ihr Exemplar, für das ein geringer Betrag zur Unterstützung der
 Untergrundarbeit zu entrichten war, nach der Lektüre weiterzugeben
 hatten, konnte so ein Leserkreis erreicht werden, der nach Fellers
@@ -76,7 +76,7 @@ antinazistischen Inlandsagitation hergestellten Publikationen der SPD.
 Nachdem Paul Kirchhof, ein enger Mitstreiter Apels, im Juni 1935 auf
 einer Kurierfahrt mit seinem Motorrad in Richtung Wiesbaden seine
 Aktentasche mit den zur Weiterverbreitung vorgesehenen Exemplaren der
-„Sozialistischen Aktion" verloren hatte, konnte die Frankfurter Gestapo
+„Sozialistischen Aktion“ verloren hatte, konnte die Frankfurter Gestapo
 die Spur aufnehmen, die auch hierher führte. Kirchhof hatte nämlich
 weisungswidrig die für die einzelnen Städte und Gemeinden in unserer
 Region bestimmten Kuverts mit Ortskürzeln versehen, was den

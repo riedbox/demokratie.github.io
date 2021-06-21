@@ -38,16 +38,16 @@ André Hoevel, wobei sich ihre gravierenden politischen Differenzen
 allerdings erwartungsgemäß nicht ausräumen ließen.
 
 Die Treffen des auch vom Nervenarzt und einstigen DDP- und
-Reichsbanner-Mitglied Dr. Friedrich Mörchen als, so Roos, dessen „Motor"
+Reichsbanner-Mitglied Dr. Friedrich Mörchen als, so Roos, dessen „Motor“
 angeführten Zirkels fanden in Privatwohnungen statt, in Cafés,
 Restaurants und Hotels. Um sich vor den Überwachungsmaßnahmen des
 Regimes, über die man durch den Kriminalkommissar Werner van Look sowie
 den Telegrapheninspektor Karl Schneider fortwährend informiert wurde,
 noch besser zu schützen, verabredete man sich ebenso zu gemeinsamen
 Waldspaziergängen sowie zu Ausflügen in die nähere Umgebung.
-Gelegentlich wurden antinazistischen Schriften verfasst, die jedoch --
-genauso wie andere, aus dem Ausland beschaffte Informationsmaterialien
--- nur intern verbreitet wurden. Nicht anders galt dies für von
+Gelegentlich wurden antinazistischen Schriften verfasst, die jedoch –
+genauso wie andere, aus dem Ausland beschaffte Informationsmaterialien –
+nur intern verbreitet wurden. Nicht anders galt dies für von
 ausländischen Rundfunksendern bezogene Nachrichten. Wohlweislich sind
 keine Sabotagehandlungen oder ähnlich riskante Aktionen durchgeführt
 worden. Zum selbst gewählten Aufgabengebiet der Solidargemeinschaft
@@ -59,12 +59,12 @@ von Hausverwaltungen betreut, welche zwei Freunde von Roos eröffnet
 hatten, nachdem sie 1933 aus ihren gewerkschaftlichen Funktionen
 gedrängt worden waren. Auch Roos beriet in seinem Büro im Steueramt in
 der Rheinstraße 22 jüdische Geschäftsleute und Hauseigner, um deren
-zwangsläufige Verluste bei der ihnen im Zuge der „Arisierung"
+zwangsläufige Verluste bei der ihnen im Zuge der „Arisierung“
 abgepressten Veräußerung ihres Besitzes in Grenzen zu halten.
 
 Manche Freunde von Roos verfügten über informelle Verbindungen zu
 einigen Protagonisten des militärischen bzw. des zivilen Arms der
-Verschwörung vom „20. Juli 1945": So stand der Kaufmann Ludwig Schwenck
+Verschwörung vom „20. Juli 1945“: So stand der Kaufmann Ludwig Schwenck
 in mehr oder minder regelmäßigem Kontakt mit seinem Freund, dem
 Gymnasiallehrer Hermann Kaiser, der als Hauptmann der Reserve im
 Oberkommando des Heeres in Berlin seit Anfang 1941 zu denen gehörte, die
@@ -73,7 +73,7 @@ Der frühere Sekretär bzw. Bezirksgeschäftsführer des liberalen
 Gewerkschaftsbundes der Angestellten Erich Zimmermann gehörte dem
 Widerstand um seinen Gewerkschaftskollegen Ernst Lemmer an, ebenso dem
 um Jakob Kaiser, den reichsweiten Anführer des Widerstandes christlicher
-Gewerkschafter, und er hatte -- ebenfalls nach eigenem Bekunden -- auch
+Gewerkschafter, und er hatte – ebenfalls nach eigenem Bekunden – auch
 Kontakt zu jenen Anti-Nazi-Kreisen, die sich um den früheren
 SPD-Reichstagsabgeordneten Dr. Julius Leber geschart haben. Ferdinand
 Grün, bis 1933 Sekretär des Bezirksverbandes Wiesbaden der katholischen
@@ -84,7 +84,7 @@ Widerstandsgruppe christlicher Gewerkschafter mit mehreren Stützpunkten
 in der Rhein-Main-Region. Diese wiederum stand in konspirativem Kontakt
 mit dem sozialdemokratischen Gewerkschafter Willi Richter in Frankfurt,
 einem Parteigenossen und engen Mitstreiter des von den Verschwörern des
-„20. Juli" als Vizekanzler der von ihnen geplanten nichtnazistischen
+„20. Juli“ als Vizekanzler der von ihnen geplanten nichtnazistischen
 Reichsregierung ausersehenen Wilhelm Leuschner. Der frühere hessische
 Innenminister und nunmehrige konspirative Gewerkschaftsführer hatte
 Richter Anfang der 1940er-Jahre mit der Organisierung des
@@ -116,11 +116,11 @@ Aussicht auf Erfolg gehabt haben würde.
 
 Nachdem sie im Großen und Ganzen sogar einer Enttarnung durch die
 NS-Fahnder im Anschluss an das Scheitern des Umsturzversuchs vom „20.
-Juli" hatten entgehen können, wurden die beiden lockeren lokalen
+Juli“ hatten entgehen können, wurden die beiden lockeren lokalen
 Widerstandsstrukturen um Maschmeyer und Roos dann Ende März 1945 zu
 Keimzellen des sofort nach dem Einmarsch der US-Kampftruppen von
 Letzterem initiierten Aufbau-Ausschusses Wiesbaden. Diese „Vertretung
-der antinationalsozialistischen Kräfte" der Stadt wurde dann im Herbst
+der antinationalsozialistischen Kräfte“ der Stadt wurde dann im Herbst
 jenes Jahres zum gleichfalls überparteilichen Bürgerrat Wiesbaden
 umstrukturiert, dem zweiten basisdemokratischen Vorläufer des
 schließlich am 26. Mai 1946 erstmals nach 13 Jahren wieder frei

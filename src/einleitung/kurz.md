@@ -35,6 +35,6 @@ Weltkrieges ihr Leben durch Kampfhandlungen, die Vollstreckung von
 Standgerichtsurteilen oder andere NS-Verbrechen verloren haben.
 
 Die meisten Widerständler und Widerständlerinnen, welche die grausame
-zwölfjährige Diktatur der „Nationalsozialisten" lebend überstanden
+zwölfjährige Diktatur der „Nationalsozialisten“ lebend überstanden
 hatten, setzten sich seit dem Frühjahr 1945 unverzüglich für die
 Wiedererrichtung der Demokratie in unserem Lande ein.

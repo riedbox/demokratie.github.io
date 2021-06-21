@@ -3,7 +3,7 @@
 Schon als Student der Rechtswissenschaft gehörte er in seiner
 Geburtsstadt Halle (Saale) zu den Initiatoren einer antinazistischen
 Gruppierung. Hier und dann in Berlin trat der Spross einer alten
-preußischen Adels- und Offiziersfamilie den „Nationalsozialisten" in
+preußischen Adels- und Offiziersfamilie den „Nationalsozialisten“ in
 etlichen ihrer Propagandaversammlungen als Diskussionsredner beherzt
 entgegen. Auch bei seinen eigenen Vortragsveranstaltungen, die er seit
 1931 vielerorts für die Deutschnationale Volkspartei (DNVP) bestritt,
@@ -19,23 +19,23 @@ Reichshauptstadt gelungen, den früheren Sozialdemokraten und nunmehrigen
 Nationalbolschewisten Ernst Niekisch sowie mehrere andere NS-Gegner aus
 einem SA-Keller zu befreien. Hierdurch wurde seine Freundschaft mit dem
 Mitherausgeber des Ende 1934 verbotenen Periodikums „Widerstand.
-Zeitschrift für nationalrevolutionäre Politik" begründet. Ebenfalls 1933
+Zeitschrift für nationalrevolutionäre Politik“ begründet. Ebenfalls 1933
 wurde von Schlabrendorff, der seinerzeit auch noch manch andere
 regimekritische Schrift publiziert hatte, durch Ewald von
 Kleist-Schmenzin dazu veranlasst, für dessen „Mitteilungsblatt der
-Konservativen Hauptvereinigung" einen Aufsatz zu verfassen. In diesem
+Konservativen Hauptvereinigung“ einen Aufsatz zu verfassen. In diesem
 wurden Hitler und die NSDAP wegen ihrer Kommunistenverfolgung,
 insbesondere wegen der Ausschaltung der KPD-Reichstagsabgeordneten
 scharf attackiert, was das sofortige Verbot des Organs nach sich zog.
 Auch am Periodikum „Weiße Blätter. Monatsschrift für Geschichte,
-Tradition und Staat", das vom als „monarchistischer Demokrat" geltenden
+Tradition und Staat“, das vom als „monarchistischer Demokrat“ geltenden
 Dr. Karl Ludwig Freiherr von und zu Guttenberg seit 1934 herausgegeben
 wurde, wirkte Schlabrendorff mit.
 
 In Pommern und in Rheinhessen hatte er im Herbst 1933 damit begonnen,
-viele eher konservative und liberale Oppositionelle in -- nach eigenem
-Bekunden -- „mühevoller, langwieriger Einzelarbeit" zu gewinnen, in
-„verlässlichen antinationalsozialistischen Zellen" zusammenzufassen und
+viele eher konservative und liberale Oppositionelle in – nach eigenem
+Bekunden – „mühevoller, langwieriger Einzelarbeit“ zu gewinnen, in
+„verlässlichen antinationalsozialistischen Zellen“ zusammenzufassen und
 in die sich nun allmählich herausbildenden Widerstandsbewegung
 bürgerlicher Prägung einzugliedern.
 
@@ -98,8 +98,8 @@ Schlabrendorff wurde am 17. August 1944 festgenommen. Zunächst wurde er
 im Gestapogefängnis des Reichssicherheitshauptamts in Berlin inhaftiert
 und dann ins KZ Sachsenhausen überstellt. Dass er überlebte, grenzte an
 ein Wunder: Trotz mehrfacher schwerer Folterungen verriet er während der
-Verhöre keinen seiner Gesinnungsfreunde. In seiner -- fünfmal
-verschobenen -- Verhandlung vor dem „Volksgerichtshof" vermochte er am
+Verhöre keinen seiner Gesinnungsfreunde. In seiner – fünfmal
+verschobenen – Verhandlung vor dem „Volksgerichtshof“ vermochte er am
 16. März 1945 sogar Freispruch zu erwirken. Doch dann wurde ihm
 mitgeteilt, dies sei ein Fehlurteil gewesen und er werde erschossen.
 Zunächst wurde er in das KZ Flossenbürg, dann ins KZ Dachau verbracht
@@ -107,10 +107,10 @@ und danach noch in ein KZ bei Innsbruck. In Niederdorf in Südtirol
 erfolgte schließlich seine Befreiung durch die US-Army.
 
 Sein 1946 zunächst in der Schweiz erschienener Zeitzeugenbericht
-„Offiziere gegen Hitler" gehörte zu den ersten und am meisten
+„Offiziere gegen Hitler“ gehörte zu den ersten und am meisten
 verbreiteten Darstellungen der Geschichte des antinazistischen deutschen
-Widerstandes überhaupt. Als Mitstifter des „Hilfswerks 20. Juli 1944",
-der späteren „Stiftung 20. Juli 1944", und auch als deren Justiziar
+Widerstandes überhaupt. Als Mitstifter des „Hilfswerks 20. Juli 1944“,
+der späteren „Stiftung 20. Juli 1944“, und auch als deren Justiziar
 setzte sich Schlabrendorff, der 1946 eine Rechtsanwaltskanzlei in
 Wiesbaden begründet hatte, unermüdlich für die Belange der überlebenden
 Aktivisten wie für die Hinterbliebenen der Opfer jener
@@ -118,7 +118,7 @@ Widerstandsbewegung ein. Durch substanziierte Zeugenaussagen beteiligte
 er sich an der Strafverfolgung von NS-Tätern. Gleichzeitig nahm er
 Angehörige des militärischen und konservativen Widerstands gegen
 haltlose Anschuldigungen unverbesserlicher Rechtsextremisten in Schutz.
-Er selbst sah sich nicht nur einmal als „Landesverräter" verunglimpft.
+Er selbst sah sich nicht nur einmal als „Landesverräter“ verunglimpft.
 
 Von 1967 bis 1975 war er Richter am Bundesverfassungsgericht in
 Karlsruhe. 1967 erhielt er das Große Bundesverdienstkreuz. 1968 wurde er
@@ -126,6 +126,6 @@ mit der Ehrendoktorwürde der Universität Göttingen ausgezeichnet.
 
 In seinem Kondolenztelegramm an Luitgarde von Schlabrendorff würdigte
 der damalige Bundeskanzler Helmut Schmidt den Parteilosen mit
-liberalkonservativer Gesinnung prägnant als „aufrechten Demokraten", der
+liberalkonservativer Gesinnung prägnant als „aufrechten Demokraten“, der
 sich „durch seinen Widerstand gegen den Nationalsozialismus und sein
-Eintreten für die Gerechtigkeit" hohe Wertschätzung erworben habe.
+Eintreten für die Gerechtigkeit“ hohe Wertschätzung erworben habe.

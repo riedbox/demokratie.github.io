@@ -5,7 +5,7 @@ antijüdischen Anfeindungen und sogar Morddrohungen ausgesetzt gesehen
 hatte, flüchtete sie am 5. März 1933, dem Tag der Reichstagswahl, in die
 Tschechoslowakei. Dort half sie, einen ersten, provisorischen
 Nachrichtendienst nach Sachsen zu organisieren. Auch in Antwerpen, wo
-sie seit dem Sommer 1933 für die sozialistische „Volksgazet" schrieb und
+sie seit dem Sommer 1933 für die sozialistische „Volksgazet“ schrieb und
 sich zugleich in der Gewerkschafts- und Frauenbildungsarbeit betätigte,
 beteiligte sie sich an der Herstellung antinazistischer
 Propagandaschriften sowie an deren Schmuggel ins Deutsche Reich. In den
@@ -25,7 +25,7 @@ im German-American Congress for Democracy und in der Association of Free
 Germans, zwei ebenso antinazistisch wie antikommunistisch ausgerichteten
 Organisationen. Seit 1942 erstellte sie für die Amerikaner zahllose
 Studien, die für den Wiederaufbau in den meisten europäischen Staaten
-wichtig waren. Hierzu gehörte später auch ein „Who is who" hierfür
+wichtig waren. Hierzu gehörte später auch ein „Who is who“ hierfür
 geeigneter Funktionäre aus der Arbeiterbewegung. 1943 wurde sie
 US-Staatsbürgerin. Seit dem Jahr darauf arbeitete sie als
 Wirtschaftsexpertin für Zentraleuropa bei der United Nations Relief and

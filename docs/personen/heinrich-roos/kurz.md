@@ -17,7 +17,7 @@ in kleineren Runden durchgeführten Treffen ausgiebig diskutiert.
 Wiederum andere warnten die gewiss u. a. deshalb niemals enttarnte
 Gruppe vor drohenden Verfolgungsmaßnahmen der Gestapo. Mit seinem
 fachkundigen Rat unterstützte Roos verschiedentlich jüdische
-Geschäftsinhaber und Hausbesitzer, bei denen die „Arisierung" ihres
+Geschäftsinhaber und Hausbesitzer, bei denen die „Arisierung“ ihres
 Eigentums bevorstand. Auch mehrere Sozialdemokraten waren in jene
 oppositionelle Solidargemeinschaft involviert, mindestens zwei davon
 wohl als Mittelsleute Heinrich Maschmeyers, des hiesigen
@@ -26,7 +26,7 @@ antinazistischen Vertrauensleutenetzwerk. Obgleich Roos und seine
 Freunde nicht in die unmittelbaren Umsturzvorbereitungen eingebunden
 waren, haben einige von ihnen doch informell Fühlung gehabt mit manchen
 Protagonisten der militärisch-zivil kombinierten Verschwörung vom „20.
-Juli 1944" in Berlin. Nach der Befreiung von der NS-Diktatur gehörte
+Juli 1944“ in Berlin. Nach der Befreiung von der NS-Diktatur gehörte
 Roos sogleich zu den treibenden Kräften der kommunalpolitischen
 Re-Demokratisierung.
 
