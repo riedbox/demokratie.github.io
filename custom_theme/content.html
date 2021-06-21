@@ -32,8 +32,8 @@
     {%- endif %}
     <div class={{ "col-md-12" if (page.file.url == 'personen.html') else "col-md-6"}}>
 
-        {% if page.title %}
-            <h2 class="pull-right page-title">{{ page.title }}</h2>
+        {% if page.meta.title %}
+            <h2 class="pull-right page-title">{{ page.meta.title }}</h2>
         {%- endif %}
         {% if page.meta.name %}
             <p class="name">{{ page.meta.name }}</p>
