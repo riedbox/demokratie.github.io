@@ -3,6 +3,11 @@
   src: url("fonts/OpenSans-Regular.ttf");
 }
 
+@font-face {
+  font-family: "OpenSansSemiBold";
+  src: url("fonts/OpenSans-SemiBold.ttf");
+}
+
 body {
   background-image: url(../img/background_800.jpg);
   background-size: cover;
@@ -141,6 +146,11 @@ body.homepage {
 }
 .person-link img {
   max-width: 100%;
+  
+    object-fit: cover;
+    height: 300px;
+    width: 300px;
+  
 }
 #toc-collapse ul{
 
@@ -151,10 +161,7 @@ body.homepage {
   background: #444444;
 }
 
-img.hauptbild {
-  max-width: 150px;
-  margin: 0;
-}
+
 
 .modal .modal-content {
   background: transparent;
@@ -162,11 +169,10 @@ img.hauptbild {
 }
 
 .name {
-
-  font-weight: bold;
+  font-family: OpenSansSemiBold, Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-.modal,
+.modal,h1
 .modal .modal-content,
 .modal .modal-header {
   border: 0;
@@ -195,11 +201,69 @@ img.hauptbild {
   display: flex;
   max-width: 500px;
   flex-wrap: wrap;
-  margin-top: 5em;
+  margin-top: 12.75em;
 }
 
 .uebersicht img.bild {
   float: none;
   margin: 1em;
   max-width: 150px;
+}
+.person-link h2 {
+  line-height: 1em;
+  margin-bottom: 0.25em;
+}
+
+.person-link p {
+  line-height: 1.3em;
+  margin-bottom: 0.25em;
+}
+ 
+.carousel-item img {
+  max-height: 70vh;
+  width: auto !important;
+  margin: 0 auto;
+}
+
+.page-nav {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.page-nav img.hauptbild {
+  max-width: 100%;
+  margin: 0;
+}
+.page-nav a.nav-link {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.site-title-wrapper {
+  padding-top: 0.25em;
+  padding-bottom: 1em;
+  position: fixed;
+  z-index: 99;
+  text-align: center;
+  background-image: url(../img/background_1920.jpg);
+  width: 100%;
+}
+
+.homepage .site-title-wrapper {
+  position: static;
+  background: none;
+}
+
+.site-title {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+
+}
+.geburtsdaten {
+
+  margin-bottom: 8.5em;
+}
+.site-title-padding {
+  margin-bottom: 3em;
+  padding-bottom: 3em;
 }
