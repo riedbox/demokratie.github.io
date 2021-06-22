@@ -1,5 +1,32 @@
-**Georg Buch**
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: Anti-Nazi-Flugblatt Buchs zur Reichstagswahl am 31. Juli 1932
+ - Abb 3.jpg:
+    format: links
+    unterzeile: k.A.
+ - Abb 4.jpg:
+    format: rechts
+    unterzeile: Wanderung von Mitgliedern der Widerstandsgruppe um Georg Buch (stehend, ganz l.) zum Ausflugslokal Hubertushütte am 1. Mai 1940
+ - Abb 5.jpg:
+    format: links
+    unterzeile: Passierschein für den sieben Wochen zuvor aus dem KZ befreiten NS-Gegner
+ - Abb 6.jpg:
+    format: rechts
+    unterzeile: Gedenktafel am Gemeinschaftszentrum Georg-Buch-Haus in der Wellritzstraße
+ - Abb 7.jpg:
+    format: rechts
+    unterzeile: Anlässlich des Todes von seiner Heimatstadt herausgegebene Broschüre mit Coverporträt von Klaus Böttger, Nachruf von Oberbürgermeister Achim Exner und einem biographischen Essay von Axel Ulrich
+beschreibung:
+geburtsdaten: 24.09.1903 – 05.08.1995
+name: Georg Buch
+---
 
+
+{{bild(bilder, 0)}}
 Der gebürtige Wiesbadener, dessen Kindheit und Jugend von großer Armut
 geprägt waren, hatte bereits während seiner Schriftsetzerlehre zur
 Arbeiterbewegung gefunden. In den letzten Jahren der Weimarer Republik
@@ -13,6 +40,7 @@ Arndt von der Kampfleitung der Eisernen Front kooperiert, jener zwar
 überparteilichen, aber klar sozialdemokratisch dominierten
 Republikschutzorganisation, die im Herbst 1931 gegründet worden war.
 
+{{bild(bilder, 1)}}
 Zwar sind damals zahllose antinazistische Kundgebungen, Demonstrationen,
 Flugblatt- und Plakataktionen durchgeführt worden, doch war die
 Machtübertragung an Hitler am 30. Januar 1933 durch all dies nicht zu
