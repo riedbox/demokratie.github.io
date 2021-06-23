@@ -50,7 +50,7 @@ def define_env(env):
         for key, value in bild.items():
             unterzeile = bild[key]["unterzeile"]
             format = bild[key]["format"]
-            markup.extend(f'<span data-toggle="modal" data-target="#exampleModal"><img class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#carouselExample"  data-slide-to="{index}"/></span>')
+            markup.extend(f'<span data-toggle="modal" data-target="#imageModal"><img class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#imageCarousel"  data-slide-to="{index}"/></span>')
         return "".join(markup)
 
     @env.macro
