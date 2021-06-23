@@ -18,6 +18,9 @@ body {
   font-size: 20px;
 }
 
+.navitem {
+  font-size: 18px;
+}
 .person-link {
   font-size: 14px;
   margin-bottom: 2rem;
@@ -161,11 +164,15 @@ body.homepage {
   background: #444444;
 }
 
+.unterzeile {
 
+  height: 3em;
+}
 
 .modal .modal-content {
   background: transparent;
   color: white;
+  border: none;
 }
 
 .name {
@@ -219,10 +226,14 @@ body.homepage {
   margin-bottom: 0.25em;
 }
  
+.carousel-inner {
+  height: 80vh;
+}
 .carousel-item img {
   max-height: 70vh;
   width: auto !important;
   margin: 0 auto;
+  object-fit: cover;
 }
 
 .page-nav {
@@ -233,9 +244,14 @@ body.homepage {
   max-width: 100%;
   margin: 0;
 }
-.page-nav a.nav-link {
+.navitem {
+  max-width: 100%;
+}
+.bs-sidebar.page-nav .navitem a.nav-link  {
   margin-right: 0;
   margin-left: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .site-title-wrapper {
