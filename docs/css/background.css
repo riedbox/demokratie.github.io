@@ -149,14 +149,12 @@ body.homepage {
 }
 .person-link img {
   max-width: 100%;
-  
-    object-fit: cover;
-    height: 300px;
-    width: 300px;
-  
-}
-#toc-collapse ul{
 
+  object-fit: cover;
+  height: 300px;
+  width: 300px;
+}
+#toc-collapse ul {
   padding: 0;
 }
 .modal-backdrop.show {
@@ -165,7 +163,6 @@ body.homepage {
 }
 
 .unterzeile {
-
   height: 3em;
 }
 
@@ -179,8 +176,8 @@ body.homepage {
   font-family: OpenSansSemiBold, Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-.modal,h1
-.modal .modal-content,
+.modal,
+h1 .modal .modal-content,
 .modal .modal-header {
   border: 0;
 }
@@ -225,7 +222,7 @@ body.homepage {
   line-height: 1.3em;
   margin-bottom: 0.25em;
 }
- 
+
 .carousel-inner {
   height: 80vh;
 }
@@ -247,7 +244,7 @@ body.homepage {
 .navitem {
   max-width: 100%;
 }
-.bs-sidebar.page-nav .navitem a.nav-link  {
+.bs-sidebar.page-nav .navitem a.nav-link {
   margin-right: 0;
   margin-left: 0;
   padding-left: 0;
@@ -273,10 +270,8 @@ body.homepage {
   text-align: center;
   margin: 0 auto;
   width: 100%;
-
 }
 .geburtsdaten {
-
   margin-bottom: 8.5em;
 }
 .site-title-padding {
