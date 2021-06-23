@@ -1,3 +1,13 @@
+---
+title: KurzBiografie
+hauptbild: Abb 1.jpg
+beschreibung: Verkäufer, Mitglied des Katholischen Jungmänner-Verbandes (KJMV) und der Hitler-Jugend (HJ), in der Wehrmacht zuletzt Oberreiter
+geburtsdaten: 30.9.1923 – 13.3.1943
+name: Josef Leber
+---
+**Verkäufer, Mitglied des Katholischen Jungmänner-Verbandes (KJMV) und der
+Hitler-Jugend (HJ), in der Wehrmacht zuletzt Oberreiter**
+
 Der Spross einer strenggläubigen Biebricher Katholikenfamilie engagierte
 sich schon früh im kirchlichen Bereich. So trat er 1933 einer
 Untergliederung des KJMV bei, dem er bis zu dessen vier Jahre später
@@ -35,3 +45,5 @@ ausgesetzt. Obwohl er nach seiner Freilassung für „wehrunwürdig“ erklärt
 worden war, wurde er im April des folgenden Jahres zu einer
 Radfahr-Schwadron der Wehrmacht eingezogen. Kein Jahr später ist Josef
 Leber mit nur 19 Jahren in der Sowjetunion gefallen.
+
+Dr. Axel Ulrich

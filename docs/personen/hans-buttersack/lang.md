@@ -1,5 +1,22 @@
-**Dr. Hans Buttersack**
-
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: k.A.
+ - Abb 3.jpg:
+    format: links
+    unterzeile: k.A.
+ - Abb 4.jpg:
+    format: links
+    unterzeile: „Frankfurter Rundschau“, Nr. 1, 1. August 1945 
+ - Abb 5.jpg:
+    format: rechts
+    unterzeile: k.A.
+geburtsdaten: 11.08.1880 – 13.02.1945
+name: Dr. Hans Buttersack
+---
 Der Sohn eines liberalkonservativen Hamburger Kaufmanns, der um 1885 mit
 seiner Familie nach Wiesbaden gezogen war, hatte hier das Humanistische
 Gymnasium am Luisenplatz, die heutige Diltheyschule besucht, sein Abitur
@@ -13,6 +30,7 @@ Kinder zeugen sollte. Zunächst war er als Rechtsanwalt im
 Angestelltenverhältnis beschäftigt, vermochte aber schon 1912 eine
 eigene Kanzlei zu eröffnen.
 
+{{bild(bilder,0)}}
 Im Ersten Weltkrieg, an dem er seit 1914 teilgenommen hat und in dem er
 in Russland sowie in Frankreich eingesetzt war, ist er mit dem Eisernen
 Kreuz I. und II. Klasse dekoriert worden. Anfang 1920 ist der Hauptmann
@@ -100,7 +118,7 @@ der Bergkirchengemeinde gleichfalls eng verbunden war und schließlich in
 Berlin zu den militärischen Anführern des Umsturzversuchs vom 20. Juli
 1944 zählte, unterhielt Buttersack recht intensive Beziehungen.
 
-Weil er seit 1940 „Schenkungen“ von Juden an Nichtjuden notariell
+{{bild(bilder,1)}}Weil er seit 1940 „Schenkungen“ von Juden an Nichtjuden notariell
 beglaubigt und so deren Besitz vor einer Beschlagnahme bewahrt hatte,
 wurde Buttersack am 6. Mai 1943 verhaftet. Hierbei spielte außerdem ein
 abgefangener Trostbrief eine Rolle, den er an eine zum Zeitpunkt seiner
@@ -116,7 +134,7 @@ Fleckfieberepidemie zu seinem Tod am 13. Februar des folgenden Jahres,
 nur zweieinhalb Monate vor der Befreiung des KZ durch die US-Army. Seine
 Ehefrau und auch Freunde hatten sich mehrfach vergeblich um seine
 Freilassung bemüht.
-
+{{bild(bilder,2)}}
 In Wiesbaden erinnern an ihn eine nach ihm benannte Straße im Stadtteil
 Klarenthal, eine Informationsstele gegenüber der einstigen
 Außendienststelle der Frankfurter Gestapo in der Paulinenstraße sowie

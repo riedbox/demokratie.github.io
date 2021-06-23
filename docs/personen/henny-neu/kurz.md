@@ -1,3 +1,16 @@
+---
+title: KurzBiografie
+hauptbild: Abb 1.jpg
+beschreibung: Schneiderin und Stickerin, Kinderkrankenschwester, Bürogehilfin beim Gesundheitsamt, Aktivistin einer von Georg Buch angeführten Widerstandsgruppe aus Mitgliedern der Sozialistischen Arbeiterjugend (SAJ) und der SPD, später Stadtverordnete sowie Fürsorgesachbearbeiterin beim Sozialamt
+geburtsdaten: 24.09.1906 – 29.11.1994
+name: Henny Neu
+---
+**Schneiderin und Stickerin, Kinderkrankenschwester, Bürogehilfin beim
+Gesundheitsamt, Aktivistin einer von Georg Buch angeführten
+Widerstandsgruppe aus Mitgliedern der Sozialistischen Arbeiterjugend
+(SAJ) und der SPD, später Stadtverordnete sowie Fürsorgesachbearbeiterin
+beim Sozialamt**
+
 Bereits seit dem Frühjahr 1933 war die lange Zeit nur in
 Privathaushalten als Kinderfrau beschäftigte Sozialdemokratin eine der
 eifrigsten Teilnehmerinnen an den illegalen Aktivitäten, welche der
@@ -25,4 +38,4 @@ ihrem Tod stellte sie ihre Erinnerungen an Verfolgung und Widerstand
 während der NS-Diktatur vorwiegend jüngeren Menschen als gefragte
 Zeitzeugin zur Verfügung.
 
-\[AU\]
+Dr. Axel Ulrich

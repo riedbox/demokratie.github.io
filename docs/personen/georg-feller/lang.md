@@ -1,5 +1,26 @@
-**Georg Feller**
-
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: Das Original der Wiesbadener Reichsbanner-Fahne befindet sich heute in der Dauerausstellung unseres Stadtmuseums am Markt. 
+ - Abb 3.jpg:
+    format: links
+    unterzeile: Antinazistische Agitationsfahrt nach Geisenheim
+ - Abb 4.jpg:
+    format: links
+    unterzeile: Paramilitärische Übung auf der Platte, etwa 1932
+ - Abb 5.jpg:
+    format: links
+    unterzeile: Im Exil für die konspirative Inlandsarbeit hergestelltes Parteiorgan der SPD
+ - Abb 6.jpg:
+    format: links
+    unterzeile: Als Angehöriger der „Bewährungsdivision 999“ auf Rhodos, etwa 1944
+geburtsdaten: 30.01.1906 – 12.12.1993
+name: Georg Feller
+---
+{{bild(bilder,0)}}
 Der in Darmstadt geborene Sohn eines mit seiner Familie dann nach
 Wiesbaden gezogenen Messerschmieds arbeitete hier nach seiner Lehre
 zunächst als Kaufmännischer Angestellter in einer Kohlengroßhandlung. Im
@@ -13,6 +34,7 @@ der immer mehr erstarkenden NSDAP beteiligt. 1929 wurde er nach im
 Vorjahr erfolgten Zusammenstößen mit der SA wegen Landfriedensbruchs zu
 einer dreimonatigen Bewährungsstrafe verurteilt.
 
+{{bild(bilder,1)}}
 Noch Ende 1932 hat er, nun als Schriftführer Vorstandsmitglied des
 Wiesbadener Reichsbanners, wenngleich vergeblich versucht, eine
 ausreichende Bewaffnung für den von ihm und seinen Kameraden erwarteten
@@ -22,7 +44,7 @@ Nachrichten mit dem dortigen Gauvorstand gefahrlos und rasch austauschen
 zu können. Angesichts des kurz bevorstehenden Verbots jener
 paramilitärischen prorepublikanischen Organisation wurde deren
 Wiesbadener Ortsverein, dem seinerzeit etwa 180 Aktive angehört haben,
-von Feller als letztem, kommissarischen Vorsitzenden im Mai 1933
+{{bild(bilder,2)}}von Feller als letztem, kommissarischen Vorsitzenden im Mai 1933
 aufgelöst. Dabei hat er seine Gesinnungsfreunde angewiesen, alle
 womöglich politisch belastenden Materialien zu vernichten und in ihrem
 Besitz befindliche Schusswaffen unbedingt außerhalb ihrer Wohnungen zu
@@ -64,6 +86,7 @@ Dutzend Unterverteiler, wer sonst noch alles beliefert worden ist. Die
 definitiv letzten Bezieher hatten jedenfalls ihr Exemplar nach der
 Lektüre sicherheitshalber zu vernichten.
 
+{{bild(bilder,3)}}
 Außerdem fertigten Feller, Markloff und manche ihrer Kameraden bestimmte
 Berichte an, etwa zur fortschreitenden militärischen Aufrüstung wie
 überhaupt zu den lokalen Verhältnissen nach der NS-Machtübernahme in
@@ -92,6 +115,7 @@ Belieferten verraten. Anfang 1936 wurde Feller vom Oberlandesgericht
 Kassel zu einer Zuchthausstrafe von zweieinhalb Jahren verurteilt,
 während Markloff eine ebensolche Strafe in Höhe von zwei Jahren erhielt.
 
+{{bild(bilder,4)}}
 Nach der Strafverbüßung in Butzbach wurde Feller 1938 ins KZ Buchenwald
 überstellt, aus dem er erst Mitte 1940 wieder freikam. Anfang 1943 wurde
 er zum Strafbataillon 999 einberufen, wonach er bis zum Kriegsende als

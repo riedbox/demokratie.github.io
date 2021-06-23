@@ -1,3 +1,14 @@
+---
+title: KurzBiografie
+hauptbild: Abb 1.jpg
+beschreibung: Polizeidirektor, Leiter des zivilen Wiesbadener Widerstandsstützpunktes im Rahmen des reichsweiten Vertrauensleutenetzwerks Wilhelm Leuschners, später kurzzeitig Mitarbeit im Aufbau-Ausschuss Wiesbaden
+geburtsdaten: 14.06.1885 – 10.06.1945
+name: Heinrich Maschmeyer
+---
+**Polizeidirektor, Leiter des zivilen Wiesbadener Widerstandsstützpunktes
+im Rahmen des reichsweiten Vertrauensleutenetzwerks Wilhelm Leuschners,
+später kurzzeitig Mitarbeit im Aufbau-Ausschuss Wiesbaden**
+
 Schon im Polizeidienst der Stadt Offenbach, mehr noch aber dann ab 1930
 als Polizeidirektor in Worms hatte der Sozialdemokrat in vorderster
 Front gestanden bei der Bekämpfung der immer stärker werdenden und dabei

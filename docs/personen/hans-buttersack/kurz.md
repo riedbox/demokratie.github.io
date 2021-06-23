@@ -1,3 +1,14 @@
+---
+title: KurzBiografie
+hauptbild: Abb 1.jpg
+beschreibung: Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der Bergkirchengemeinde, Rechtsbeistand des lokalen Pfarrernotbundes, dann der Bekennenden Kirche und u. a. auch von Wiesbadener Juden
+geburtsdaten: 11.08.1880 – 13.02.1945
+name: Dr. Hans Buttersack
+---
+**Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der
+Bergkirchengemeinde, Rechtsbeistand des lokalen Pfarrernotbundes, dann
+der Bekennenden Kirche und u. a. auch von Wiesbadener Juden**
+
 Der deutschnationale Monarchist hatte die Machtübertragung an Hitler am
 30. Januar 1933 im Grunde begrüßt. Deshalb hat der Gauführer des
 paramilitärischen, strikt antirepublikanisch positionierten

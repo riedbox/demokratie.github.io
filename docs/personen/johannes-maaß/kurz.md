@@ -1,3 +1,14 @@
+---
+title: KurzBiografie
+hauptbild: Abb 1.jpg
+beschreibung: Volksschullehrer, Publizist, Mitgründer und Leiter der Volkshochschule (VHS), SPD-Stadtverordneter und ehrenamtlicher Stadtrat, spätestens seit 1942 Verfasser reformpädagogischer Abhandlungen für die Zeit nach Hitler, später Vorsitzender des Aufbau-Ausschusses Wiesbaden und des Bürgerrats Wiesbaden, u. a. Vorsitzender der SPD, wiederum Stadtverordneter, hauptamtlicher Stadtrat für Schule, Volksbildung und Sport, vorläufiger Leiter der neu gegründeten VHS, dann deren Vorstandsmitglied
+geburtsdaten: 27.02.1882 – 24.04.1953
+name: Johannes Maaß
+---
+**Studienrat, Hauptmann der Reserve, Netzwerker der
+militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“
+als Kulturstaatssekretär vorgesehen**
+
 Nachdem der stets auch politisch und publizistisch außerordentlich
 engagierte Pädagoge zuvor noch die NSDAP, insbesondere deren Rassismus
 und ihre „Blut und Boden“-Ideologie scharf kritisiert hatte, trat er im

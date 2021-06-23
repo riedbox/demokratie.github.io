@@ -1,3 +1,16 @@
+---
+title: KurzBiografie
+hauptbild: Abb 1.jpg
+beschreibung: Jurist, Oberleutnant der Reserve, 1943 Beteiligter eines Attentatsversuchs auf Hitler, Netzwerker und Kurier der Verschwörer vom „20. Juli 1944“, später Rechtsanwalt und Notar sowie Richter am Bundesverfassungsgericht
+geburtsdaten: 01.07.1907 – 3.09.1980
+name: Dr. Fabian von Schlabrendorff
+---
+**Jurist, Oberleutnant der Reserve, 1943 Beteiligter eines
+Attentatsversuchs auf Hitler, Netzwerker und Kurier der Verschwörer vom
+„20. Juli 1944“, später Rechtsanwalt und Notar sowie Richter am
+Bundesverfassungsgericht**
+
+
 Bereits während seines Studiums war er in NS-Propagandaversammlungen
 mutig als Gegenredner aufgetreten. Anfang 1933 gelang es ihm und einigen
 seiner Freunde, Ernst Niekisch und andere aus einem Berliner SA-Keller
@@ -29,4 +42,4 @@ besonderem Maße engagierte er sich für die Belange der Überlebenden des
 „20. Juli“ sowie für die der Hinterbliebenen und Nachfahren der Opfer
 jener antinazistischen Aktion.
 
-\[RF\]
+Dr. Rolf Faber

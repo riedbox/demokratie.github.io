@@ -1,5 +1,25 @@
-**Heinrich Maschmeyer**
-
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: Das in einer früheren Papierfabrik eingerichtete KZ für vor allem NS-Gegner aus dem damaligen Volksstaat Hessen lag unmittelbar an der Bahnstrecke Mainz–Worms und bestand vom März 1933 bis zum Sommer 1934. 
+ - Abb 3.jpg:
+    format: links
+    unterzeile: k.A.
+ - Abb 4.jpg:
+    format: links
+    unterzeile: Bekanntgabe des Todes Maschmeyers durch den früheren liberaldemokratischen Stadtverordneten und Stadtschulrat Karl Helwig, nun Präsident des Aufbau-Ausschusses Wiesbaden, dann seit 1946 Regierungsdirektor sowie Leiter der Schulabteilung der Regierung und bis 1948 Stadtverordneter der CDU (die Datierung ist ein Schreibfehler; diese Vollsitzung des Ausschuss fand tatsächlich am 16. Juni 1945 statt)
+ - Abb 5.jpg:
+    format: rechts
+    unterzeile: Würdigung Maschmeyers bei der „Stolperstein“-Verlegung durch Inge Naumann-Götting vom Aktiven Museum Spiegelgasse (ganz l.), den Ortsvorsteher Wiesbaden-Mitte Roland Presber (3. von l.) und den „Paten“ Dr. Axel Ulrich (2. von r.) am 1. Oktober 2013
+ - Abb 6.jpg:
+    format: links
+    unterzeile: k.A.
+geburtsdaten: 14.06.1885 – 10.06.1945
+name: Heinrich Maschmeyer
+---
 Der in Frankfurt-Oberrad geborene Offenbacher Polizeibeamte war nach
 seiner Rückkehr aus dem Ersten Weltkrieg, an dem er vom ersten Tag bis
 zum Schluss teilgenommen hatte, 1919 der SPD beigetreten. Dem
@@ -20,7 +40,7 @@ ganzer Härte und sämtlichen zu Gebote stehenden polizeilichen Mitteln
 vorgehen zu lassen, hatte es am Ende auch in Hessen nicht vermocht, die
 NS-Machtübernahme zu verhindern.
 
-Bereits im März 1933 wurde der diesen daher extrem verhasste
+{{bild(bilder,0)}} Bereits im März 1933 wurde der diesen daher extrem verhasste
 Leuschner-Getreue, der zuvor mit sofortiger Wirkung „beurlaubt“ worden
 war und seine Schusswaffen hatte abgeben müssen, von Wormser SA- und
 SS-Leuten verhaftet und in das gerade erst in einer stillgelegten
@@ -58,7 +78,7 @@ Nachzahlung seiner Ruhegehaltsbezüge dem NS-Winterhilfswerk im Gau
 Hessen-Nassau zukommen lassen. Einer NS-Organisation beigetreten ist
 Maschmeyer hingegen nie.
 
-Mit der von Georg Feller und Albert Markloff 1934/35 in Wiesbaden
+{{bild(bilder,1)}}Mit der von Georg Feller und Albert Markloff 1934/35 in Wiesbaden
 konspirativ angeführten Reichsbanner-Gruppe hat Maschmeyer ebenso wenig
 in Verbindung gestanden wie mit der aus Mitgliedern der Sozialistischen
 Arbeiterjugend und der SPD gebildeten Widerstandsgruppe, welche unter
@@ -120,7 +140,7 @@ hier ebenfalls Mitglied des Reichsbanners. Auch von dessen
 Oppositionsgruppe führten mehrere Verbindungswege zu Anführern der
 Verschwörung vom „20. Juli“ in Berlin bzw. in Frankfurt am Main.
 
-Maschmeyers Widerstandsstützpunkt wie auch der Zirkel um Roos blieben
+{{bild(bilder,2)}}Maschmeyers Widerstandsstützpunkt wie auch der Zirkel um Roos blieben
 nach dem Scheitern jenes Umsturzversuchs dank ihrer umsichtigen
 konspirativen Vorgehensweisen unentdeckt. Deshalb konnten sich die dort
 versammelten Antifaschisten im Frühjahr 1945 sogleich für die
@@ -132,8 +152,12 @@ jener sofort nach Einmarsch der US-Truppen basisdemokratisch gebildeten
 lediglich für kurze Zeit beschieden. Sein früher Tod war wohl eine
 Spätfolge seiner 1933 nur wenige Wochen währenden Inhaftierung im KZ
 Osthofen.
+{{bild(bilder,3)}} 
 
+{{bild(bilder,4)}}
 Vor seinem Domizil in der Rheinstraße 97 ist ein „Stolperstein“ zur
 Erinnerung an ihn verlegt worden.
 
+
 Dr. Axel Ulrich
+

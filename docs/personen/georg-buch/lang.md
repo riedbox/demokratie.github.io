@@ -9,16 +9,16 @@ bilder:
     format: links
     unterzeile: k.A.
  - Abb 4.jpg:
-    format: rechts
+    format: links
     unterzeile: Wanderung von Mitgliedern der Widerstandsgruppe um Georg Buch (stehend, ganz l.) zum Ausflugslokal Hubertushütte am 1. Mai 1940
  - Abb 5.jpg:
     format: links
     unterzeile: Passierschein für den sieben Wochen zuvor aus dem KZ befreiten NS-Gegner
  - Abb 6.jpg:
-    format: rechts
+    format: links
     unterzeile: Gedenktafel am Gemeinschaftszentrum Georg-Buch-Haus in der Wellritzstraße
  - Abb 7.jpg:
-    format: rechts
+    format: links
     unterzeile: Anlässlich des Todes von seiner Heimatstadt herausgegebene Broschüre mit Coverporträt von Klaus Böttger, Nachruf von Oberbürgermeister Achim Exner und einem biographischen Essay von Axel Ulrich
 beschreibung:
 geburtsdaten: 24.09.1903 – 05.08.1995
@@ -26,7 +26,7 @@ name: Georg Buch
 ---
 
 
-{{bild(bilder, 0)}}
+{{bild(bilder,0)}} 
 Der gebürtige Wiesbadener, dessen Kindheit und Jugend von großer Armut
 geprägt waren, hatte bereits während seiner Schriftsetzerlehre zur
 Arbeiterbewegung gefunden. In den letzten Jahren der Weimarer Republik
@@ -87,6 +87,7 @@ weiterhin aufrecht, so z. B. zu den früheren Wiesbadener Stadträten
 Johannes Maaß und Philipp Holl sowie zu Gustav Geiger, dem vormaligen
 und auch späteren Vorsitzenden des SPD-Ortsvereins Geisenheim.
 
+{{bild(bilder, 2)}}
 Davon unabhängig leitete Buch eine maximal 30 bis 40 zumeist weibliche
 SAJ- und SPD-Mitglieder zählende Widerstandsgruppe an, von denen
 freilich nur die wenigsten über den konspirativen Hintergrund ihres
@@ -99,6 +100,7 @@ Familienkreis, und zwar bevorzugt zu kleinen Feiern und zu genauso wenig
 Argwohn erregenden Wanderungen, Radtouren und Schiffspartien auf dem
 Rhein.
 
+{{bild(bilder,3)}}
 Erst Anfang 1941 wurde ihr eine Denunziation zum Verhängnis. Sie zählt
 damit zu jenen Widerstandsgruppen aus dem sozialdemokratischen
 Organisationsspektrum reichsweit, deren Wirken am längsten unerkannt
@@ -138,6 +140,7 @@ hervorragenden Verdienste um die Landeshauptstadt Wiesbaden wurde sein
 Grab auf dem Nordfriedhof von dieser schließlich als Ehrengrab
 zuerkannt.
 
+{{bild(bilder,4)}}
 In Wiesbaden erinnern an ihn eine Gedenktafel am nach ihm benannten
 Gemeinschaftszentrum Gewerbeschule in der Wellritzstraße 38, ein Porträt
 von Klaus Böttger im 1. Stock des Rathauses sowie ein ebensolches nebst

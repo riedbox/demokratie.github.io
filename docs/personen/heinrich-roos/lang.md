@@ -1,5 +1,27 @@
-**Heinrich Roos**
-
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: Treffen des antinazistischen Freundeskreises um Roos (4. von r.) in Bodenheim am 9. November 1934. 
+ - Abb 3 (1).jpg:
+    format: links
+    unterzeile: Aus dem sechsseitigen Widerstandsbericht von Heinrich Roos vom 29. März 1980
+ - Abb 3 (2).jpg:
+    format: links
+    unterzeile: Aus dem sechsseitigen Widerstandsbericht von Heinrich Roos vom 29. März 1980
+    format: links
+    unterzeile: Oberbürgermeister Hans Heinrich Redlhammer bei der Vereidigung der Stadträte Philipp Holl, Heinrich Roos, Eugen Dengel, Johannes Maaß und Georg Buch (von l. nach r.) in der Aula der damaligen Gewerbeschule in der Wellritzstraße am 12. August 1946
+ - Abb 4.jpg:
+    format: links
+    unterzeile: Oberbürgermeister Hans Heinrich Redlhammer bei der Vereidigung der Stadträte Philipp Holl, Heinrich Roos, Eugen Dengel, Johannes Maaß und Georg Buch (von l. nach r.) in der Aula der damaligen Gewerbeschule in der Wellritzstraße am 12. August 1946
+ - Abb 5.jpg:
+    format: rechts
+    unterzeile: Todesanzeige der Landeshauptstadt
+geburtsdaten: 21.12.1906 – 30.10.1988
+name: Heinrich Roos
+---
 Der gebürtige Wiesbadener hatte das Humanistische Gymnasium, die heutige
 Diltheyschule, besucht und war bereits als Unterprimaner der
 linksliberalen Deutschen Demokratischen Partei (DDP) sowie deren
@@ -37,7 +59,7 @@ mit verschiedenen stadtbekannten Kommunisten, so mit Adolf Noetzel und
 André Hoevel, wobei sich ihre gravierenden politischen Differenzen
 allerdings erwartungsgemäß nicht ausräumen ließen.
 
-Die Treffen des auch vom Nervenarzt und einstigen DDP- und
+{{bild(bilder,0)}} Die Treffen des auch vom Nervenarzt und einstigen DDP- und
 Reichsbanner-Mitglied Dr. Friedrich Mörchen als, so Roos, dessen „Motor“
 angeführten Zirkels fanden in Privatwohnungen statt, in Cafés,
 Restaurants und Hotels. Um sich vor den Überwachungsmaßnahmen des
@@ -62,6 +84,7 @@ der Rheinstraße 22 jüdische Geschäftsleute und Hauseigner, um deren
 zwangsläufige Verluste bei der ihnen im Zuge der „Arisierung“
 abgepressten Veräußerung ihres Besitzes in Grenzen zu halten.
 
+{{bild(bilder,1)}} {{bild(bilder,2)}} 
 Manche Freunde von Roos verfügten über informelle Verbindungen zu
 einigen Protagonisten des militärischen bzw. des zivilen Arms der
 Verschwörung vom „20. Juli 1945“: So stand der Kaufmann Ludwig Schwenck
@@ -114,6 +137,7 @@ Jungen an der Oranienstraße aber durch rechtzeitiges Untertauchen
 entziehen, was ohne die Unterstützung verlässlicher Freunde schwerlich
 Aussicht auf Erfolg gehabt haben würde.
 
+{{bild(bilder,3)}} 
 Nachdem sie im Großen und Ganzen sogar einer Enttarnung durch die
 NS-Fahnder im Anschluss an das Scheitern des Umsturzversuchs vom „20.
 Juli“ hatten entgehen können, wurden die beiden lockeren lokalen

@@ -8,3 +8,4 @@ Widerstand in Hessen 1933–1945. Frankfurt/M. 1996, S. 508–524, hier: S.
 
 Axel Ulrich: Politischer Widerstand gegen das „Dritte Reich“ im
 Rhein-Main-Gebiet. 4., unveränderte Aufl. Wiesbaden 2015, S. 175–178.
+

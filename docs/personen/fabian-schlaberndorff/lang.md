@@ -1,5 +1,25 @@
-**Dr. Fabian von Schlabrendorff**
-
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: Fabian von Schlabrendorff als Wehrmachtoffizier
+ - Abb 3.jpg:
+    format: links
+    unterzeile: Oberst im Generalstab Henning von Tresckow (stehend, l.) und sein Ordonnanzoffizier Oberleutnant Fabian von Schlabrendorff (stehend, r.) während einer Lagebesprechung beim Stab der Heeresgruppe Mitte, 1942
+ - Abb 4.jpg:
+    format: links
+    unterzeile: Zu seiner Zeit als Richter am Bundesverfassungsgericht
+ - Abb 5.jpg:
+    format: links
+    unterzeile: Traueranzeige der Familie
+ - Abb 6.jpg:
+    format: links
+    unterzeile: Innentitel seines erstmals 1946 in Zürich erschienenen Widerstandsberichts
+geburtsdaten: 24.09.1903 – 05.08.1995
+name: Dr. Fabian von Schlabrendorff
+---
 Schon als Student der Rechtswissenschaft gehörte er in seiner
 Geburtsstadt Halle (Saale) zu den Initiatoren einer antinazistischen
 Gruppierung. Hier und dann in Berlin trat der Spross einer alten
@@ -53,7 +73,7 @@ unmittelbar bevorstehenden Abschluss des Hitler-Stalin-Paktes in
 Kenntnis zu setzen, sondern auch vom Vorhandensein ernstzunehmender
 deutscher Widerstandskräfte. Er stieß jedoch auf taube Ohren.
 
-Kurz nach Kriegsausbruch informierte Schlabrendorff in Berlin einen
+{{bild(bilder,0)}} Kurz nach Kriegsausbruch informierte Schlabrendorff in Berlin einen
 britischen Botschaftsrat von Planungen, Hitler bei einem Besuch der an
 der Westgrenze stehenden, seinerzeit von Generaloberst Kurt Freiherr von
 Hammerstein-Equord befehligten Armee-Abteilung A festzunehmen und zu
@@ -62,7 +82,7 @@ ersten Umsturzplänen beteiligt gewesen. Da ihm nach wenigen Tagen jenes
 Kommando wieder entzogen worden war, ist auch dieser neuerliche Plan,
 den Diktator unschädlich zu machen, hinfällig gewesen.
 
-Schlabrendorff wurde im Oktober 1939 zur Wehrmacht eingezogen und
+{{bild(bilder,1)}} Schlabrendorff wurde im Oktober 1939 zur Wehrmacht eingezogen und
 zunächst als Infanterieoffizier eingesetzt. Seit 1941 war der
 Oberleutnant Ordonnanzoffizier beim damaligen Oberstleutnant Henning von
 Tresckow, dem Ersten Generalstabsoffizier der Heeresgruppe Mitte, der
@@ -120,12 +140,14 @@ Angehörige des militärischen und konservativen Widerstands gegen
 haltlose Anschuldigungen unverbesserlicher Rechtsextremisten in Schutz.
 Er selbst sah sich nicht nur einmal als „Landesverräter“ verunglimpft.
 
-Von 1967 bis 1975 war er Richter am Bundesverfassungsgericht in
+{{bild(bilder,2)}} Von 1967 bis 1975 war er Richter am Bundesverfassungsgericht in
 Karlsruhe. 1967 erhielt er das Große Bundesverdienstkreuz. 1968 wurde er
 mit der Ehrendoktorwürde der Universität Göttingen ausgezeichnet.
 
 In seinem Kondolenztelegramm an Luitgarde von Schlabrendorff würdigte
-der damalige Bundeskanzler Helmut Schmidt den Parteilosen mit
+der damalige Bundeskanzler Helmut Schmidt den Parteilosen mit 
 liberalkonservativer Gesinnung prägnant als „aufrechten Demokraten“, der
 sich „durch seinen Widerstand gegen den Nationalsozialismus und sein
 Eintreten für die Gerechtigkeit“ hohe Wertschätzung erworben habe.
+
+{{bild(bilder,3)}}

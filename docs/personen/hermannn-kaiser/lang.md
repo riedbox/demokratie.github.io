@@ -1,4 +1,25 @@
-**Hermann Kaiser**
+---
+title: LangBiografie
+hauptbild: Abb 1.jpg
+bilder:
+ - Abb 2.jpg:
+    format: links
+    unterzeile: Hermann Kaiser bei der Einweihung des Denkmals für die im Ersten Weltkrieg Gefallenen des 1. Nassauischen Feldartillerie-Regiments Nr. 27 Oranien auf dem Luisenplatz am 21. Oktober 1934
+ - Abb 3.jpg:
+    format: links
+    unterzeile: Brief Kaisers an einen hiesigen Freund mit versteckten Hinweisen auf die Umsturzvorbereitungen
+ - Abb 4.jpg:
+    format: links
+    unterzeile: Fernschreiben von Generaloberst Erich Hoepner an den Wehrkreis XII Wiesbaden zur sofortigen Heranziehung u. a. von Hermann Kaiser als dortiger Verbindungsoffizier der Verschwörer während des Umsturzversuchs
+ - Abb 5.jpg:
+    format: links
+    unterzeile: Vor dem „Volksgerichtshof“ am 17. Januar 1945
+ - Abb 6.jpg:
+    format: rechts
+    unterzeile: Gedenktafel vor der Wiesbadener Oranienschule
+geburtsdaten: 31.05.1885 – 23.01.1945
+name: Hermann Kaiser
+---
 
 Der in Remscheid geborene Sohn des Direktors der Wiesbadener
 Oberrealschule und nachmaligen Schulrats am Provinzialschulkollegium in
@@ -19,7 +40,7 @@ Besatzungstruppen aus dem Rheinland im Sommer 1930 empfand Kaiser – wie
 die überwiegende Mehrheit der Deutschen damals auch – als das Ende einer
 „nationalen Schmach“.
 
-Neben seinem Lehrerberuf standen kriegshistorische Forschungen und die
+{{bild(bilder,0)}} Neben seinem Lehrerberuf standen kriegshistorische Forschungen und die
 militärische Traditionspflege im Fokus seiner Interessen. Der Höhepunkt
 seines Agierens in dieser Hinsicht war 1934 die Errichtung des Denkmals
 für die Weltkriegsgefallenen des 1. Nassauischen
@@ -58,7 +79,7 @@ allem auch vom Völkermord an den Juden. Dies alles empörte ihn zutiefst,
 obwohl ihm gewisse antijüdische Ressentiments durchaus nicht fremd
 gewesen waren.
 
-Seit 1941 kooperierte Kaiser immer enger mit Generaloberst a. D. Ludwig
+{{bild(bilder,1)}} Seit 1941 kooperierte Kaiser immer enger mit Generaloberst a. D. Ludwig
 Beck und mit Dr. Carl Goerdeler, den beiden maßgeblichen zivilen
 Anführern des militärisch-bürgerlich kombinierten Widerstandsflügels der
 Umsturzbewegung vom „20. Juli“, sowie mit vielen anderen wichtigen
@@ -86,7 +107,7 @@ Zentrumspolitiker und württembergischen Staatspräsidenten Dr. h. c.
 Eugen Bolz oder besser noch mit ihrem eigenen Parteigenossen Prof. Dr.
 Adolf Reichwein an der Spitze.
 
-Die Gründe, die für das Hitler-Attentat durch Oberst Claus Graf Schenk
+{{bild(bilder,2)}} Die Gründe, die für das Hitler-Attentat durch Oberst Claus Graf Schenk
 von Stauffenberg und den daran gekoppelten Umsturzversuch sprachen,
 hatte sich der Mittelsmann zwischen den militärischen und zivilen
 Widerstandskräften in seinem privaten Tagebuch notiert, darunter das
@@ -101,13 +122,13 @@ herangezogen werden sollte, um dann hier als Verbindungsoffizier für die
 erforderliche wechselseitige Unterrichtung der einzelnen Kommandoebenen
 zu sorgen.
 
-Hermann Kaiser wurde am 21. Juli 1944 zusammen mit seinen beiden Brüdern
+{{bild(bilder,3)}} Hermann Kaiser wurde am 21. Juli 1944 zusammen mit seinen beiden Brüdern
 nach einer Familienfeier in Kassel verhaftet. Während der folgenden
 Verhöre wurden sie zum Teil schwer gefoltert. Hermann Kaiser wurde am
 17. Januar 1945 vom „Volksgerichtshof“ zum Tode verurteilt und am 23.
 Januar in der Berliner Strafanstalt Plötzensee hingerichtet.
 
-In Wiesbaden erinnern an ihn eine Gedenktafel vor dem Haupteingang der
+{{bild(bilder,4)}} In Wiesbaden erinnern an ihn eine Gedenktafel vor dem Haupteingang der
 Oranienschule und eine weitere im Aufgang zur dortigen Aula im 2. Stock
 des Hauptgebäudes, desgleichen eine Zusatztafel am Denkmal des 1.
 Nassauischen Feldartillerie-Regiments Nr. 27 Oranien auf dem Luisenplatz
