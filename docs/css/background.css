@@ -163,7 +163,7 @@ body.homepage {
 }
 
 .unterzeile {
-  height: 3em;
+  height: 4em;
 }
 
 .modal .modal-content {
@@ -227,7 +227,7 @@ h1 .modal .modal-content,
   height: 80vh;
 }
 .carousel-item img {
-  max-height: 70vh;
+  max-height: 65vh;
   width: auto !important;
   margin: 0 auto;
   object-fit: cover;
