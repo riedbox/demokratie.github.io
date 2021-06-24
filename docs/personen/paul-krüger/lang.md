@@ -4,13 +4,13 @@ hauptbild: Abb 1.jpg
 bilder:
  - Abb 2.jpg:
     format: links
-    unterzeile: Auszug aus dem „R. G. O. Scheinwerfer. Organ der Belegschaft der Verkehrsbetriebe Wiesbaden“, 2. Jg., Nr. 31, Mai 1933  
+    unterzeile: Auszug aus dem „R. G. O. Scheinwerfer. Organ der Belegschaft der Verkehrsbetriebe Wiesbaden“, 2. Jg., Nr. 31, Mai 1933
  - Abb 3.jpg:
     format: links
     unterzeile: Aus Gründen konspirativer Vorsicht konnte Krüger lediglich mündlich vom Inhalt des zu jener Zeit noch regelmäßig auch nach Wiesbaden geschmuggelten KPD-Zentralorgans in Kenntnis gesetzt werden.
  - Abb 4.jpg:
     format: links
-    unterzeile:Blick vom Turm A des KZ Sachsenhausen auf einige der Häftlingsbaracken
+    unterzeile: Blick vom Turm A des KZ Sachsenhausen auf einige der Häftlingsbaracken
  - Abb 5.jpg:
     format: links
     unterzeile: Erstes Blatt ihres zweiundzwanzigseitigen Berichts

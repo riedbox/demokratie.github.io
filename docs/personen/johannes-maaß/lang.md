@@ -14,10 +14,10 @@ bilder:
  - Abb 5.jpg:
     format: links
     unterzeile: k.A.
-  - Abb 6.jpg:
+ - Abb 6.jpg:
     format: links
     unterzeile: k.A.
-  - Abb 7.jpg:
+ - Abb 7.jpg:
     format: links
     unterzeile: Todesanzeige der Landeshauptstadt Wiesbaden
 geburtsdaten: 30.9.1923 – 13.3.1943

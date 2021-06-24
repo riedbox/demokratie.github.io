@@ -45,6 +45,11 @@ def define_env(env):
 
     @env.macro
     def bild(bilder, index):
+        try:
+            bilder
+        except NameError:
+            print ("keine bilder definiert")
+            return ""
         bild = bilder[index]
         markup = []
         for key, value in bild.items():
