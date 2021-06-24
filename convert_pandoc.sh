@@ -19,5 +19,5 @@ done
 if [ "$IS_METADATA_FILE" = true ] ; then
 	pandoc -t plain $1 -o $DIR/$BASE.txt
 else
-	pandoc -t markdown_strict $1 -o $DIR/$BASE.md --extract-media=$DIR
+	pandoc -t markdown_strict $1 -o $DIR/$BASE.md
 fi
