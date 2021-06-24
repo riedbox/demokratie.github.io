@@ -260,6 +260,16 @@ h1 .modal .modal-content,
   background-image: url(../img/background_1920.jpg);
   width: 100%;
 }
+.bg-light {
+  background-image: url(../img/background_1920.jpg);
+}
+.bg-light.navbar .navbar-brand {
+  color: red;
+  overflow: hidden;
+  width: 70vw;
+  font-size: 14px;
+  white-space: normal;
+}
 
 .homepage .site-title-wrapper {
   position: static;

@@ -1,8 +1,10 @@
 site_name: Für Demokratie! Wiesbadener Bürgerinnen und Bürger im Widerstand gegen die NS-Diktatur
+mobile_site_name: Für Demokratie!<br> Wiesbadener Bürgerinnen und Bürger im Widerstand gegen die NS-Diktatur
 use_directory_urls: false
 theme:
     name: mkdocs
     custom_dir: 'custom_theme/'
+    nav_style: light
 extra_css:
     - css/background.css
 plugins:
