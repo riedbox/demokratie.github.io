@@ -14,6 +14,8 @@
 
                 {% if page.meta.hauptbild %}
                     <img class="hauptbild" src="bilder/{{ page.meta.hauptbild }}" alt="Hauptbild">
+                {%- else %}
+                     <div class="hauptbild-ersatz"></div>
                 {%- endif %}
                 {%- if page.parent %}
                     <ul class="nav flex-column">

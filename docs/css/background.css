@@ -205,7 +205,7 @@ h1 .modal .modal-content,
   display: flex;
   max-width: 500px;
   flex-wrap: wrap;
-  margin-top: 12.75em;
+  margin-top: 13.25em;
 }
 
 .uebersicht img.bild {
@@ -240,6 +240,7 @@ h1 .modal .modal-content,
 .page-nav img.hauptbild {
   max-width: 100%;
   margin: 0;
+  padding-bottom: 10px;
 }
 .navitem {
   max-width: 100%;
@@ -250,7 +251,9 @@ h1 .modal .modal-content,
   padding-left: 0;
   padding-right: 0;
 }
-
+.hauptbild-ersatz {
+  height: 265px;
+}
 .site-title-wrapper {
   padding-top: 0.25em;
   padding-bottom: 1em;
@@ -258,6 +261,7 @@ h1 .modal .modal-content,
   z-index: 99;
   text-align: center;
   background-image: url(../img/background_1920.jpg);
+  background-position: 10% 10%;
   width: 100%;
 }
 .bg-light {
@@ -282,7 +286,7 @@ h1 .modal .modal-content,
   width: 100%;
 }
 .geburtsdaten {
-  margin-bottom: 8.5em;
+  margin-bottom: 9em;
 }
 .site-title-padding {
   margin-bottom: 3em;

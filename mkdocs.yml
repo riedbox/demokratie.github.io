@@ -85,6 +85,11 @@ nav:
         - personen/johannes-maaß/kurz.md
         - personen/johannes-maaß/lang.md
   - 'Einleitung':  'einleitung/kurz.md'
+  - 'Einleitung':
+    - 'Einleitung Lang': einleitung/lang.md
+    - 'Einleitung Kurz': einleitung/kurz.md
+    - einleitung/zitate.md
+    - 'Literaturhinweise': einleitung/literatur.md
   - 'projekt.md'
   - 'information.md'
   - 'impressum.md'
