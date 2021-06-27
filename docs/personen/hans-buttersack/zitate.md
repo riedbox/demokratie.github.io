@@ -1,3 +1,10 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der Bergkirchengemeinde, Rechtsbeistand des lokalen Pfarrernotbundes, dann der Bekennenden Kirche und u. a. auch von Wiesbadener Juden
+geburtsdaten: 11.08.1880 – 13.02.1945
+name: Dr. Hans Buttersack
+---
 ***Zitate zu Dr. Hans Buttersack***
 
 Öfters erhielt unser Vater Redeverbot, Kollekten wurden beschlagnahmt,

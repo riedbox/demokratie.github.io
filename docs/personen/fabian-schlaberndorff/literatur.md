@@ -1,3 +1,11 @@
+---
+title: Literaturhinweise
+hauptbild: Abb 1.jpg
+beschreibung: Jurist, Oberleutnant der Reserve, 1943 Beteiligter eines Attentatsversuchs auf Hitler, Netzwerker und Kurier der Verschwörer vom „20. Juli 1944“, später Rechtsanwalt und Notar sowie Richter am Bundesverfassungsgericht
+geburtsdaten: 01.07.1907 – 3.09.1980
+name: Dr. Fabian von Schlabrendorff
+---
+
 **Literatur**
 
 Fabian von Schlabrendorff: Offiziere gegen Hitler. Neue, durchges. u.

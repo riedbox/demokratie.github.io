@@ -1,3 +1,11 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Polizeidirektor, Leiter des zivilen Wiesbadener Widerstandsstützpunktes im Rahmen des reichsweiten Vertrauensleutenetzwerks Wilhelm Leuschners, später kurzzeitig Mitarbeit im Aufbau-Ausschuss Wiesbaden
+geburtsdaten: 14.06.1885 – 10.06.1945
+name: Heinrich Maschmeyer
+---
+
 ***Zitate zweier Zeitzeugen***
 
 Das mit am besten organisierte Gebiet war der Bereich zwischen Kassel

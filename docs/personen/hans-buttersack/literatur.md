@@ -1,3 +1,11 @@
+---
+title: Literaturhinweise
+hauptbild: Abb 1.jpg
+beschreibung: Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der Bergkirchengemeinde, Rechtsbeistand des lokalen Pfarrernotbundes, dann der Bekennenden Kirche und u. a. auch von Wiesbadener Juden
+geburtsdaten: 11.08.1880 – 13.02.1945
+name: Dr. Hans Buttersack
+---
+
 **Literatur**
 
 Lothar Bembenek (Red.): Dem Vaterland getreue bleib ich bis in den Tod.

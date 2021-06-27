@@ -1,3 +1,10 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Buchhalter, einer der beiden lokalen Anführer des Widerstandes der Republikschutzorganisation Reichsbanner Schwarz-Rot-Gold, später Gewerkschaftsfunktionär, SPD-Stadtverordneter und ehrenamtlicher Stadtrat, dann hauptamtlicher Stadtrat für Jugend, Soziales und Gesundheit
+geburtsdaten: 30.01.1906 – 12.12.1993
+name: Georg Feller
+---
 ***Zitate aus Interviews sowie Berichten Georg Fellers***
 
 Die letzten Jahre der Weimarer Republik waren für uns von einer Vielzahl

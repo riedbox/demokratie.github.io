@@ -1,3 +1,11 @@
+---
+title: Literaturhinweise
+hauptbild: Abb 1.jpg
+beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“ als Kulturstaatssekretär vorgesehen
+geburtsdaten: 31.05.1885 – 23.01.1945
+name: Hermann Kaiser
+---
+
 **Literatur**
 
 Fabian von Schlabrendorff: Begegnungen in fünf Jahrzehnten. Tübingen

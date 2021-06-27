@@ -1,3 +1,10 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Volksschullehrer, Publizist, Mitgründer und Leiter der Volkshochschule (VHS), SPD-Stadtverordneter und ehrenamtlicher Stadtrat, spätestens seit 1942 Verfasser reformpädagogischer Abhandlungen für die Zeit nach Hitler, später Vorsitzender des Aufbau-Ausschusses Wiesbaden und des Bürgerrats Wiesbaden, u. a. Vorsitzender der SPD, wiederum Stadtverordneter, hauptamtlicher Stadtrat für Schule, Volksbildung und Sport, vorläufiger Leiter der neu gegründeten VHS, dann deren Vorstandsmitglied
+geburtsdaten: 27.02.1882 – 24.04.1953
+name: Johannes Maaß
+---
 ***Zitate von bzw. zu Johannes Maaß***
 
 Ich habe zu sprechen über die NS-Aufzucht und über das Wesen der

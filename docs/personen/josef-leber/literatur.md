@@ -1,3 +1,10 @@
+---
+title: Literaturhinweise
+hauptbild: Abb 1.jpg
+beschreibung: Verkäufer, Mitglied des Katholischen Jungmänner-Verbandes (KJMV) und der Hitler-Jugend (HJ), in der Wehrmacht zuletzt Oberreiter
+geburtsdaten: 30.9.1923 – 13.3.1943
+name: Josef Leber
+---
 **Literatur**
 
 Hans Beudt: Der „Fall“ Josef Leber, in: Karl-Wilhelm Bruno, Hans-Günther

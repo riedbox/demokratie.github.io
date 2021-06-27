@@ -1,3 +1,11 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“ als Kulturstaatssekretär vorgesehen
+geburtsdaten: 31.05.1885 – 23.01.1945
+name: Hermann Kaiser
+---
+
 ***Zitate von und über Hermann Kaiser***
 
 Habe oft eine unbändige Kraft, mit Mut die Wahrheit zu sagen. Ein Leben

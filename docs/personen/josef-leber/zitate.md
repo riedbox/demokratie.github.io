@@ -1,3 +1,10 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Verkäufer, Mitglied des Katholischen Jungmänner-Verbandes (KJMV) und der Hitler-Jugend (HJ), in der Wehrmacht zuletzt Oberreiter
+geburtsdaten: 30.9.1923 – 13.3.1943
+name: Josef Leber
+---
 ***Zitate aus der Anklageschrift des Oberstaatsanwalts beim
 Sondergericht Frankfurt/M. gegen Josef Leber vom April 1941***
 

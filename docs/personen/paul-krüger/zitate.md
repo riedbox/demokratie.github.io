@@ -1,3 +1,10 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Tiefbautechniker und Bauführer, kommunistischer Gewerkschaftsfunktionär und Stadtverordneter, Aktivist des lokalen KPD-Widerstandes, später Mitarbeit im Aufbau-Ausschuss Wiesbaden und dann im Bürgerrat, Mitgründer der Demokratischen Einheitsgewerkschaft Wiesbaden sowie abermals Gewerkschaftsfunktionär, außerdem u. a. Landtagsabgeordneter und Vorsitzender der KPD-Stadtverordnetenfraktion
+geburtsdaten: 17.06.1903 – 16.12.1990
+name: Paul Krüger
+---
 ***Zitate aus Paul Krügers Bericht über Verfolgung und Widerstand in
 Wiesbaden***
 

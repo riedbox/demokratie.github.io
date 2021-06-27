@@ -1,3 +1,10 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Schneiderin und Stickerin, Kinderkrankenschwester, Bürogehilfin beim Gesundheitsamt, Aktivistin einer von Georg Buch angeführten Widerstandsgruppe aus Mitgliedern der Sozialistischen Arbeiterjugend (SAJ) und der SPD, später Stadtverordnete sowie Fürsorgesachbearbeiterin beim Sozialamt
+geburtsdaten: 24.09.1906 – 29.11.1994
+name: Henny Neu
+---
 ***Zitate von und über Henny Neu***
 
 1933, als die Nationalsozialisten die Macht im Reich übernommen hatten,

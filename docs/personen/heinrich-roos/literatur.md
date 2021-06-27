@@ -1,3 +1,10 @@
+---
+title: Literaturhinweise
+hauptbild: Abb 1.jpg
+beschreibung: Kommunalbeamter, Akteur einer lokalen, bürgerlich-demokratischen Widerstandsgruppe, später Mitgründer des Aufbau-Ausschusses Wiesbaden sowie u. a. auch der CDU, Stadtrat und Stadtkämmerer
+geburtsdaten: 21.12.1906 – 30.10.1988
+name: Heinrich Roos
+---
 **Literatur**
 
 Hedwig-Brüchert-Schunk: Beispiele bürgerlichen Widerstandes in Hessen:

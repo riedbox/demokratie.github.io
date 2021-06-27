@@ -1,3 +1,10 @@
+---
+title: Zitate zur Person
+hauptbild: Abb 1.jpg
+beschreibung: Chef des Generalstabes des Heeres, Generaloberst a. D., Haupt der militärisch-bürgerlichen Opposition, designiertes Staatsoberhaupt der Verschwörer des „20. Juli"
+geburtsdaten: 24.09.1903 – 05.08.1995
+name: Georg Buch
+---
 ***Zitate aus Interviews sowie Berichten Georg Buchs***
 
 Wir konnten doch nicht einfach unsere Gesinnung verraten.
