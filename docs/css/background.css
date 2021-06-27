@@ -32,11 +32,7 @@ body {
   font-size: 20px;
 }
 
-@media screen and (max-width: 576px) {
-  body {
-    font-size: 16px;
-  }
-}
+
 .navitem {
   font-size: 18px;
 }
@@ -73,7 +69,6 @@ body.homepage > .container {
 
 h1 {
   color: red;
-  font-size: 32pt;
   text-align: center;
 }
 
@@ -86,11 +81,13 @@ a:hover {
   color: black;
   text-decoration: none;
 }
+
 a.nav-link:hover {
   background-color: #999999;
   color: black;
   min-height: 25px;
 }
+
 .bs-sidebar .nav > li > a {
   font-weight: normal;
 }
@@ -100,6 +97,7 @@ a.nav-link:hover {
   text-decoration: none;
   border-right: none;
 }
+
 .bs-sidebar > .navbar-collapse > .nav {
   width: auto;
 }
@@ -109,7 +107,7 @@ ul img {
 }
 
 .page-nav a.nav-link {
-  background-color: #48afaf;
+  background-color: var(--turkis-color);
   color: white;
   margin: 0.5rem;
 }
@@ -170,6 +168,7 @@ body.homepage {
   float: right;
   margin-right: 0;
 }
+
 .person-link img {
   max-width: 100%;
 
@@ -177,9 +176,11 @@ body.homepage {
   height: 300px;
   width: 300px;
 }
+
 #toc-collapse ul {
   padding: 0;
 }
+
 .modal-backdrop.show {
   opacity: 0.9;
   background: #444444;
@@ -217,15 +218,17 @@ h1 .modal .modal-content,
 .carousel-control-next {
   right: -100px;
 }
+
 .modal-header button {
   color: white;
 }
 
 .page-title {
-  color: #48afaf;
+  color: var(--turkis-color);
 }
+
 .uebersicht {
-  background-color: #48afaf;
+  background-color: var(--turkis-color);;
   display: flex;
   max-width: 500px;
   flex-wrap: wrap;
@@ -237,6 +240,7 @@ h1 .modal .modal-content,
   margin: 1em;
   max-width: 150px;
 }
+
 .person-link h2 {
   line-height: 1em;
   margin-bottom: 0.25em;
@@ -250,6 +254,7 @@ h1 .modal .modal-content,
 .carousel-inner {
   height: 80vh;
 }
+
 .carousel-item img {
   max-height: 65vh;
   width: auto !important;
@@ -261,26 +266,31 @@ h1 .modal .modal-content,
   margin-left: 1em;
   margin-right: 1em;
 }
+
 .page-nav img.hauptbild {
   max-width: 100%;
   margin: 0;
   padding-bottom: 10px;
 }
+
 .navitem {
   max-width: 100%;
 }
+
 .bs-sidebar.page-nav .navitem a.nav-link {
   margin-right: 0;
   margin-left: 0;
   padding-left: 0;
   padding-right: 0;
 }
+
 .hauptbild-ersatz {
   height: 230px;
 }
+
 .site-title-wrapper {
   padding-top: 0.25em;
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
   position: fixed;
   z-index: 99;
   text-align: center;
@@ -290,12 +300,14 @@ h1 .modal .modal-content,
   background-repeat: inherit;
   width: 100%;
 }
+
 .bg-light {
   background-image: inherit;
   background-position: inherit;
   background-size: inherit;
   background-repeat: inherit;
 }
+
 .bg-light.navbar .navbar-brand {
   color: red;
   overflow: hidden;
@@ -303,6 +315,7 @@ h1 .modal .modal-content,
   font-size: 14px;
   white-space: normal;
 }
+
 .bg-light.navbar .navbar-brand .headline {
   font-size: 18px;
 }
@@ -317,10 +330,45 @@ h1 .modal .modal-content,
   margin: 0 auto;
   width: 100%;
 }
+
 .geburtsdaten {
   margin-bottom: 9em;
 }
+
 .site-title-padding {
   margin-bottom: 3em;
   padding-bottom: 3em;
+}
+
+@media screen and (max-width: 576px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+
+@media (min-width: 992px) { 
+
+  h1 {
+    font-size: 2.75rem;
+  }
+
+}
+
+
+@media (min-width: 1200px) { 
+
+
+
 }
