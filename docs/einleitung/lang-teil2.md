@@ -1,5 +1,5 @@
 ---
-title: LangEinleitung Teil 2
+title: LangEinleitung 2
 ---
 
 Die SPD nahm auch in Wiesbaden bereits 1933 Abstand von sämtlichen

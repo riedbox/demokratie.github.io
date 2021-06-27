@@ -1,5 +1,5 @@
 ---
-title: LangEinleitung Teil 3
+title: LangEinleitung 3
 ---
 
 Welche weiteren Wiesbadener NS-Gegner in die „20. Juli“-Aktivitäten

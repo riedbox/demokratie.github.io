@@ -90,9 +90,9 @@ nav:
     - 'KurzEinleitung': einleitung/kurz.md
     - 'LangEinleitung': einleitung/lang.md
     - 'Einleitung':
-      - 'LangEinleitung Teil 2': einleitung/lang-teil2.md
-      - 'LangEinleitung Teil 3': einleitung/lang-teil3.md
-      - 'LangEinleitung Teil 4': einleitung/lang-teil4.md
+      - 'LangEinleitung 2/4': einleitung/lang-teil2.md
+      - 'LangEinleitung 3/4': einleitung/lang-teil3.md
+      - 'LangEinleitung 4/4': einleitung/lang-teil4.md
     - einleitung/zitate.md
     - 'Literaturhinweise': einleitung/literatur.md
   - 'projekt.md'
