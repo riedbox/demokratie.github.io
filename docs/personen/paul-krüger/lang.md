@@ -14,9 +14,6 @@ bilder:
  - Abb 5.jpg:
     format: links
     unterzeile: Erstes Blatt ihres zweiundzwanzigseitigen Berichts
- - Abb 6.jpg:
-    format: links
-    unterzeile: k.A.
 geburtsdaten: 17.06.1903 – 16.12.1990
 name: Paul Krüger
 ---
@@ -107,7 +104,7 @@ Fürsorgeunterstützung leben sowie von kleineren, mehr oder minder
 {{bild(bilder,3)}}regelmäßigen Zuwendungen aus der kommunistischen Solidargemeinschaft. In
 der nächsten Zeit hatte Krüger sich täglich bei der Gestapo zu melden,
 die ihm dann aber eine Beschäftigung als Erdarbeiter bei der Baufirma
-{{bild(bilder,4)}}Jakob Wiederspahn KG zuwies. Diese setzte ihn später als
+Jakob Wiederspahn KG zuwies. Diese setzte ihn später als
 Tiefbautechniker und zuletzt als Bauführer ein und zwar bis zum
 Kriegsende.
 
