@@ -18,7 +18,7 @@
                      <div class="hauptbild-ersatz"></div>
                 {%- endif %}
                 {%- if page.parent %}
-                    <ul class="nav flex-column">
+                    <ul class="d-none d-lg-block nav flex-column">
                         {%- for nav_item in page.parent.children %}
                             {%- if not nav_item.children %}
                             <li class="navitem{% if nav_item.active %} active{% endif %}">
@@ -44,6 +44,8 @@
             <p class="geburtsdaten">{{ page.meta.geburtsdaten }}</p>
         {%- endif %}
         {{ page.content }}
+
+
     </div>
 
     {% if page.meta.bilder %}
@@ -81,7 +83,7 @@
         </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-xl-4">
         <div class="container uebersicht justify-content-center">
             {% for item in page.meta.bilder %}
                 {% set slide_index = loop.index -1 %}
@@ -91,7 +93,21 @@
                     </span>
                 {% endfor %}
             {% endfor %}
-            </div>
+        </div>
     </div>
+</div>
+{%- endif %}
+
+{%- if page.parent %}
+<div  class="d-lg-none bs-sidebar affix text-center page-nav bg-transparent">
+    <ul class="nav flex-column">
+        {%- for nav_item in page.parent.children %}
+            {%- if not nav_item.children %}
+            <li class="navitem{% if nav_item.active %} active{% endif %}">
+                <a href="{{ nav_item.url|url }}" class="nav-link">{{ nav_item.title }}</a>
+            </li>
+            {%- endif %}
+        {%- endfor %}
+    </ul>
 </div>
 {%- endif %}
