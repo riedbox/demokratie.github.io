@@ -1,3 +1,7 @@
+:root {
+  --turkis-color: #48afaf;
+}
+
 @font-face {
   font-family: "OpenSans";
   src: url("fonts/OpenSans-Regular.ttf");
@@ -8,6 +12,13 @@
   src: url("fonts/OpenSans-SemiBold.ttf");
 }
 
+.dropdown-menu {
+  background: inherit;
+}
+
+.dropdown-item.open, .dropdown-item.active, .dropdown-item:hover{
+  background-color: var(--turkis-color);
+}
 body {
   background-image: url(../img/background_800.jpg);
   background-size: auto;
