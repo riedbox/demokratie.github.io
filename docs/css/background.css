@@ -14,6 +14,7 @@
 
 .dropdown-menu {
   background: inherit;
+  border: none;
 }
 
 .dropdown-item.open,
@@ -127,6 +128,10 @@ ul img {
   left: 0;
   bottom: 0;
   right: 0;
+}
+
+.homepage .video video {
+  height: 100vh;
 }
 
 @keyframes fadeinout {
@@ -284,9 +289,6 @@ h1 .modal .modal-content,
   padding-right: 0;
 }
 
-.hauptbild-ersatz {
-  height: 230px;
-}
 
 .site-title-wrapper {
   padding-top: 0.25em;
@@ -340,6 +342,10 @@ h1 .modal .modal-content,
   padding-bottom: 3em;
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
+
 @media screen and (max-width: 576px) {
   body {
     font-size: 16px;
@@ -364,6 +370,10 @@ h1 .modal .modal-content,
     font-size: 2.75rem;
   }
 
+  .hauptbild-ersatz {
+    height: 230px;
+  }
+  
 }
 
 

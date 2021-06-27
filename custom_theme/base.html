@@ -94,16 +94,7 @@
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
                         {%- for nav_item in nav %}
-                        {%- if nav_item.children %}
-                            <li class="dropdown{% if nav_item.active %} active{% endif %}">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">{{ nav_item.title }} <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                {%- for nav_item in nav_item.children %}
-                                    {% include "nav-sub.html" %}
-                                {%- endfor %}
-                                </ul>
-                            </li>
-                        {%- else %}
+                        {%- if not nav_item.children %}
                             <li class="navitem{% if nav_item.active %} active{% endif %}">
                                 <a href="{{ nav_item.url|url }}" class="nav-link">{{ nav_item.title }}</a>
                             </li>
@@ -121,21 +112,6 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                        {%- endif %}
-                      {%- endblock %}
-
-                      {%- block next_prev %}
-                        {%- if page and (page.next_page or page.previous_page) %}
-                            <li class="nav-item">
-                                <a rel="prev" {% if page.previous_page %}href="{{ page.previous_page.url|url }}" class="nav-link"{% else %}class="nav-link disabled"{% endif %}>
-                                    <i class="fa fa-arrow-left"></i> Previous
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a rel="next" {% if page.next_page %}href="{{ page.next_page.url|url }}" class="nav-link"{% else %}class="nav-link disabled"{% endif %}>
-                                    Next <i class="fa fa-arrow-right"></i>
-                                </a>
-                            </li>
                         {%- endif %}
                       {%- endblock %}
 
@@ -182,8 +158,8 @@
                     {%- if page.file.url == 'index.html' %}
                         <div class="col-md-12" role="main">{% include "content.html" %}</div>
                     {%- else -%}
-                        <div class="col-md-1">{% include "toc.html" %}</div>
-                        <div class="col-md-11" role="main">{% include "content.html" %}</div>
+                        <div class="col-lg-1">{% include "toc.html" %}</div>
+                        <div class="col-lg-11" role="main">{% include "content.html" %}</div>
                     {%- endif %}
                 {%- endblock %}
             </div>
