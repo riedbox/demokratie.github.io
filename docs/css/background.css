@@ -10,7 +10,8 @@
 
 body {
   background-image: url(../img/background_800.jpg);
-  background-size: cover;
+  background-size: auto;
+  background-repeat: repeat;
   box-sizing: content-box;
   color: black;
   font-family: OpenSans, Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -261,12 +262,17 @@ h1 .modal .modal-content,
   position: fixed;
   z-index: 99;
   text-align: center;
-  background-image: url(../img/background_1920.jpg);
-  background-position: 10% 10%;
+  background-image: inherit;
+  background-position: inherit;
+  background-size: inherit;
+  background-repeat: inherit;
   width: 100%;
 }
 .bg-light {
-  background-image: url(../img/background_1920.jpg);
+  background-image: inherit;
+  background-position: inherit;
+  background-size: inherit;
+  background-repeat: inherit;
 }
 .bg-light.navbar .navbar-brand {
   color: red;
