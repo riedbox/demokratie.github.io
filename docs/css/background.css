@@ -258,6 +258,11 @@ h1 .modal .modal-content,
   object-fit: cover;
 }
 
+.bottom-page-nav .navitem {
+flex-grow: 1;
+flex-basis: 0;
+margin: 0 0.5em;
+}
 
 
 .page-nav img.hauptbild {
@@ -301,7 +306,7 @@ h1 .modal .modal-content,
 .bg-light.navbar .navbar-brand {
   color: red;
   overflow: hidden;
-  width: 70vw;
+
   font-size: 14px;
   white-space: normal;
 }

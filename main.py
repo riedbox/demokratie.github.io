@@ -99,7 +99,7 @@ def define_env(env):
         markup.extend("<div class=\"m-0 p-0\">")
         markup.extend("<div class=\"row\">")
         for directory in directories:
-            markup.extend("<a class=\"col-xl-4  col-md-6 person-link\" href=\"" + dirname + "/" + directory + "/kurz.html\">")
+            markup.extend("<a class=\"col-xl-4 col-md-6 person-link\" href=\"" + dirname + "/" + directory + "/kurz.html\">")
             markup.extend("<div class=\"container pl-0\">")
             markup.extend("<div class=\"row\">")
             markup.extend("<div class=\"col-6\">")

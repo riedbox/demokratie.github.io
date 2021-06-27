@@ -99,8 +99,8 @@
 {%- endif %}
 
 {%- if page.parent %}
-<div  class="d-lg-none bs-sidebar affix text-center page-nav bg-transparent">
-    <ul class="nav flex-column">
+<div  class="col bottom-page-nav d-lg-none bs-sidebar affix text-center page-nav bg-transparent">
+    <ul class="nav flex-row ">
         {%- for nav_item in page.parent.children %}
             {%- if not nav_item.children %}
             <li class="navitem{% if nav_item.active %} active{% endif %}">
