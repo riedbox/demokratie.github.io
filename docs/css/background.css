@@ -292,6 +292,9 @@ h1 .modal .modal-content,
   font-size: 14px;
   white-space: normal;
 }
+.bg-light.navbar .navbar-brand .headline {
+  font-size: 18px;
+}
 
 .homepage .site-title-wrapper {
   position: static;
