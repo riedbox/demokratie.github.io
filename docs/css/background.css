@@ -16,7 +16,9 @@
   background: inherit;
 }
 
-.dropdown-item.open, .dropdown-item.active, .dropdown-item:hover{
+.dropdown-item.open,
+.dropdown-item.active,
+.dropdown-item:hover {
   background-color: var(--turkis-color);
 }
 body {
