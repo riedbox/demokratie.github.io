@@ -99,14 +99,14 @@ def define_env(env):
         markup.extend("<div class=\"m-0 p-0\">")
         markup.extend("<div class=\"row\">")
         for directory in directories:
-            markup.extend("<a class=\"col-md-4 person-link\" href=\"" + dirname + "/" + directory + "/kurz.html\">")
+            markup.extend("<a class=\"col-xl-4  col-md-6 person-link\" href=\"" + dirname + "/" + directory + "/kurz.html\">")
             markup.extend("<div class=\"container\">")
             markup.extend("<div class=\"row\">")
-            markup.extend("<div class=\"col-md-6\">")
+            markup.extend("<div class=\"col-6\">")
             person_path = dir_path + "/" + dirname + "/" + directory
             markup.extend("<img class=\"m-0\" src=\"" + dirname + "/" + directory + "/bilder/Abb 1.jpg\"" + "/>")
             markup.extend("</div>")
-            markup.extend("<div class=\"p-0 col-md-6\">")
+            markup.extend("<div class=\"p-0 col-6\">")
             name = read_file(dir_path + "/" + dirname + "/" + directory + "/name.txt")
             markup.extend("<h2>" + name + "</h2>")
             geburtsdaten = read_file(dir_path + "/" + dirname + "/" + directory + "/geburtsdaten.txt")
