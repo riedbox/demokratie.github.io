@@ -24,6 +24,12 @@
                             <li class="navitem{% if nav_item.active %} active{% endif %}">
                                 <a href="{{ nav_item.url|url }}" class="nav-link">{{ nav_item.title }}</a>
                             </li>
+                            {%- else %}
+                                {%- for child_nav_item in nav_item.children %}
+                                <li class="ml-3 navitem{% if child_nav_item.active %} active{% endif %}">
+                                    <a href="{{ child_nav_item.url|url }}" class="nav-link">{{ child_nav_item.title }}</a>
+                                </li>
+                                {%- endfor %}
                             {%- endif %}
                         {%- endfor %}
                     </ul>
