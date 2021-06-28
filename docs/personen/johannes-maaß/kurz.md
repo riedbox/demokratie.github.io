@@ -5,10 +5,6 @@ beschreibung: Volksschullehrer, Publizist, Mitgründer und Leiter der Volkshochs
 geburtsdaten: 27.02.1882 – 24.04.1953
 name: Johannes Maaß
 ---
-**Studienrat, Hauptmann der Reserve, Netzwerker der
-militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“
-als Kulturstaatssekretär vorgesehen**
-
 Nachdem der stets auch politisch und publizistisch außerordentlich
 engagierte Pädagoge zuvor noch die NSDAP, insbesondere deren Rassismus
 und ihre „Blut und Boden“-Ideologie scharf kritisiert hatte, trat er im
@@ -40,3 +36,5 @@ nicht involviert war. Zu Beginn des folgenden Jahres aus dem KZ Dachau
 entlassen, kehrte er erst Ende Mai 1945 nach Wiesbaden zurück. Sofort
 engagierte er sich auf ebenso vielfältige wie vorbildliche Weise für die
 Re-Demokratisierung auf kommunaler und Landesebene.
+
+Dr. Axel Ulrich

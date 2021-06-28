@@ -6,8 +6,6 @@ geburtsdaten: 31.05.1885 – 23.01.1945
 name: Hermann Kaiser
 ---
 
-**Literatur**
-
 Fabian von Schlabrendorff: Begegnungen in fünf Jahrzehnten. Tübingen
 1979, S. 289–320.
 

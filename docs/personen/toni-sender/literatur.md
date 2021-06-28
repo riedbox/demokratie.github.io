@@ -5,7 +5,6 @@ beschreibung: Büroangestellte und Journalistin, Gewerkschafterin, u. a. SPD-Sta
 geburtsdaten: 29.11.1888 – 26.06.1964
 name: Toni Sender
 ---
-**Literatur**
 
 Toni Sender: Autobiographie einer deutschen Rebellin. Hrsg. u. eingel.
 von Gisela Brinker-Gabler. Frankfurt/M. 1981.

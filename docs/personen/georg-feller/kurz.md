@@ -5,12 +5,6 @@ beschreibung: Buchhalter, einer der beiden lokalen Anführer des Widerstandes de
 geburtsdaten: 30.01.1906 – 12.12.1993
 name: Georg Feller
 ---
-**Buchhalter, einer der beiden lokalen Anführer des Widerstandes der
-Republikschutzorganisation Reichsbanner Schwarz-Rot-Gold, später
-Gewerkschaftsfunktionär, SPD-Stadtverordneter und ehrenamtlicher
-Stadtrat, dann hauptamtlicher Stadtrat für Jugend, Soziales und
-Gesundheit**
-
 Das Gründungsmitglied des Wiesbadener Reichsbanners war schon 1929 wegen
 seines antinazistischen Engagements zu einer Bewährungsstrafe verurteilt
 worden. Im Zuge der Auflösung des hiesigen Ortsvereins im Mai 1933 hatte

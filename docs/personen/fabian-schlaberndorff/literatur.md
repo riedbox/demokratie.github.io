@@ -6,8 +6,6 @@ geburtsdaten: 01.07.1907 – 3.09.1980
 name: Dr. Fabian von Schlabrendorff
 ---
 
-**Literatur**
-
 Fabian von Schlabrendorff: Offiziere gegen Hitler. Neue, durchges. u.
 erw. Ausg. von Walter Bußmann. Nach der Edition von Gero v. Gaevernitz.
 Berlin 1984.

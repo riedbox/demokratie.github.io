@@ -6,8 +6,6 @@ geburtsdaten: 14.06.1885 – 10.06.1945
 name: Heinrich Maschmeyer
 ---
 
-**Literatur**
-
 Emil Henk: Die Tragödie des 20. Juli 1944. Ein Beitrag zur politischen
 Vorgeschichte. 2., erw. Aufl. Heidelberg 1946, dort insb. S. 46–51,
 siehe hierzu auch die entsprechenden Auszüge sowie die diesbezüglichen

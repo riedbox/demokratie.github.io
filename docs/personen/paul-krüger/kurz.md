@@ -5,13 +5,6 @@ beschreibung: Tiefbautechniker und Bauführer, kommunistischer Gewerkschaftsfunk
 geburtsdaten: 17.06.1903 – 16.12.1990
 name: Paul Krüger
 ---
-**Tiefbautechniker und Bauführer, kommunistischer Gewerkschaftsfunktionär
-und Stadtverordneter, Aktivist des lokalen KPD-Widerstandes, später
-Mitarbeit im Aufbau-Ausschuss Wiesbaden und dann im Bürgerrat,
-Mitgründer der Demokratischen Einheitsgewerkschaft Wiesbaden sowie
-abermals Gewerkschaftsfunktionär, außerdem u. a. Landtagsabgeordneter
-und Vorsitzender der KPD-Stadtverordnetenfraktion**
-
 Der im Stadtvermessungsamt beschäftigte Betriebsrat hatte 1932 in den
 kommunalen Betrieben einen Antifaschistischen Ausschuss organisiert. Im
 Vorjahr bereits war ihm die politische Leitung des hiesigen Unterbezirks
@@ -40,4 +33,4 @@ demokratischen Neubeginn in unserer Stadt wie auch in Hessen ein. Bis
 zuletzt engagierte er sich für die Erinnerung an den antinazistischen
 Widerstand.
 
-\[AU\]
+Dr. Axel Ulrich 

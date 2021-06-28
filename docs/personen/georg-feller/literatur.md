@@ -6,8 +6,6 @@ geburtsdaten: 30.01.1906 – 12.12.1993
 name: Georg Feller
 ---
 
-**Literatur**
-
 Georg Feller: Aus der Widerstandsarbeit des Wiesbadener Reichsbanners,
 in: Axel Ulrich: Freiheit! Das Reichsbanner Schwarz Rot Gold und der
 Kampf von Sozialdemokraten in Hessen gegen den Nationalsozialismus

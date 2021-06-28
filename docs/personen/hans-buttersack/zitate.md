@@ -5,7 +5,6 @@ beschreibung: Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der Bergkirc
 geburtsdaten: 11.08.1880 – 13.02.1945
 name: Dr. Hans Buttersack
 ---
-***Zitate zu Dr. Hans Buttersack***
 
 Öfters erhielt unser Vater Redeverbot, Kollekten wurden beschlagnahmt,
 Versammlungen in der Bergkirche wurden verboten. Es kam vor, dass die

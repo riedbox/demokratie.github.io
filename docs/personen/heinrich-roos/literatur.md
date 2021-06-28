@@ -5,7 +5,6 @@ beschreibung: Kommunalbeamter, Akteur einer lokalen, bürgerlich-demokratischen 
 geburtsdaten: 21.12.1906 – 30.10.1988
 name: Heinrich Roos
 ---
-**Literatur**
 
 Hedwig-Brüchert-Schunk: Beispiele bürgerlichen Widerstandes in Hessen:
 Der Freundeskreis Heinrich Roos in Wiesbaden und der Kaufmann-Will-Kreis

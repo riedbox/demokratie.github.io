@@ -5,18 +5,16 @@ bilder:
  - Abb 2.jpg:
     format: links
     unterzeile: Treffen des antinazistischen Freundeskreises um Roos (4. von r.) in Bodenheim am 9. November 1934. 
- - Abb 3 (1).jpg:
+ - Abb 3.jpg:
     format: links
     unterzeile: Aus dem sechsseitigen Widerstandsbericht von Heinrich Roos vom 29. März 1980
- - Abb 3 (2).jpg:
-    format: links
-    unterzeile: Aus dem sechsseitigen Widerstandsbericht von Heinrich Roos vom 29. März 1980
-    format: links
-    unterzeile: Oberbürgermeister Hans Heinrich Redlhammer bei der Vereidigung der Stadträte Philipp Holl, Heinrich Roos, Eugen Dengel, Johannes Maaß und Georg Buch (von l. nach r.) in der Aula der damaligen Gewerbeschule in der Wellritzstraße am 12. August 1946
  - Abb 4.jpg:
     format: links
-    unterzeile: Oberbürgermeister Hans Heinrich Redlhammer bei der Vereidigung der Stadträte Philipp Holl, Heinrich Roos, Eugen Dengel, Johannes Maaß und Georg Buch (von l. nach r.) in der Aula der damaligen Gewerbeschule in der Wellritzstraße am 12. August 1946
+    unterzeile: Aus dem sechsseitigen Widerstandsbericht von Heinrich Roos vom 29. März 1980
  - Abb 5.jpg:
+    format: links
+    unterzeile: Oberbürgermeister Hans Heinrich Redlhammer bei der Vereidigung der Stadträte Philipp Holl, Heinrich Roos, Eugen Dengel, Johannes Maaß und Georg Buch (von l. nach r.) in der Aula der damaligen Gewerbeschule in der Wellritzstraße am 12. August 1946
+ - Abb 6.jpg:
     format: rechts
     unterzeile: Todesanzeige der Landeshauptstadt
 geburtsdaten: 21.12.1906 – 30.10.1988

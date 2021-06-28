@@ -6,8 +6,6 @@ geburtsdaten: 11.08.1880 – 13.02.1945
 name: Dr. Hans Buttersack
 ---
 
-**Literatur**
-
 Lothar Bembenek (Red.): Dem Vaterland getreue bleib ich bis in den Tod.
 Drei Wiesbadener Biographien: Jürgen Stroop – Hermann Kaiser – Dr. Hans
 Buttersack. Hrsg.: Verein Wiesbadener Museum der Neuzeit. Wiesbaden 1989

@@ -6,10 +6,6 @@ geburtsdaten: 29.06.1880 - 20.07.1944
 name: Ludwig Beck
 ---
 
-**Chef des Generalstabes des Heeres, Generaloberst a. D., Haupt der
-militärisch-bürgerlichen Opposition, designiertes Staatsoberhaupt der
-Verschwörer des „20. Juli“**
-
 Die Machtübertragung an Hitler und den daraus resultierenden
 „politischen Umschwung“ hatte der Sohn eines Biebricher Fabrikanten als
 „ersten großen Lichtblick seit 1918“ empfunden. Strikter Befürworter
@@ -46,3 +42,5 @@ ausersehen. Nach der Niederschlagung der Erhebung im Oberkommando des
 Heeres, der Berliner Kommandozentrale der Verschwörer, wurde Beck dort
 die Gelegenheit zur Selbsttötung gewährt, nach deren zweimaligem
 Scheitern der Schwerverwundete erschossen worden ist.
+
+Dr. Axel Ulrich

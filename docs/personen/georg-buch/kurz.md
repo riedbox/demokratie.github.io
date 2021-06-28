@@ -5,13 +5,6 @@ beschreibung: Chef des Generalstabes des Heeres, Generaloberst a. D., Haupt der 
 geburtsdaten: 24.09.1903 – 05.08.1995
 name: Georg Buch
 ---
-**Schriftsetzer, Jugend- und zudem Propagandaleiter der SPD, auch deren
-letzter Vorsitzender vor der Illegalität, dann Anführer einer lokalen
-Widerstandsgruppe zumeist jüngerer Sozialdemokraten, später wiederum
-Multifunktionär seiner Partei, Stadtverordneter, hauptamtlicher
-Stadtrat, Landtagsabgeordneter, Bürgermeister und Oberbürgermeister,
-Präsident des Hessischen Landtages**
-
 Seit 1928 hatte sich der mehrmalige Vorsitzende bzw. Jugendleiter der
 SAJ als überaus rühriger SPD-Propagandachef und -Versammlungsredner den
 Anhängern der NSDAP entgegengestemmt und dies sogar weit über Wiesbaden
@@ -37,3 +30,5 @@ auf vorbildliche Weise für den demokratischen Neubeginn in unserer Stadt
 wie auch in Hessen. Für die Erinnerung an Verfolgung und Widerstand
 während der NS-Diktatur hat er sich bis ins hohe Alter mit allem
 Nachdruck eingesetzt.
+
+Dr. Axel Ulrich

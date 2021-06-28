@@ -5,10 +5,6 @@ beschreibung: Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der Bergkirc
 geburtsdaten: 11.08.1880 – 13.02.1945
 name: Dr. Hans Buttersack
 ---
-**Rechtsanwalt und Notar, Mitglied des Kirchenvorstands der
-Bergkirchengemeinde, Rechtsbeistand des lokalen Pfarrernotbundes, dann
-der Bekennenden Kirche und u. a. auch von Wiesbadener Juden**
-
 Der deutschnationale Monarchist hatte die Machtübertragung an Hitler am
 30. Januar 1933 im Grunde begrüßt. Deshalb hat der Gauführer des
 paramilitärischen, strikt antirepublikanisch positionierten
@@ -35,3 +31,5 @@ Gestapo zur Vernehmung zitiert, unter Druck gesetzt und verschiedentlich
 für kürzere Zeit inhaftiert worden. Anfang Mai 1943 wurde er letztmalig
 verhaftet und ins KZ Dachau verschleppt. Nach fast zweijähriger Drangsal
 fiel er dort einer Fleckfieberepidemie zum Opfer.
+
+Dr. Axel Ulrich

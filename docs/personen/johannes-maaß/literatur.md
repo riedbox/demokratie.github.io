@@ -5,7 +5,6 @@ beschreibung: Volksschullehrer, Publizist, Mitgründer und Leiter der Volkshochs
 geburtsdaten: 27.02.1882 – 24.04.1953
 name: Johannes Maaß
 ---
-**Literatur**
 
 Alexander Hildebrand: Philanthrop und Reformpädagoge. Zum 100.
 Geburtstag von Johannes Maaß. Wiesbaden (Selbstverlag Hety Schmitt-Maaß)

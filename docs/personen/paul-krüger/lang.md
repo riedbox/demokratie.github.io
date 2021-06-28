@@ -13,7 +13,7 @@ bilder:
     unterzeile: Blick vom Turm A des KZ Sachsenhausen auf einige der Häftlingsbaracken
  - Abb 5.jpg:
     format: links
-    unterzeile: Erstes Blatt ihres zweiundzwanzigseitigen Berichts
+    unterzeile: k.A.
 geburtsdaten: 17.06.1903 – 16.12.1990
 name: Paul Krüger
 ---

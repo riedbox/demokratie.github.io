@@ -5,10 +5,6 @@ beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bü
 geburtsdaten: 31.05.1885 – 23.01.1945
 name: Hermann Kaiser
 ---
-**Studienrat, Hauptmann der Reserve, Netzwerker der
-militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“
-als Kulturstaatssekretär vorgesehen**
-
 Der nationalkonservativ-monarchistisch gesinnte Lehrer für u. a. Physik
 und Geschichte an der Wiesbadener Oranienschule hatte die
 Machtübertragung an Hitler begrüßt und war deshalb im Frühjahr 1933

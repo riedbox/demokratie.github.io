@@ -5,7 +5,6 @@ beschreibung: Schneiderin und Stickerin, Kinderkrankenschwester, Bürogehilfin b
 geburtsdaten: 24.09.1906 – 29.11.1994
 name: Henny Neu
 ---
-***Zitate von und über Henny Neu***
 
 1933, als die Nationalsozialisten die Macht im Reich übernommen hatten,
 wurden natürlich alle anderen Organisationen verboten, die nicht auf das
@@ -49,4 +48,4 @@ verkündet: Sabine Schwalbach 15 Monate, Henny Neu 15 Monate, Ännchen
 Ebert zwölf Monate usw. (aus ihrem Bericht „Meine Inhaftierung“)
 
 Henny Neu war die zuverlässigste Mitstreiterin in der Nazi-Zeit. (Georg
-Buch) \[AU\]
+Buch)

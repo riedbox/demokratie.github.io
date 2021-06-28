@@ -5,7 +5,6 @@ beschreibung: Tiefbautechniker und Bauführer, kommunistischer Gewerkschaftsfunk
 geburtsdaten: 17.06.1903 – 16.12.1990
 name: Paul Krüger
 ---
-**Literatur**
 
 Paul Krüger: Verfolgung und Widerstand in Wiesbaden, in: Axel Ulrich
 (Bearb.): Hessische Gewerkschafter im Widerstand 1933–1945. Hrsg.:

@@ -10,7 +10,7 @@ bilder:
     unterzeile: k.A. 
  - Abb 4.jpg:
     format: links
-    unterzeile: Erstes Blatt des Sondergerichtsurteils gegen Josef Leber
+    unterzeile: Brief aus dem KZ Dachau an seine Ehefrau Anna
  - Abb 5.jpg:
     format: links
     unterzeile: k.A.

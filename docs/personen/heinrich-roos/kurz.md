@@ -5,10 +5,6 @@ beschreibung: Kommunalbeamter, Akteur einer lokalen, bürgerlich-demokratischen 
 geburtsdaten: 21.12.1906 – 30.10.1988
 name: Heinrich Roos
 ---
-**Kommunalbeamter, Akteur einer lokalen, bürgerlich-demokratischen
-Widerstandsgruppe, später Mitgründer des Aufbau-Ausschusses Wiesbaden
-sowie u. a. auch der CDU, Stadtrat und Stadtkämmerer**
-
 Nachdem der seinerzeitige linksliberale Aktivist wegen seines
 beharrlichen, auch publizistischen Eintretens für die Weimarer Republik
 1933 aus dem Dienst der Stadtverwaltung Wiesbaden entlassen worden war,
@@ -41,4 +37,4 @@ Juli 1944“ in Berlin. Nach der Befreiung von der NS-Diktatur gehörte
 Roos sogleich zu den treibenden Kräften der kommunalpolitischen
 Re-Demokratisierung.
 
-\[AU\]
+Dr. Axel Ulrich

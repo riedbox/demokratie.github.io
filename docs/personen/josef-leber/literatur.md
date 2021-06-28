@@ -5,7 +5,6 @@ beschreibung: Verkäufer, Mitglied des Katholischen Jungmänner-Verbandes (KJMV)
 geburtsdaten: 30.9.1923 – 13.3.1943
 name: Josef Leber
 ---
-**Literatur**
 
 Hans Beudt: Der „Fall“ Josef Leber, in: Karl-Wilhelm Bruno, Hans-Günther
 Seyfried (Hrsg.): Zeugen jener Zeit. Berichte katholischer Jugend in
