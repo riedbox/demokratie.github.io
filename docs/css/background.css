@@ -33,7 +33,6 @@ body {
   font-size: 20px;
 }
 
-
 .navitem {
   font-size: 18px;
 }
@@ -174,7 +173,6 @@ body.homepage {
   margin-right: 0;
 }
 
-
 #toc-collapse ul {
   padding: 0;
 }
@@ -185,8 +183,7 @@ body.homepage {
 }
 
 .unterzeile {
-  height: 4em;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 .modal .modal-content {
@@ -226,7 +223,7 @@ h1 .modal .modal-content,
 }
 
 .uebersicht {
-  background-color: var(--turkis-color);;
+  background-color: var(--turkis-color);
   display: flex;
   flex-wrap: wrap;
 }
@@ -247,25 +244,13 @@ h1 .modal .modal-content,
   margin-bottom: 0.25em;
 }
 
-.carousel-inner {
-  height: 80vh;
-}
-
-.carousel-item img {
-  max-height: 65vh;
-  width: auto !important;
-  margin: 0 auto;
-  object-fit: cover;
-}
-
 .bottom-page-nav .navitem {
-flex-grow: 1;
-flex-basis: 0;
-margin: 0 0.5em;
+  flex-grow: 1;
+  flex-basis: 0;
+  margin: 0 0.5em;
 }
 
-
- img.hauptbild {
+img.hauptbild {
   max-width: 100%;
   margin: 0;
   padding-bottom: 10px;
@@ -281,7 +266,6 @@ margin: 0 0.5em;
   padding-left: 0;
   padding-right: 0;
 }
-
 
 .site-title-wrapper {
   padding-top: 0.25em;
@@ -326,14 +310,12 @@ margin: 0 0.5em;
   width: 100%;
 }
 
-
 .site-title-padding {
   margin-bottom: 3em;
   padding-bottom: 3em;
 }
 .person-link img {
   max-width: 100%;
-
 }
 .navbar-light .navbar-nav .nav-link {
   color: black;
@@ -362,10 +344,18 @@ h2 {
   }
 }
 
-
+.carousel-control-prev {
+  left: 0;
+  bottom: 0;
+  top: inherit;
+}
+.carousel-control-next {
+  right: 0;
+  bottom: 0;
+  top: inherit;
+}
 
 @media (min-width: 576px) {
-
 }
 
 @media (min-width: 768px) {
@@ -375,10 +365,16 @@ h2 {
   h2 {
     font-size: 2rem;
   }
+
+  .bg-light.navbar .navbar-brand {
+    font-size: 18px;
+  }
+  .bg-light.navbar .navbar-brand .headline {
+    font-size: 20px;
+  }
 }
 
-
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
   .page-nav {
     margin-left: 1em;
     margin-right: 1em;
@@ -404,15 +400,57 @@ h2 {
   .uebersicht img.bild {
     max-width: 150px;
   }
+}
+
+@media (min-width: 1200px) {
   .uebersicht {
     max-width: 500px;
     margin-top: 13.25em;
   }
+  .page-title {
+    float: right;
+  }
 }
 
+.modal-dialog.modal-lg {
+  margin: 0.25em auto;
+  max-width: 80vw;
+  height: 95vh;
+}
+.modal-content,
+.carousel {
+  height: 100%;
+}
 
-@media (min-width: 1200px) { 
+.modal-body,
+.modal-header {
+  padding: 0;
+}
 
-.page-title {float: right}
+.carousel-inner {
+  height: 100%;
+}
 
+.carousel-item {
+  height: 90vh;
+}
+.carousel-item img {
+  height: 90%;
+  margin: 0 auto;
+  object-fit: contain;
+  cursor: zoom-in;
+}
+.carousel-control-prev,
+.carousel-control-next {
+  width: 50px;
+}
+.zoom-active .carousel-caption {
+  display: none;
+}
+
+.carousel-caption {
+  padding: 0;
+  bottom: -0.25em;
+  right: 0;
+  left: 0;
 }

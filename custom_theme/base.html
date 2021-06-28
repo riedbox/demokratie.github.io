@@ -44,7 +44,14 @@
         <script>
             function carouselZoom() {
             $(document).ready(function(){
-                $('.carousel-item').zoom({on: 'click', magnify: 2});
+                $('.carousel-item').zoom(
+                    {
+                        magnify: 3,
+                        on: 'click',
+                        onZoomIn: function() { this.parentNode.classList.toggle("zoom-active");},
+                        onZoomOut: function() { this.parentNode.classList.toggle("zoom-active");},
+                    }
+                );
             });
         }
         </script>
