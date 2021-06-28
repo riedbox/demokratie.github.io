@@ -402,6 +402,10 @@ h2 {
   }
 }
 
+.unterzeile {
+  font-size: 0.7em;
+}
+
 @media (min-width: 1200px) {
   .uebersicht {
     max-width: 500px;
@@ -410,6 +414,17 @@ h2 {
   .page-title {
     float: right;
   }
+  .unterzeile {
+    font-size: 1em;
+  }
+
+  .carousel-caption {
+    padding: 0;
+    bottom: -1.25em;
+    right: 0;
+    left: 0;
+  }
+  
 }
 
 .modal-dialog.modal-lg {
