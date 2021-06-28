@@ -8,7 +8,7 @@ praktischer Idealismus, in: Peter Lösche, Michael Scholing, Franz Walter
 (Hrsg.): Vor dem Vergessen bewahren. Lebenswege Weimarer
 Sozialdemokraten. Berlin 1988, S. 315–331.
 
-Jürgen Steen, Gabriele Weiden: Tony Sender 1888 – 1964. Rebellin,
+Jürgen Steen, Gabriele Weiden: Toni Sender 1888 – 1964. Rebellin,
 Demokratin, Weltbürgerin. Ausstellungskatalog. Frankfurt/M. 1992 (Kleine
 Schriften des Historischen Museums, Bd. 50).
 

@@ -24,7 +24,7 @@ bilder:
     format: links
     unterzeile: Zu Senders 50. Todestag an ihrem Biebricher Geburtshaus in der Stettiner Straße angebrachte Gedenktafel
 geburtsdaten: 29.11.1888 – 26.06.1964
-name: Tony Sender
+name: Toni Sender
 ---
 
 Die Tochter einer jüdischen Kaufmannsfamilie aus Biebrich am Rhein, die

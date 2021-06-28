@@ -3,7 +3,7 @@ title: Literaturhinweise
 hauptbild: Abb 1.jpg
 beschreibung: Büroangestellte und Journalistin, Gewerkschafterin, u. a. SPD-Stadtverordnete in Frankfurt, Reichstagsabgeordnete, Exilpolitikerin, als Direktorin von European Labor Research Arbeit für den US-Geheimdienst Office of Strategic Services, später Mitarbeiterin der amerikanischen Gewerkschaft American Federation of Labor, dann des Internationalen Bundes Freier Gewerkschaften beim Wirtschafts- und Sozialrat der UNO
 geburtsdaten: 29.11.1888 – 26.06.1964
-name: Tony Sender
+name: Toni Sender
 ---
 **Literatur**
 
@@ -15,7 +15,7 @@ praktischer Idealismus, in: Peter Lösche, Michael Scholing, Franz Walter
 (Hrsg.): Vor dem Vergessen bewahren. Lebenswege Weimarer
 Sozialdemokraten. Berlin 1988, S. 315–331.
 
-Jürgen Steen, Gabriele Weiden: Tony Sender 1888 – 1964. Rebellin,
+Jürgen Steen, Gabriele Weiden: Toni Sender 1888 – 1964. Rebellin,
 Demokratin, Weltbürgerin. Ausstellungskatalog. Frankfurt/M. 1992 (Kleine
 Schriften des Historischen Museums, Bd. 50).
 

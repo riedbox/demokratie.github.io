@@ -3,7 +3,7 @@ personen:
    - konrad-arndt
    - ludwig-beck
    - georg-buch
-   - tony-sender
+   - toni-sender
    - fabian-schlaberndorff
    - hermannn-kaiser
    - heinrich_maschmeyer

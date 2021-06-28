@@ -3,7 +3,7 @@ title: Zitate zur Person
 hauptbild: Abb 1.jpg
 beschreibung: Büroangestellte und Journalistin, Gewerkschafterin, u. a. SPD-Stadtverordnete in Frankfurt, Reichstagsabgeordnete, Exilpolitikerin, als Direktorin von European Labor Research Arbeit für den US-Geheimdienst Office of Strategic Services, später Mitarbeiterin der amerikanischen Gewerkschaft American Federation of Labor, dann des Internationalen Bundes Freier Gewerkschaften beim Wirtschafts- und Sozialrat der UNO
 geburtsdaten: 29.11.1888 – 26.06.1964
-name: Tony Sender
+name: Toni Sender
 ---
 
 ***Zitate Toni Senders***
