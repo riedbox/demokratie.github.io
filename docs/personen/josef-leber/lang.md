@@ -100,7 +100,7 @@ abendliche Jugendpredigt von Kaplan Bokler, der als entschiedener Gegner
 des NS-Regimes galt und in jenen Jahren daher auch mehrfach zum Verhör
 durch die Gestapo zitiert worden ist.
 
-{{bild(bilder,2)}} war von den Jugendlichen vor dem HJ-Heim sicherheitshalber eine
+{{bild(bilder,2)}} Zwar war von den Jugendlichen vor dem HJ-Heim sicherheitshalber eine
 Wache postiert worden, aber ein Dorfbewohner hatte dennoch die ganze
 Aktion beobachtet und unverzüglich gemeldet. Etliche im Prozessmaterial
 wiedergegebene Zitate lassen nur den Schluss zu, dass einige Jugendliche
