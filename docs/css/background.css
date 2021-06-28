@@ -265,7 +265,7 @@ margin: 0 0.5em;
 }
 
 
-.page-nav img.hauptbild {
+ img.hauptbild {
   max-width: 100%;
   margin: 0;
   padding-bottom: 10px;
@@ -413,6 +413,6 @@ h2 {
 
 @media (min-width: 1200px) { 
 
-
+.page-title {float: right}
 
 }
