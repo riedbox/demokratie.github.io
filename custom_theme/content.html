@@ -67,7 +67,7 @@
             </button>
             </div>
             <div class="modal-body">
-            <div id="imageCarousel" class="carousel slide" data-ride="carousel">
+            <div id="imageCarousel" class="carousel slide" data-ride="false">
                 <div class="carousel-inner">
                     {% for item in page.meta.bilder %}
                     <div class="carousel-item {{ "active" if (loop.index == 1) else "" }}">
