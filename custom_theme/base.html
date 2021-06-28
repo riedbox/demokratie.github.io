@@ -68,9 +68,9 @@
     </head>
 
     <body{% if page and (page.file.url == 'index.html') %} class="homepage"{% endif %}>
-        <div class="d-none d-lg-block site-title-wrapper"><a href="{{ nav.homepage.url|url }}"><h1 class="site-title">{{ config.site_name}} </h1></a></div>
-        <div class="d-none d-lg-block site-title-padding"> </div>
-        <div class="navbar fixed-top d-block d-lg-none navbar-expand-lg navbar-{% if config.theme.nav_style == "light" %}light{% else %}dark{% endif %} bg-{{ config.theme.nav_style }}">
+        <div class="d-none d-xl-block site-title-wrapper"><a href="{{ nav.homepage.url|url }}"><h1 class="site-title">{{ config.site_name}} </h1></a></div>
+        <div class="d-none d-xl-block site-title-padding"> </div>
+        <div class="navbar fixed-top d-block d-xl-none navbar-expand-xl navbar-{% if config.theme.nav_style == "light" %}light{% else %}dark{% endif %} bg-{{ config.theme.nav_style }}">
             <div class="container-fluid">
 
                 {%- block site_name %}
@@ -158,8 +158,8 @@
                     {%- if page.file.url == 'index.html' %}
                         <div class="col-md-12" role="main">{% include "content.html" %}</div>
                     {%- else -%}
-                        <div class="col-lg-1">{% include "toc.html" %}</div>
-                        <div class="col-lg-11" role="main">{% include "content.html" %}</div>
+                        <div class="col-xl-1">{% include "toc.html" %}</div>
+                        <div class="col-xl-11" role="main">{% include "content.html" %}</div>
                     {%- endif %}
                 {%- endblock %}
             </div>

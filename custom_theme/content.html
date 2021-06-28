@@ -8,7 +8,7 @@
 
 <div class="row">
     {%- if page.parent %}
-        <div class="d-none d-lg-block col-lg-2 ">
+        <div class="d-none d-xl-block col-xl-2 ">
             {%- block section_nav %}
                 <div  class="bs-sidebar affix text-center page-nav bg-transparent">
 
@@ -32,15 +32,15 @@
             {%- endblock %}
         </div>
     {%- endif %}
-    <div class={{ "col-md-12" if (page.file.url == 'personen.html') else "col-lg-6"}}>
+    <div class={{ "col-md-12" if (page.file.url == 'personen.html') else "col-xl-6"}}>
 
         <div class="row">
-            <div class="d-lg-none col-sm-6">
+            <div class="d-xl-none col-sm-6">
                 {% if page.meta.hauptbild %}
                     <img class="hauptbild" src="bilder/{{ page.meta.hauptbild }}" alt="Hauptbild">
                 {%- endif %}
             </div>
-            <div class="col-sm-6 col-lg-12">
+            <div class="col-sm-6 col-xl-12">
                 {% if page.meta.title %}
                     <h2 class="page-title">{{ page.meta.title }}</h2>
                 {%- endif %}
@@ -108,7 +108,7 @@
 {%- endif %}
 
 {%- if page.parent %}
-<div  class="col bottom-page-nav d-lg-none bs-sidebar affix text-center page-nav bg-transparent">
+<div  class="col bottom-page-nav d-xl-none bs-sidebar affix text-center page-nav bg-transparent">
     <ul class="nav flex-row ">
         {%- for nav_item in page.parent.children %}
             {%- if not nav_item.children %}
