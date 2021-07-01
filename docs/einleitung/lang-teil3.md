@@ -1,7 +1,24 @@
 ---
 title: LangEinleitung 3/4
+bilder:
+ - Abb 6.jpg:
+    format: links
+    unterzeile: Wiesbadener
+ - Abb 7 (1).jpg:
+    format: links
+    unterzeile:
+ - Abb 7 (2).jpg:
+    format: links
+    unterzeile:
+ - Abb 8.jpg:
+    format: links
+    unterzeile:	
+ - Abb 9.jpg:
+    format: links
+    unterzeile:	
 ---
 
+{{bild(bilder,0)}}
 Welche weiteren Wiesbadener NS-Gegner in die „20. Juli“-Aktivitäten
 einbezogen gewesen sind bzw. diese sogar als deren Anführer unablässig
 vorangetrieben haben, lässt sich also nur in Einzelfällen mit Gewissheit
@@ -36,7 +53,7 @@ weiterer wichtiger Netzwerker des „20. Juli“-Widerstandes mit
 Wiesbaden-Bezug, der bereits 1943 an einem Attentatsversuch auf Hitler
 beteiligt gewesen war, häufig als Kurier zwischen den oppositionellen
 Militärs an der Ostfront und jenen im Heimatheer im Einsatz gewesen. In
-unserer Stadt war in das Umsturzvorhaben mit Bestimmtheit der Chef des
+unserer Stadt war in das Umsturzvorhaben mit Bestimmtheit der {{bild(bilder,1)}}{{bild(bilder,2)}}Chef des
 Generalstabes Generalmajor Erwin Gerlach eingeweiht, den aber an jenem
 Donnerstagabend die diesbezüglichen Befehle aus der Berliner Zentrale
 der Verschwörung zu spät erreicht haben. Außer Gerlach soll vor Ort
@@ -75,7 +92,7 @@ weil er einigen seiner früheren Konfirmanden verschiedentlich kleinere
 Geldbeträge zur Unterstützung nun völlig mittelloser Frauen und Kinder
 inhaftierter Kommunisten hatte zukommen lassen; Weber hatte aber Glück
 im Unglück und kam nach halbjähriger Untersuchungshaft ohne Verurteilung
-wieder frei. Der erst nach dem Krieg nach Wiesbaden gezogene, früher
+wieder frei. Der erst nach dem Krieg nach {{bild(bilder,3)}}Wiesbaden gezogene, früher
 deutschnational-völkisch und mehr noch profaschistisch positionierte
 Pastor D. Martin Niemöller, der am 29. Juni 1937 auf Einladung der
 Bekennenden Gemeinde in der Marktkirche und der Ringkirche drei gut
@@ -116,7 +133,7 @@ oder bei der Beschaffung bzw. Zurverfügungstellung immer wieder zu
 wechselnder illegaler Quartiere für verfolgte Gesinnungsgenossen. Auch
 aus rein humanitären, nur vermeintlich unpolitischen Motiven haben sich
 manche Frauen für NS-Verfolgte engagiert. So hatte Elisabeth Ritter vom
-gleichnamigen, „Unter den Eichen“ gelegenen Ausflugslokal den 1944/45 im
+gleichnamigen, „Unter den Eichen“ gelegenen Ausflugslokal den {{bild(bilder,4)}}1944/45 im
 benachbarten KZ-Außenkommando des SS-Sonderlagers Hinzert inhaftierten,
 zumeist aus Luxemburg stammenden politischen Häftlingen Unterstützung
 vielfältiger Art zukommen lassen. Als diese kurz vor Eintreffen der

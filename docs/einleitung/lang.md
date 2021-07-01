@@ -1,9 +1,22 @@
 ---
 title: LangEinleitung 1/4
+bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: 
+ - Abb 2.jpg:
+    format: links
+    unterzeile: 
+ - Abb 3.jpg:
+    format: links
+    unterzeile: 
+geburtsdaten:
+name:
 ---
 
 **Zum Widerstand gegen das NS-Regime in Wiesbaden**
 
+{{bild(bilder, 0)}}
 Jene mutigen Bürgerinnen und Bürger unserer Stadt, die sich schon vor
 1933 der NSDAP und dann deren in jenem Jahr in Deutschland errichteten
 Gewaltherrschaft in Wort, Schrift oder Tat mit dem erklärten Ziel ihrer
@@ -53,6 +66,7 @@ zerstrittenen Arbeiterparteien SPD und KPD, die vielfach drakonisch
 bestraft bzw. oftmals umgehend in eines der eilends errichteten
 Konzentrationslager deportiert wurden.
 
+{{bild(bilder, 1)}}
 Während etwa ein Viertel der nach dem Krieg statistisch erfassten 644
 Wiesbadenerinnen und Wiesbadener, welche aus politischen Gründen
 verfolgt worden waren, der SPD und knapp zehn Prozent bürgerlichen
@@ -82,7 +96,7 @@ Untergetauchten und auch anderen Verfolgten. Aber lediglich sporadisch
 und in immer geringerer Stückzahl konnten sie schließlich noch ihre
 gegen die braune Diktatur gerichteten Aufrufe verbreiten. Ebenso
 brachten sie jetzt nur noch vereinzelt einige ihrer Propagandaparolen an
-Häuserwänden und Grundstücksmauern an, so z. B. in der Platter Straße.
+{{bild(bilder, 2)}}Häuserwänden und Grundstücksmauern an, so z. B. in der Platter Straße.
 Doch weder hierdurch noch mit ihrer dafür umso mehr intensivierten
 antinazistischen Flüsterpropaganda ließ sich die bis zuletzt
 größtenteils unbeirrbar nazifizierte Bevölkerung zum Sturz des
@@ -92,6 +106,7 @@ erst haben Einzelne von ihnen, etwa der Gewerkschaftssekretär und
 Kommunalpolitiker Paul Krüger, selbstkritisch bekannt, während der
 Weimarer Republik und im „Dritten Reich“ unverzeihlich viele politische
 Fehler begangen zu haben.
+
 
 [Weiter](lang-teil2.md)
 
