@@ -88,12 +88,10 @@ nav:
   - 'Einleitung':  'einleitung/kurz.md'
   - 'Einleitung':
     - 'KurzEinleitung': einleitung/kurz.md
-    - 'LangEinleitung': einleitung/lang.md
-    - 'Einleitung':
-      - 'LangEinleitung 1/4': einleitung/lang.md
-      - 'LangEinleitung 2/4': einleitung/lang-teil2.md
-      - 'LangEinleitung 3/4': einleitung/lang-teil3.md
-      - 'LangEinleitung 4/4': einleitung/lang-teil4.md
+    - 'LangEinleitung 1/4': einleitung/lang.md
+    - 'LangEinleitung 2/4': einleitung/lang-teil2.md
+    - 'LangEinleitung 3/4': einleitung/lang-teil3.md
+    - 'LangEinleitung 4/4': einleitung/lang-teil4.md
     - einleitung/zitate.md
     - 'Literaturhinweise': einleitung/literatur.md
   - 'projekt.md'

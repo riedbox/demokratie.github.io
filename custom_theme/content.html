@@ -26,7 +26,7 @@
                             </li>
                             {%- else %}
                                 {%- for child_nav_item in nav_item.children %}
-                                <li class="ml-3 navitem{% if child_nav_item.active %} active{% endif %}">
+                                <li class=" navitem{% if child_nav_item.active %} active{% endif %}">
                                     <a href="{{ child_nav_item.url|url }}" class="nav-link">{{ child_nav_item.title }}</a>
                                 </li>
                                 {%- endfor %}
@@ -51,7 +51,7 @@
                     <h2 class="page-title">{{ page.meta.title }}</h2>
                 {%- endif %}
                 {% if page.meta.name %}
-                    <p class="name">{{ page.meta.name }}</p>
+                    <h2 class="name">{{ page.meta.name }}</h2>
                 {%- endif %}
                 {% if page.meta.geburtsdaten %}
                     <p class="geburtsdaten">{{ page.meta.geburtsdaten }}</p>
