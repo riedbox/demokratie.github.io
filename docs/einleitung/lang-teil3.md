@@ -3,19 +3,19 @@ title: LangEinleitung 3/4
 bilder:
  - Abb 6.jpg:
     format: links
-    unterzeile: Wiesbadener
+    unterzeile: Wiesbadener Mitverschwörer des Umsturzversuchs vom 20. Juli 1944
  - Abb 7 (1).jpg:
     format: links
-    unterzeile:
+    unterzeile: Aus dem Todesurteil des „Volksgerichtshofs“ gegen Hermann Kaiser und Busso Thoma, 17. Januar 1945
  - Abb 7 (2).jpg:
     format: links
-    unterzeile:
+    unterzeile: Aus dem Todesurteil des „Volksgerichtshofs“ gegen Hermann Kaiser und Busso Thoma, 17. Januar 1945
  - Abb 8.jpg:
     format: links
-    unterzeile:	
+    unterzeile:	k.A.
  - Abb 9.jpg:
     format: links
-    unterzeile:	
+    unterzeile:	Politische Häftlinge aus Luxemburg im KZ-Außenlager „Unter den Eichen“, 1944 aufgenommen mit einer illegal ins Lager geschmuggelten Kamera 
 ---
 
 {{bild(bilder,0)}}

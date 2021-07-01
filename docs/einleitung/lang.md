@@ -3,13 +3,13 @@ title: LangEinleitung 1/4
 bilder:
  - Abb 1.jpg:
     format: links
-    unterzeile: 
+    unterzeile: Deckblatt eines von Georg Buch zur Reichstagswahl am 31. Juli 1932 erstellten antinazistischen Aufrufs 
  - Abb 2.jpg:
     format: links
-    unterzeile: 
+    unterzeile: Titelseite der illegalen Betriebszeitung der Revolutionären Gewerkschaftsopposition der KPD für die Beschäftigten der Verkehrsbetriebe Wiesbaden, Mai 1933 [ZUM RGO-SCHEINWERFER]
  - Abb 3.jpg:
     format: links
-    unterzeile: 
+    unterzeile: Hermann Görings Schießbefehl gegen kommunistische Flugblattverteiler
 geburtsdaten:
 name:
 ---

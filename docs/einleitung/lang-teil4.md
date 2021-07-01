@@ -3,7 +3,7 @@ title: LangEinleitung 4/4
 bilder:
  - Abb 10.jpg:
     format: links
-    unterzeile: 
+    unterzeile: Frühjahr 1945
 ---
 
 Eine recht hohe Dunkelziffer ist für diejenigen anzunehmen, die bereits

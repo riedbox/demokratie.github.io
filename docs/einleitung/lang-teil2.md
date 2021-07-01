@@ -3,10 +3,10 @@ title: LangEinleitung 2/4
 bilder:
  - Abb 4.jpg:
     format: links
-    unterzeile: 
+    unterzeile: Im Exil für die konspirative Inlandsarbeit hergestelltes Parteiorgan der SPD 
  - Abb 5.jpg:
     format: links
-    unterzeile: 
+    unterzeile: Ludwig Schwamb 
 ---
 
 {{bild(bilder,0)}}
