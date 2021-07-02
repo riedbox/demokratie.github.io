@@ -1,8 +1,8 @@
-<a class="video" href="einleitung/kurz.html">
+<a class="video" href="personen.html">
 	<video src="movie/Demokratie21.mp4" autoplay loop muted></video>
 </a>
 
-<a  href="einleitung/kurz.html">
+<a  href="personen.html">
 	<div class="start-message d-flex align-content-center justify-content-center">
 		<h2>Bitte klicken Sie um fortzufahren.</h2>
 	</div>
