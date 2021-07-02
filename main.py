@@ -58,6 +58,42 @@ def define_env(env):
             markup.extend(f'<span data-toggle="modal" data-target="#imageModal"><img class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#imageCarousel"  data-slide-to="{index}"/></span>')
         return "".join(markup)
 
+    def bild_finden(bilder, name):
+        index = 0
+        return_obj = dict()
+        for bild in bilder:
+            bildname = next(iter(bild))
+            if bildname == name:
+                print("found" + name)
+                return_obj['index'] = index
+                return_obj['bild'] = bild
+                return return_obj
+            index = index+1
+        print("did not find " + name)
+        return_obj['index'] = index
+        return_obj['bild'] = ""
+
+        return return_obj
+
+    @env.macro
+    def bild_einfuegen(bilder, name):
+        try:
+            bilder
+        except NameError:
+            print ("keine bilder definiert")
+            return ""
+
+        return_obj = bild_finden(bilder, name)
+        bild = return_obj['bild']
+        index = return_obj['index']
+        markup = []
+        for key, value in bild.items():
+            unterzeile = bild[key]["unterzeile"]
+            format = bild[key]["format"]
+            markup.extend(f'<span data-toggle="modal" data-target="#imageModal"><img class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#imageCarousel"  data-slide-to="{index}"/></span>')
+        return "".join(markup)
+
+
     @env.macro
     def bar(x):
         return (2.3 * x) + 7
