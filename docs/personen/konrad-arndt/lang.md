@@ -2,6 +2,9 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 854
  - Abb 2.jpg:
     format: links
     bildquelle: Stadtarchiv Wiesbaden, ZgS 1080
@@ -26,9 +29,6 @@ bilder:
     format: links
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 853
     unterzeile: k.a.
- - Abb 1.jpg:
-    format: links
-    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 854
     unterzeile:
 geburtsdaten: 26.06.1899 – 13.11.1940
 name: Konrad Arndt
@@ -42,7 +42,8 @@ Bautzener Funktionär des Deutschen Metallarbeiter-Verbandes nach
 Wiesbaden gekommen, um fortan als Arbeitersekretär beim hiesigen
 Allgemeinen Deutschen Gewerkschaftsbund zu wirken.
 
-{{ bild(bilder, 0) }}
+
+{{ bild_einfuegen(bilder,'Abb 2.jpg')}}
 In den nächsten Jahren stand Arndt stets in vorderster Front bei den
 Bemühungen, der bald immer bedrohlicher werdenden NS-Bewegung Paroli zu
 bieten. Auch der Stadt- und Bezirksrabbiner Dr. Paul Lazarus wurde von
@@ -54,7 +55,7 @@ Front an, denen reichsweit mehrere Millionen Mitglieder angehörten.
 Seine Frau Betty betätigte sich derweil ehrenamtlich für beider Partei
 wie für die Arbeiterwohlfahrt.
 
-{{ bild(bilder, 1) }}
+{{ bild_einfuegen(bilder,'Abb 3.jpg')}}
 Arndts Agitationsreden „gegen Faschismus und Diktatur, für Demokratie
 und Sozialismus“ zogen Zuhörer in vielen südhessischen Städten in ihren
 Bann. Fruchtlos blieb indessen sein Versuch, die Wiesbadener Kommunisten
@@ -64,7 +65,7 @@ die Voraussetzung dafür, wie er in einem „Offenen Brief an die
 KPD-Arbeiter“ betonte, endlich „dem Faschismus eine geschlossene Front
 der gesamten Arbeiterschaft“ entgegenstellen zu können.
 
-{{ bild(bilder, 2) }}
+{{ bild_einfuegen(bilder,'Abb 4.jpg')}}
 Nachdem er zuvor bereits mehrmalig von NS-Aktivisten misshandelt worden
 war, verübten am 24. März jenes Jahres drei SA-Leute ein Messerattentat
 auf ihn, bei dem er lebensgefährlich verletzt wurde. Eine Zeit lang
@@ -76,8 +77,7 @@ inhaftiert. Wenig später entließ man ihn fristlos aus seinem
 Arbeitsverhältnis. Dem vorherigen Versuch, ihn zur Mitarbeit in der
 lokalen Leitung der neu geschaffenen faschistischen Zwangsorganisation
 „Deutsche Arbeitsfront“ zu bewegen, hatte er sich standhaft widersetzt.
-
-{{ bild(bilder, 3) }}
+{{ bild_einfuegen(bilder,'Abb 5.jpg')}}
 Nachdem ihm zunächst untersagt worden war, erneut eine geregelte Arbeit
 aufzunehmen, gelang es ihm dann doch, zumindest einen kleinen mobilen
 Lebensmittelhandel aufzuziehen, bei dem ihm seine Frau und die beiden
@@ -102,7 +102,7 @@ des KZ Sachsenhausen mitwirken. Auch dort ist er, wie u. a. sein
 Wiesbadener KZ-Kamerad Paul Krüger bezeugt hat, wiederholt fürchterlich
 misshandelt worden.
 
-{{ bild(bilder, 4) }}Erst im Herbst 1938 erfolgte seine Haftentlassung. Hierbei war ihm zur
+{{ bild_einfuegen(bilder,'Abb 6.jpg')}}Erst im Herbst 1938 erfolgte seine Haftentlassung. Hierbei war ihm zur
 Auflage gemacht worden, seinen Wohnsitz nach Frankfurt zu verlegen, da
 er in Wiesbaden als Regimegegner zu bekannt sei. In der Heimatstadt
 seiner Frau Betty hatte er sich wie vordem regelmäßig bei der Gestapo zu
