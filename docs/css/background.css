@@ -342,6 +342,11 @@ h2 {
   body > .container {
     margin-top: 0;
   }
+
+  .navbar-collapse .nav-link {
+    margin-bottom: 0.25em;
+    border-bottom: 1px solid black;
+  }
 }
 
 .carousel-control-prev {

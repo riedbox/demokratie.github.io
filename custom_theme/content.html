@@ -60,6 +60,26 @@
         </div>
         {{ page.content }}
 
+        <h3 class="mt-5">Herkunft der Bildquellen</h3>
+        <div class="container-sm">
+        {% for item in page.meta.bilder %}
+            {% set slide_index = loop.index -1 %}
+            {% for key, value in item.items() %}
+            <div class="row mb-4">
+                <div class="col col-md-3">
+                    <div data-toggle="modal" data-target="#imageModal">
+                        <img class="m-2 bild" src="bilder/{{ key }}" alt="{{ value.unterzeile }}" data-target="#imageCarousel" data-slide-to="{{ slide_index }}"/>
+                    </div>
+                    <p class="m-2 text-center">{{key}}</p>
+              </div>
+              <div class="col d-flex align-items-center">
+                <p> {{ value.bildquelle}}</p>
+              </div>
+            </div>
+        {% endfor %}
+       {% endfor %}
+        </div>
+
 
     </div>
 
