@@ -1,5 +1,5 @@
 ---
-title: LangEinleitung 4/4
+title: LangEinführung 4/4
 bilder:
  - Abb 10.jpg:
     format: links

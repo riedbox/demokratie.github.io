@@ -1,5 +1,5 @@
 ---
-title: LangEinleitung 1/4
+title: LangEinführung 1/4
 bilder:
  - Abb 1.jpg:
     format: links

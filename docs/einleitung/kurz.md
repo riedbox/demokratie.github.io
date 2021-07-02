@@ -1,5 +1,5 @@
 ---
-title: KurzEinleitung
+title: KurzEinführung
 ---
 
 ***Man darf niemals vergessen, welcher hohe Preis***
