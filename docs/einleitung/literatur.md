@@ -1,4 +1,6 @@
-**Literatur**
+---
+title: Literaturhinweise
+---
 
 Lothar Bembenek, Axel Ulrich: Verfolgung und Widerstand in Wiesbaden
 1933–1945. Eine Dokumentation. Hrsg.: Magistrat der Landeshauptstadt

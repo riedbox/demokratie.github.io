@@ -146,7 +146,7 @@ def define_env(env):
             name = read_file(dir_path + "/" + dirname + "/" + directory + "/name.txt")
             markup.extend("<h2>" + name + "</h2>")
             geburtsdaten = read_file(dir_path + "/" + dirname + "/" + directory + "/geburtsdaten.txt")
-            markup.extend("<p>" + geburtsdaten + "</p>")
+            markup.extend("<p class=\"person-geburtsdaten\">" + geburtsdaten + "</p>")
             beschreibung = read_file(dir_path + "/" + dirname + "/" + directory + "/beschreibung.txt")
             markup.extend("<p>" + beschreibung + "</p>")
             markup.extend("</div>")

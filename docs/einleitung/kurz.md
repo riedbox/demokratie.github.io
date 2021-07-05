@@ -1,17 +1,9 @@
 ---
 title: KurzEinführung
+quote: Man darf niemals vergessen, welcher hohe Preis<br>insgesamt zu bezahlen war, nur weil die Demokraten unserer<br>ersten deutschen Republik in einer zweifellos schwierigen Situation<br>nicht zusammenzufinden vermochten.
+quoteattribute: Georg Buch
 ---
 
-***Man darf niemals vergessen, welcher hohe Preis***
-
-***insgesamt zu bezahlen war, nur weil die Demokraten unserer***
-
-***ersten deutschen Republik in einer zweifellos schwierigen
-Situation***
-
-***nicht zusammenzufinden vermochten.***
-
-***Georg Buch***
 
 Den demokratiefeindlichen Bestrebungen der NSDAP und ihrer
 Anhängerschaft wurde auch in Wiesbaden bereits während der Weimarer

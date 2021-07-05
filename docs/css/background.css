@@ -12,6 +12,17 @@
   src: url("fonts/OpenSans-SemiBold.ttf");
 }
 
+@font-face {
+  font-family: "OpenSansSemiBoldItalic";
+  src: url("fonts/OpenSans-SemiBoldItalic.ttf");
+}
+
+
+@font-face {
+  font-family: "OpenSansItalic";
+  src: url("fonts/OpenSans-Italic.ttf");
+}
+
 .dropdown-menu {
   background: inherit;
   border: none;
@@ -192,8 +203,19 @@ body.homepage {
   border: none;
 }
 
-.name {
+.page-quote {
+  font-family: OpenSansItalic, Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+.page-quote-attribute {
+  font-family: OpenSansSemiBoldItalic, Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+.name, .person-geburtsdaten {
   font-family: OpenSansSemiBold, Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+.page-quote, .page-quote-attribute{
+  text-align: left;
 }
 
 .modal,
@@ -347,6 +369,9 @@ h2 {
     margin-bottom: 0.25em;
     border-bottom: 1px solid black;
   }
+  h5 {
+    font-size: 0.8em;
+  }
 }
 
 .carousel-control-prev {
@@ -398,10 +423,10 @@ h2 {
   .hauptbild-ersatz {
     height: 230px;
   }
-
-  .geburtsdaten {
-    margin-bottom: 9em;
+  .page-content-header {
+    min-height: 230px;
   }
+
   .uebersicht img.bild {
     max-width: 150px;
   }
@@ -414,10 +439,11 @@ h2 {
 @media (min-width: 1200px) {
   .uebersicht {
     max-width: 500px;
-    margin-top: 13.25em;
+    
+    margin-top: 230px;
   }
   .page-title {
-    float: right;
+    text-align: right;
   }
   .unterzeile {
     font-size: 1em;
@@ -493,4 +519,11 @@ h3.bildquellen-header {
   content: "";
   clear: both;
   display: table;
+}
+
+.page-subtitle {
+  margin-top: 130px;
+}
+.page-quote {
+  margin-top: 25px;
 }

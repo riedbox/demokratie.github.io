@@ -1,4 +1,9 @@
-**Zur Entstehungsgeschichte dieses Gedenkortes**
+---
+title: Projekt
+subtitle: Zur Entstehungsgeschichte dieses Gedenkortes
+---
+
+
 
 Am 2. Juli 2020 fasste die Stadtverordnetenversammlung der
 Landeshauptstadt Wiesbaden den Beschluss, im Foyer des Rathauses einen

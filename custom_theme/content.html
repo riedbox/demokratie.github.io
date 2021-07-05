@@ -48,9 +48,18 @@
                     <img class="hauptbild" src="bilder/{{ page.meta.hauptbild }}" alt="Hauptbild">
                 {%- endif %}
             </div>
-            <div class="col-sm-6 col-xl-12">
+            <div class="col-sm-6 col-xl-12 {{ "page-content-header" if (page.file.url != 'personen.html') else ""}}">
                 {% if page.meta.title %}
                     <h2 class="page-title">{{ page.meta.title }}</h2>
+                {%- endif %}
+                {% if page.meta.subtitle %}
+                <h3 class="page-subtitle">{{ page.meta.subtitle }}</h3>
+                {%- endif %}
+                {% if page.meta.quote %}
+                <h5 class="page-quote">{{ page.meta.quote }}</h5>
+                {%- endif %}
+                {% if page.meta.quoteattribute %}
+                <h5 class="page-quote-attribute">{{ page.meta.quoteattribute }}</h5>
                 {%- endif %}
                 {% if page.meta.name %}
                     <h2 class="name">{{ page.meta.name }}</h2>

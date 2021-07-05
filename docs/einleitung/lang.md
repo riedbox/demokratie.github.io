@@ -1,5 +1,6 @@
 ---
 title: LangEinführung 1/4
+subtitle: Zum Widerstand gegen das NS-Regime in Wiesbaden
 bilder:
  - Abb 1.jpg:
     format: links
@@ -13,8 +14,6 @@ bilder:
 geburtsdaten:
 name:
 ---
-
-**Zum Widerstand gegen das NS-Regime in Wiesbaden**
 
 {{bild(bilder, 0)}}
 Jene mutigen Bürgerinnen und Bürger unserer Stadt, die sich schon vor

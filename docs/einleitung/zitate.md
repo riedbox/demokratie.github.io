@@ -1,4 +1,6 @@
-***Zitate***
+---
+title: Zitate
+---
 
 Der aus Überzeugung oder um des Glaubens oder des Gewissens willen gegen
 die nationalsozialistische Gewaltherrschaft geleistete Widerstand war

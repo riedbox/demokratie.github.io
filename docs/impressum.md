@@ -1,5 +1,6 @@
-**Impressum Projekthomepage „FÜR DEMOKRATIE – Wiesbadener Bürgerinnen
-und Bürger im Widerstand gegen das NS-Regime“**
+---
+title: Impressum
+---
 
 Landeshauptstadt Wiesbaden  
 vertreten durch den Magistrat  
@@ -28,17 +29,23 @@ E-Mail: stadtarchiv@wiesbaden.de
 
 Telefon 0611 31-3329
 
-Verfasser der Texte:
+**Verfasser der Texte:**
 
 Dr. Axel Ulrich
 
 Dr. Rolf Faber
 
-Technische Realisierung:
+**Bildauswahl und -bearbeitung:**
+
+Georg Habs
+
+**Technische Realisierung:**
 
 Webdesign Horst Ziegenfusz
 
-Gestaltung:
+Programmierung Allen Ziegenfus
+
+**Gestaltung:**
 
 Installationskünstler Vollrad Kutscher
 
