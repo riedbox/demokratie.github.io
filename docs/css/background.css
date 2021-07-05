@@ -255,11 +255,8 @@ h1 .modal .modal-content,
   line-height: 1.3em;
   margin-bottom: 0.25em;
 }
-
 .bottom-page-nav .navitem {
-  flex-grow: 1;
-  flex-basis: 0;
-  margin: 0 0.5em;
+  max-width: 400px;
 }
 
 img.hauptbild {
@@ -428,9 +425,8 @@ h2 {
 
 @media (min-width: 1200px) {
   .uebersicht {
-    max-width: 500px;
-    
     margin-top: 230px;
+    max-width: 500px;
   }
   .page-title {
     text-align: right;
@@ -452,6 +448,7 @@ h2 {
   max-width: 80vw;
   height: 95vh;
 }
+
 .modal-content,
 .carousel {
   height: 100%;
@@ -469,16 +466,19 @@ h2 {
 .carousel-item {
   height: 90vh;
 }
+
 .carousel-item img {
   height: 90%;
   margin: 0 auto;
   object-fit: contain;
   cursor: zoom-in;
 }
+
 .carousel-control-prev,
 .carousel-control-next {
   width: 50px;
 }
+
 .zoom-active .carousel-caption {
   display: none;
 }
@@ -489,9 +489,11 @@ h2 {
   right: 0;
   left: 0;
 }
+
 h3.bildquellen-header {
   border-top: 1px solid gray;
 }
+
 .bildquellen img {
   max-height: 100px;
   max-width: 100px;
@@ -500,10 +502,10 @@ h3.bildquellen-header {
 .bildquellen .row {
   border-bottom: 1px solid gray;
 }
+
 .bildquellen p {
   font-size: 0.7em;
 }
-
 
 .page-content:after {
   content: "";
@@ -514,6 +516,7 @@ h3.bildquellen-header {
 .page-subtitle {
   margin-top: 130px;
 }
+
 .page-quote {
   margin-top: 25px;
 }

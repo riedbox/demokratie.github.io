@@ -150,8 +150,8 @@
 {%- endif %}
 
 {%- if page.parent %}
-<div  class="col bottom-page-nav d-xl-none bs-sidebar affix text-center page-nav bg-transparent">
-    <ul class="nav flex-row ">
+<div  class="col bottom-page-nav d-xl-none bs-sidebar affix text-center page-nav bg-transparent mt-4">
+    <ul class="nav flex-column">
         {%- for nav_item in page.parent.children %}
             {%- if not nav_item.children %}
             <li class="navitem{% if nav_item.active %} active{% endif %}">
