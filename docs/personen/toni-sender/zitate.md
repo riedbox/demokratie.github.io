@@ -6,7 +6,6 @@ geburtsdaten: 29.11.1888 – 26.06.1964
 name: Toni Sender
 ---
 
-***Zitate Toni Senders***
 
 Die Demokratie hat auch ihren Wert an sich. Wir brauchen nur auf die
 Länder zu sehen, in denen die Demokratie beseitigt worden ist, auf das

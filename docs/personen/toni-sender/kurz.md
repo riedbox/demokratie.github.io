@@ -5,13 +5,6 @@ beschreibung: Büroangestellte und Journalistin, Gewerkschafterin, u. a. SPD-Sta
 geburtsdaten: 29.11.1888 – 26.06.1964
 name: Toni Sender
 ---
-**Büroangestellte und Journalistin, Gewerkschafterin, u. a.
-SPD-Stadtverordnete in Frankfurt, Reichstagsabgeordnete,
-Exil&shy;politikerin, als Direktorin von European Labor Research Arbeit für
-den US-Geheimdienst Office of Strategic Services, später Mitarbeiter&shy;in
-der amerikanischen Gewerkschaft American Federation of Labor, dann des
-Internationalen Bundes Freier Gewerkschaften beim Wirtschafts- und
-Sozialrat der UNO**
 
 Schon früh hatte sie vor den vom Faschismus ausgehenden Gefahren gewarnt
 und zu dessen Abwehr schließlich für die Ausrufung des politischen
