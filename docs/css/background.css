@@ -429,7 +429,6 @@ h2 {
     right: 0;
     left: 0;
   }
-  
 }
 
 .modal-dialog.modal-lg {
@@ -473,4 +472,18 @@ h2 {
   bottom: -0.25em;
   right: 0;
   left: 0;
+}
+h3.bildquellen-header {
+  border-top: 1px solid gray;
+}
+.bildquellen img {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.bildquellen .row {
+  border-bottom: 1px solid gray;
+}
+.bildquellen p {
+  font-size: 0.7em;
 }
