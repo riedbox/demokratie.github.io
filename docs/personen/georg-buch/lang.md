@@ -2,6 +2,10 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Georg Buch
+    exclude_from_overview: true
  - Abb 2.jpg:
     format: links
     unterzeile: Anti-Nazi-Flugblatt Buchs zur Reichstagswahl am 31. Juli 1932
@@ -26,7 +30,7 @@ name: Georg Buch
 ---
 
 
-{{bild(bilder,0)}} 
+{{ bild_einfuegen(bilder,'Abb 2.jpg')}}
 Der gebürtige Wiesbadener, dessen Kindheit und Jugend von großer Armut
 geprägt waren, hatte bereits während seiner Schriftsetzerlehre zur
 Arbeiterbewegung gefunden. In den letzten Jahren der Weimarer Republik
@@ -40,7 +44,7 @@ Arndt von der Kampfleitung der Eisernen Front kooperiert, jener zwar
 überparteilichen, aber klar sozialdemokratisch dominierten
 Republikschutzorganisation, die im Herbst 1931 gegründet worden war.
 
-{{bild(bilder, 1)}}
+{{ bild_einfuegen(bilder,'Abb 3.jpg')}}
 Zwar sind damals zahllose antinazistische Kundgebungen, Demonstrationen,
 Flugblatt- und Plakataktionen durchgeführt worden, doch war die
 Machtübertragung an Hitler am 30. Januar 1933 durch all dies nicht zu
@@ -87,7 +91,7 @@ weiterhin aufrecht, so z. B. zu den früheren Wiesbadener Stadträten
 Johannes Maaß und Philipp Holl sowie zu Gustav Geiger, dem vormaligen
 und auch späteren Vorsitzenden des SPD-Ortsvereins Geisenheim.
 
-{{bild(bilder, 2)}}
+{{ bild_einfuegen(bilder,'Abb 4.jpg')}}
 Davon unabhängig leitete Buch eine maximal 30 bis 40 zumeist weibliche
 SAJ- und SPD-Mitglieder zählende Widerstandsgruppe an, von denen
 freilich nur die wenigsten über den konspirativen Hintergrund ihres
@@ -100,7 +104,7 @@ Familienkreis, und zwar bevorzugt zu kleinen Feiern und zu genauso wenig
 Argwohn erregenden Wanderungen, Radtouren und Schiffspartien auf dem
 Rhein.
 
-{{bild(bilder,3)}}
+{{ bild_einfuegen(bilder,'Abb 5.jpg')}}
 Erst Anfang 1941 wurde ihr eine Denunziation zum Verhängnis. Sie zählt
 damit zu jenen Widerstandsgruppen aus dem sozialdemokratischen
 Organisationsspektrum reichsweit, deren Wirken am längsten unerkannt
@@ -140,7 +144,7 @@ hervorragenden Verdienste um die Landeshauptstadt Wiesbaden wurde sein
 Grab auf dem Nordfriedhof von dieser schließlich als Ehrengrab
 zuerkannt.
 
-{{bild(bilder,4)}}
+{{ bild_einfuegen(bilder,'Abb 6.jpg')}}
 In Wiesbaden erinnern an ihn eine Gedenktafel am nach ihm benannten
 Gemeinschaftszentrum Gewerbeschule in der Wellritzstraße 38, ein Porträt
 von Klaus Böttger im 1. Stock des Rathauses sowie ein ebensolches nebst

@@ -58,11 +58,12 @@
                 {%- endif %}
             </div>
         </div>
-        {{ page.content }}
+        <div class="page-content">
+            {{ page.content }}
+        </div>
 
         {% if page.meta.bilder %}
-            <br><br>
-            <h3 class="bildquellen-header pt-2 pt-xl-5">Herkunft der Bildquellen</h3>
+            <h3 class="bildquellen-header mt-xl-5 pt-2 pt-xl-5">Herkunft der Bildquellen</h3>
             <div class="bildquellen container-sm text-center">
             {% for item in page.meta.bilder %}
                 {% set slide_index = loop.index -1 %}
@@ -123,14 +124,14 @@
     <div class="col-xl-4">
         <div class="container uebersicht justify-content-center">
             {% for item in page.meta.bilder %}
-                {% if not loop.first %}
-                    {% set slide_index = loop.index -1 %}
-                    {% for key, value in item.items() %}
+                {% set slide_index = loop.index -1 %}
+                {% for key, value in item.items() %}
+                    {% if not value.exclude_from_overview %}
                         <span data-toggle="modal" data-target="#imageModal">
                             <img class="bild {{ value.format }}" src="bilder/{{ key }}" alt="{{ value.unterzeile }}"  data-target="#imageCarousel"  data-slide-to="{{ slide_index  }}"/>
                         </span>
-                    {% endfor %}
-                {%- endif %}
+                    {%- endif %}
+                {% endfor %}
             {% endfor %}
         </div>
     </div>

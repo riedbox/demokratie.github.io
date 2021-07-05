@@ -5,6 +5,7 @@ bilder:
  - Abb 1.jpg:
     format: links
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 854
+    exclude_from_overview: true
  - Abb 2.jpg:
     format: links
     bildquelle: Stadtarchiv Wiesbaden, ZgS 1080

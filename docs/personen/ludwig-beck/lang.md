@@ -2,6 +2,10 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Ludwig Beck
+    exclude_from_overview: true
  - Abb 2.jpg:
     format: links
     unterzeile: General Ludwig Beck
@@ -50,7 +54,7 @@ Beck den Aufstieg Deutschlands zur zentraleuropäischen Hegemonialmacht
 ermöglichen wollte, waren dies für Hitler unabdingbare Voraussetzungen
 zur Vorbereitung des von ihm angestrebten großen Expansionskrieges.
 
-{{ bild(bilder, 0) }}
+{{ bild_einfuegen(bilder,'Abb 2.jpg')}}
 Von Beck, inzwischen zum General der Artillerie befördert, sind
 begrenzte, rasch durchgeführte Kriege in Mitteleuropa zur Durchsetzung
 deutscher Interessen nie ausgeschlossen worden. Gleichwohl hatte ihn
@@ -87,7 +91,7 @@ Carl Goerdeler. Beide waren nicht nur Hauptakteure, sondern vielmehr
 unangefochtene Anführer der diesbezüglichen zivil-militärischen
 Opposition bürgerlicher Prägung.
 
-{{ bild(bilder, 1) }}
+{{ bild_einfuegen(bilder,'Abb 3.jpg')}}
 Daneben unterhielt Beck spätestens seit 1939 klandestine Beziehungen
 auch mit Vertretern der demokratischen Linken, insbesondere mit dem
 früheren hessischen Innenminister und sozialdemokratischen
@@ -106,7 +110,7 @@ die eines ständestaatlich-autoritären Staatswesens ab, was aber von
 Leuschner und seinen Mitstreitern bestimmt nicht akzeptiert worden wäre,
 wenigstens nicht auf Dauer. Auch an der Ausarbeitung bzw. der
 Überarbeitung von Aufrufen an die Wehrmacht und an die Zivilbevölkerung
-war Beck beteiligt. {{ bild(bilder, 2) }} Mit Nachdruck bestand er darauf, dass am politischen
+war Beck beteiligt. {{ bild_einfuegen(bilder,'Abb 4.jpg')}}Mit Nachdruck bestand er darauf, dass am politischen
 Charakter des geplanten Staatstreichs auch von den beteiligten Militärs
 nicht gerüttelt wurde. Aus demselben Grund forderte er seit Herbst 1943
 die Benennung sogenannter Politischer Beauftragter und Unterbeauftragter
@@ -131,14 +135,14 @@ werden müsse, darin waren sich keineswegs nur die in die Verschwörung
 involvierten, bereits seit gut einem Jahrzehnt miteinander verbündeten
 christlichen, liberalen und sozialdemokratischen Widerständler einig.
 
-{{ bild(bilder, 3) }}
+{{ bild_einfuegen(bilder,'Abb 5.jpg')}}
 Nachdem der Aufstand binnen weniger Stunden in sich zusammengebrochen
 war, wurde Beck am späten Abend des 20. Juli 1944 in der Befehlszentrale
 der Verschwörung, dem Oberkommando des Heeres im Berliner Bendlerblock,
 gefangen genommen und – als sein Versuch, sich selbst zu töten, zweimal
 gescheitert war – gegen Mitternacht erschossen.
 
-{{ bild(bilder, 4) }}
+{{ bild_einfuegen(bilder,'Abb 6.jpg')}}
 An ihn erinnern in Wiesbaden eine Gedenktafel am Wohnhaus der Eltern in
 Biebrich, die Ludwig-Beck-Schule auf dem Gräselberg, eine Gedenktafel in
 der Pausenhalle der Diltheyschule und biographische Hinweise auf deren

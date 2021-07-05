@@ -487,3 +487,10 @@ h3.bildquellen-header {
 .bildquellen p {
   font-size: 0.7em;
 }
+
+
+.page-content:after {
+  content: "";
+  clear: both;
+  display: table;
+}

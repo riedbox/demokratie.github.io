@@ -2,6 +2,10 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Toni Sender
+    exclude_from_overview: true
  - Abb 2.jpg:
     format: links
     unterzeile: Bei einer SPD-Veranstaltung in Frankfurt/M., 1928 
@@ -44,7 +48,7 @@ der vom Deutschen Metallarbeiter-Verband herausgegebenen
 „Betriebsräte-Zeitschrift“, für die sie bis 1933 über 400 Artikel
 schrieb.
 
-{{bild(bilder,0)}}
+{{ bild_einfuegen(bilder,'Abb 2.jpg')}}
 Der Frankfurter Stadtverordnetenversammlung hat Toni Sender von 1919 bis
 1924 angehört, ab 1920 und bis 1933 auch dem Deutschen Reichstag, und
 zwar erst für die USPD, seit 1922 dann für die SPD. Bis 1924 war sie
@@ -64,7 +68,7 @@ leidenschaftliche Propagandistin einer freiheitlichen, friedlichen und
 sozialistischen Demokratie auf. Auch in Wiesbaden wurden mehrfach
 Großkundgebungen mit ihr durchgeführt.
 
-{{bild(bilder,1)}}
+{{ bild_einfuegen(bilder,'Abb 3.jpg')}}
 Vor der faschistischen Gefahr hatte die couragierte Parteilinke schon
 früh gewarnt. Zu deren Abwehr setzte sie auf einen kämpferischen Kurs
 und plädierte schließlich sogar für die Ausrufung des politischen
@@ -110,7 +114,7 @@ Labor Party bei. Die Novemberpogrome in Deutschland veranlassten sie
 deutschen Juden die Einwanderung in die Vereinigten Staaten
 ermöglichten.
 
-{{bild(bilder,2)}}
+{{ bild_einfuegen(bilder,'Abb 4.jpg')}}
 Auch ihrem 1939 veröffentlichten Rückblick „The Autobiography of a
 German Rebel“ hat sie selbstredend eine dezidiert antinazistische
 Stoßrichtung verliehen. Ihren Lebensunterhalt bestritt sie seinerzeit
@@ -122,7 +126,7 @@ Kriegsausbruch geschlossene Hitler-Stalin-Pakt sollte Toni Sender einmal
 mehr in ihrer antistalinistischen Grundhaltung bestärken und veranlasste
 sie zum Austritt aus dem in dieser Hinsicht unverkennbar kommunistisch
 beeinflussten Deutsch-Amerikanischen Kulturverband. Kurz zuvor war sie
-{{bild(bilder,3)}} ein zweites Mal nach Europa gereist, um für ihr Buch zu werben, aber
+ {{ bild_einfuegen(bilder,'Abb 5.jpg')}} ein zweites Mal nach Europa gereist, um für ihr Buch zu werben, aber
 auch um Material zu sammeln für eine Monographie über den
 antifaschistischen Widerstand. Von diesem Vorhaben nahm sie allerdings
 wieder Abstand, als sie erkannt hatte, dass durch eine solche
@@ -169,7 +173,7 @@ Faschismus“ klassifizierten Sowjetunion und in deren Satellitenstaaten,
 was dementsprechend für heftigste Konflikte mit dem kommunistischen
 Weltgewerkschaftsbund sorgte.
 
-{{bild(bilder,4)}}
+{{ bild_einfuegen(bilder,'Abb 6.jpg')}}
 In Deutschland, das sie nach dem Krieg mehrmals besuchen konnte, genoss
 sie auch aufgrund ihrer großen Hilfsbereitschaft bei vielen ihrer alten
 Genossen weiterhin größte Wertschätzung. Dennoch verblasste die
@@ -189,7 +193,7 @@ Frauenbeauftragte, eine Ausstellung, die weit über deren
 Präsentationsort Wiesbaden-Biebrich hinaus auf großes Interesse gestoßen
 ist.
 
-{{bild(bilder,5)}} Hier erinnern ein 1988 nach ihr benanntes Seniorenzentrum und eine
+{{ bild_einfuegen(bilder,'Abb 7.jpg')}} Hier erinnern ein 1988 nach ihr benanntes Seniorenzentrum und eine
 gleichnamige, dort ebenfalls untergebrachte Städtische Kindertagestätte
 an die gewiss bedeutendste Politikerin, die vordem in Hessen beheimatet
 gewesen ist. Zu ihrem 50. Todestag wurde an ihrem Geburtshaus in der
@@ -201,4 +205,4 @@ für die Durchsetzung und Bewahrung demokratischer Grundprinzipien
 überall in der Welt.
 
 Dr. Axel Ulrich
-{{bild(bilder,6)}}
+{{ bild_einfuegen(bilder,'Abb 8.jpg')}}
