@@ -98,7 +98,7 @@
     </div>
 
     {% if page.meta.bilder %}
-    <div class="modal fade" id="imageModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal opacity-fade" id="imageModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
             <div class="modal-header">
@@ -112,7 +112,7 @@
                     {% for item in page.meta.bilder %}
                     <div class="carousel-item {{ "active" if (loop.index == 1) else "" }}">
                     {% for key, value in item.items() %}
-                    <img class="d-block w-100" src="bilder/{{ key }}" alt="{{ value.unterzeile }}">
+                    <img class="d-block w-100" src="bilder_gross/{{ key }}" alt="{{ value.unterzeile }}">
                     <p class="m-3 text-center carousel-caption unterzeile">{{value.unterzeile }}</p>
                     {% endfor %}
                     </div>

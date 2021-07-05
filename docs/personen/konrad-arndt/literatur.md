@@ -4,6 +4,11 @@ hauptbild: Abb 1.jpg
 geburtsdaten: 26.06.1899 – 13.11.1940
 name: Konrad Arndt
 beschreibung: Studienrat, Hauptmann der Reserve, Netzwerker der militärisch-bürgerlichen Opposition, von den Verschwörern des „20. Juli“ als Kulturstaatssekretär vorgesehen
+bilder:
+ - Abb 7.jpg:
+    format: links
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 853
+    unterzeile: k.A.
 ---
 
 Betty Arndt: Überfall auf einen Wiesbadener Gewerkschaftssekretär, in:

@@ -517,3 +517,12 @@ h3.bildquellen-header {
 .page-quote {
   margin-top: 25px;
 }
+
+.opacity-fade {
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+
+.opacity-fade.show {
+  opacity: 1;
+}

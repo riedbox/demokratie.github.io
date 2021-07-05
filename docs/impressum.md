@@ -2,11 +2,12 @@
 title: Impressum
 ---
 
-Landeshauptstadt Wiesbaden  
-vertreten durch den Magistrat  
-Oberbürgermeister Gert-Uwe Mende
+**Landeshauptstadt Wiesbaden**
+**vertreten durch den Magistrat**
+**Oberbürgermeister Gert-Uwe Mende**
 
-Postanschrift:  
+**Postanschrift: **
+
 Postfach 3920  
 65029 Wiesbaden
 
@@ -17,7 +18,8 @@ Schlossplatz 6
 Körperschaft des Öffentlichen Rechts.  
 Umsatzsteuer-Identifikationsnummer: DE 113823704
 
-Kontakt:
+**Kontakt:**
+
 
 Kulturamt - Stadtarchiv
 

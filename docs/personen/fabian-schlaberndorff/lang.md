@@ -14,9 +14,6 @@ bilder:
  - Abb 5.jpg:
     format: links
     unterzeile: Traueranzeige der Familie
- - Abb 6.jpg:
-    format: links
-    unterzeile: Innentitel seines erstmals 1946 in Zürich erschienenen Widerstandsberichts
 geburtsdaten: 24.09.1903 – 05.08.1995
 name: Dr. Fabian von Schlabrendorff
 ---
