@@ -122,12 +122,14 @@
     <div class="col-xl-4">
         <div class="container uebersicht justify-content-center">
             {% for item in page.meta.bilder %}
-                {% set slide_index = loop.index -1 %}
-                {% for key, value in item.items() %}
-                    <span data-toggle="modal" data-target="#imageModal">
-                        <img class="bild {{ value.format }}" src="bilder/{{ key }}" alt="{{ value.unterzeile }}"  data-target="#imageCarousel"  data-slide-to="{{ slide_index  }}"/>
-                    </span>
-                {% endfor %}
+                {% if not loop.first %}
+                    {% set slide_index = loop.index -1 %}
+                    {% for key, value in item.items() %}
+                        <span data-toggle="modal" data-target="#imageModal">
+                            <img class="bild {{ value.format }}" src="bilder/{{ key }}" alt="{{ value.unterzeile }}"  data-target="#imageCarousel"  data-slide-to="{{ slide_index  }}"/>
+                        </span>
+                    {% endfor %}
+                {%- endif %}
             {% endfor %}
         </div>
     </div>
