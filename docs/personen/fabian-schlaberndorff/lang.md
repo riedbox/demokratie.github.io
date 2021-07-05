@@ -20,7 +20,7 @@ bilder:
     unterzeile: Zu seiner Zeit als Richter am Bundesverfassungsgericht
     bildquelle: 'von Schlabrendorff: Begegnungen in fünf Jahrzehnten, Innentitelblatt'
  - Abb 5.jpg:
-    format: links
+    format: rechts
     unterzeile: Traueranzeige der Familie
     bildquelle: „Wiesbadener Kurier“, 5. September 1980, S. 12
 geburtsdaten: 24.09.1903 – 05.08.1995
@@ -151,9 +151,11 @@ Karlsruhe. 1967 erhielt er das Große Bundesverdienstkreuz. 1968 wurde er
 mit der Ehrendoktorwürde der Universität Göttingen ausgezeichnet.
 
 In seinem Kondolenztelegramm an Luitgarde von Schlabrendorff würdigte
-der damalige Bundeskanzler Helmut Schmidt den Parteilosen mit 
+der damalige Bundeskanzler Helmut Schmidt den Parteilosen mit {{ bild_einfuegen(bilder,'Abb 5.jpg')}}
 liberalkonservativer Gesinnung prägnant als „aufrechten Demokraten“, der
 sich „durch seinen Widerstand gegen den Nationalsozialismus und sein
 Eintreten für die Gerechtigkeit“ hohe Wertschätzung erworben habe.
 
-{{ bild_einfuegen(bilder,'Abb 5.jpg')}}
+
+
+Dr. Rolf Faber

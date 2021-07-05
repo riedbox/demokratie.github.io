@@ -3,13 +3,15 @@ title: LangEinführung 2/4
 bilder:
  - Abb 4.jpg:
     format: links
-    unterzeile: Im Exil für die konspirative Inlandsarbeit hergestelltes Parteiorgan der SPD 
+    unterzeile: Im Exil für die konspirative Inlandsarbeit hergestelltes Parteiorgan der SPD
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 237
  - Abb 5.jpg:
     format: links
     unterzeile: Ludwig Schwamb 
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 3047
 ---
 
-{{bild(bilder,0)}}
+{{bild_einfuegen(bilder,'Abb 4.jpg')}}
 Die SPD nahm auch in Wiesbaden bereits 1933 Abstand von sämtlichen
 offensiven und mit einem enormen Verhaftungsrisiko behafteten
 antinazistischen Propagandaformen. Ihre Anhängerschaft schloss sich zu
@@ -87,7 +89,7 @@ Umsturzversuch vom 20. Juli 1944 wurde die breite zivile Basis jener
 Exil-SPD, von der im Reichssicherheitshauptamt eingerichteten
 Sonderkommission hier wie überhaupt bloß rudimentär enttarnt. Daher sind
 nur einige der wichtigsten zivilen und militärischen Anführer und
-{{bild(bilder,1)}} Unterstützer der Aktion gefasst, vor den „Volksgerichtshof“ gestellt,
+{{bild_einfuegen(bilder,'Abb 5.jpg')}} Unterstützer der Aktion gefasst, vor den „Volksgerichtshof“ gestellt,
 dort meistenteils zum Tode verurteilt und sodann hingerichtet worden.
 Hierzu gehörte auch Ludwig Schwamb, der frühere hessische Staatsrat und
 enge Vertraute Leuschners, der dessen ziviles Widerstandsnetzwerk in der

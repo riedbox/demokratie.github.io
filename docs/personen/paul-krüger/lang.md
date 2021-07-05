@@ -2,18 +2,27 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Paul Krüger
+    exclude_from_overview: true
+    bildquelle: Studienkreis Deutscher Widerstand 1933–1945, Frankfurt/M.
  - Abb 2.jpg:
     format: links
     unterzeile: Auszug aus dem „R. G. O. Scheinwerfer. Organ der Belegschaft der Verkehrsbetriebe Wiesbaden“, 2. Jg., Nr. 31, Mai 1933
+    bildquelle: Hessisches Landesarchiv, Abt. Hessisches Hauptstaatsarchiv Wiesbaden, Abt. 483, Nr. 1948
  - Abb 3.jpg:
     format: links
     unterzeile: Aus Gründen konspirativer Vorsicht konnte Krüger lediglich mündlich vom Inhalt des zu jener Zeit noch regelmäßig auch nach Wiesbaden geschmuggelten KPD-Zentralorgans in Kenntnis gesetzt werden.
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1367
  - Abb 4.jpg:
     format: links
     unterzeile: Blick vom Turm A des KZ Sachsenhausen auf einige der Häftlingsbaracken
+    bildquelle: Stadtarchiv Wiesbaden, NL 38, Nr. 5
  - Abb 5.jpg:
     format: links
     unterzeile: k.A.
+    bildquelle: Stadtarchiv Wiesbaden, NL 38, Nr. 5
 geburtsdaten: 17.06.1903 – 16.12.1990
 name: Paul Krüger
 ---
@@ -47,7 +56,7 @@ Beschäftigungsverhältnis bei der Stadt, sondern außerdem der Bescheid
 zugestellt worden, dass ihm, der am 12. März erneut zum Stadtverordneten
 gewählt worden war, das Betreten des Rathauses fortan verboten sei.
 
-{{bild(bilder,0)}}
+{{bild_einfuegen(bilder,'Abb 2.jpg')}}
 Obwohl er als kommunistischer Funktionär im höchsten Maße gefährdet war
 und sein Domizil sogar einmal von einem bewaffneten SA-Trupp heimgesucht
 worden ist, setzte Krüger seine antifaschistische Arbeit unter nun
@@ -83,7 +92,7 @@ einer Notunterkunft einquartiert worden. Nach geraumer Zeit konnte der
 Fürsorgeempfänger jedoch mit seiner Familie eine neue, wenn auch feuchte
 feste Bleibe beziehen.
 
-{{bild(bilder,1)}}
+{{bild_einfuegen(bilder,'Abb 3.jpg')}}
 Die Kontaktaufnahme mit ihm wurde von der illegalen Parteiorganisation
 aus Sicherheitsgründen monatelang strikt vermieden, zumal davon
 auszugehen war, dass er wie üblich noch polizeilich observiert wurde.
@@ -94,14 +103,14 @@ bevorzugt solche zur Situation in den Betrieben, stellte regimekritische
 Flugblätter her und betrieb antinazistische Aufklärungsarbeit, dies
 sogar im Bereich der SA.
 
-{{bild(bilder,2)}}
+{{bild_einfuegen(bilder,'Abb 4.jpg')}}
 Am 20. August 1935 wurde Krüger zum dritten Mal verhaftet und über vier
 Gefängnisse wiederum ins KZ Esterwegen verbracht. Seit dem folgenden
 Jahr wurde er im KZ Sachsenhausen drangsaliert, aus dem er am 10.
 Oktober 1938 wieder entlassen wurde. Während jener Zeit mussten seine
 Frau Lina und ihre drei Kinder von einer kärglichen
 Fürsorgeunterstützung leben sowie von kleineren, mehr oder minder
-{{bild(bilder,3)}}regelmäßigen Zuwendungen aus der kommunistischen Solidargemeinschaft. In
+{{bild_einfuegen(bilder,'Abb 5.jpg')}}regelmäßigen Zuwendungen aus der kommunistischen Solidargemeinschaft. In
 der nächsten Zeit hatte Krüger sich täglich bei der Gestapo zu melden,
 die ihm dann aber eine Beschäftigung als Erdarbeiter bei der Baufirma
 Jakob Wiederspahn KG zuwies. Diese setzte ihn später als

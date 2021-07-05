@@ -4,6 +4,7 @@ bilder:
  - Abb 10.jpg:
     format: links
     unterzeile: Frühjahr 1945
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 3283
 ---
 
 Eine recht hohe Dunkelziffer ist für diejenigen anzunehmen, die bereits
@@ -29,7 +30,7 @@ erstaunlich bald in enger Abstimmung mit der amerikanischen
 Besatzungsmacht der politischen, gewerkschaftlichen und sonstigen
 Re-Demokratisierung den Weg zu bahnen, und dies trotz des anfänglich von
 der Militärregierung eigentlich verhängten Verbots jedweder
-diesbezüglichen Betätigung. Basisdemokratisch konstituierte sich {{bild(bilder,0)}}bereits
+diesbezüglichen Betätigung. Basisdemokratisch konstituierte sich {{bild_einfuegen(bilder,'Abb 10.jpg')}}bereits
 Ende März, Anfang April 1945 auf Initiative von Heinrich Roos der
 überparteiliche Aufbau-Ausschuss Wiesbaden, welcher im Kern in seinem
 vormaligen oppositionellen Freundeskreis wurzelte und sich als

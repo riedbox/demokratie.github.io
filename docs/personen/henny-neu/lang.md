@@ -2,21 +2,31 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Henny Neu
+    exclude_from_overview: true
+    bildquelle: Stadtarchiv Wiesbaden, Multimediaabteilung, F 015239
  - Abb 2.jpg:
     format: links
     unterzeile: Vorletzte Ausgabe der Mitgliederzeitung der SAJ  
+    bildquelle: Stadtarchiv Wiesbaden, V 25, Nr. 209
  - Abb 3.jpg:
     format: links
     unterzeile: Henny Neu (l.) zusammen mit Georg Buch (2. von r.) und einigen weiteren SAJ-Mitgliedern während einer illegalen Radtour nach Diez an der Lahn im Jahr 1934
+    bildquelle: Stadtarchiv Wiesbaden, NL 35, Nr. F 68
  - Abb 4.jpg:
     format: links
     unterzeile: Erstes Blatt ihres vierseitigen Berichts
+    bildquelle: Stadtarchiv Wiesbaden, NL 35, Nr. 264
  - Abb 5.jpg:
     format: links
     unterzeile: Erstes Blatt ihres zweiundzwanzigseitigen Berichts
+    bildquelle: Stadtarchiv Wiesbaden, NL 35, Nr. 494
  - Abb 6.jpg:
     format: links
     unterzeile: k.A.
+    bildquelle: „Wiesbadener Kurier“, 2. Januar 1981, S. 5
 geburtsdaten: 24.09.1906 – 29.11.1994
 name: Henny Neu
 ---
@@ -29,7 +39,7 @@ Anschluss an ihr 1931 in Hamburg-Harburg abgelegtes Examen als
 Kinderkrankenschwester ist sie zunächst Praktikantin in zwei ebenfalls
 auswärtigen Fürsorgeheimen gewesen. Danach war sie längere Zeit in
 wechselnden hiesigen Privathaushalten als Kinderfrau beschäftigt. Ihre
-{{bild(bilder,0)}}schwierige berufliche Situation hatte es verhindert, dass sie seinerzeit
+{{bild_einfuegen(bilder,'Abb 2.jpg')}}schwierige berufliche Situation hatte es verhindert, dass sie seinerzeit
 eine Funktion in der Sozialistischen Arbeiterjugend (SAJ) bzw. in der
 SPD zu übernehmen vermochte. Beiden Organisationen gehörte sie nach
 eigenem Bekunden jedoch „mit Leib und Seele“ an. Daher hatte sie
@@ -52,7 +62,7 @@ bzw. Familienkreis statt und sollte primär den politischen Zusammenhalt
 jener kleinen sozialistischen Gesinnungsgemeinschaft aufrechterhalten
 sowie ihre dezidiert antinazistisch-demokratische Grundhaltung stärken.
 
-{{bild(bilder,1)}}
+{{bild_einfuegen(bilder,'Abb 3.jpg')}}
 Buchs Widerstandsgruppe, der anfänglich noch immerhin 30 bis 40 seiner
 Genossinnen und Genossen aus SAJ und SPD angehört hatten, verzichtete
 schon nach kurzer Zeit vorsichtshalber auf die Verbreitung
@@ -87,7 +97,7 @@ Verschwiegenheit während seiner Verhöre zu verdanken. Dies führte
 außerdem dazu, dass damals immerhin zwei Sozialdemokraten und eine ihrer
 Genossinnen freigesprochen wurden.
 
-{{bild(bilder,2)}}
+{{bild_einfuegen(bilder,'Abb 4.jpg')}}
 Nach ihrer Entlassung aus dem Frauengefängnis in Frankfurt-Höchst im Mai
 1942 musste Neu sich noch einige Monate lang zweimal in der Woche auf
 der Außendienststelle der Frankfurter Gestapo in der hiesigen
@@ -97,7 +107,7 @@ ein KZ angedroht worden war, hat sie sich bis zum Einmarsch der
 US-Kampfverbände in unserer Stadt am 28. März 1945 in dieser Hinsicht
 nicht mehr exponiert.
 
-{{bild(bilder,3)}}
+{{bild_einfuegen(bilder,'Abb 5.jpg')}}
 Obwohl auch in der frühen Nachkriegszeit jetzt von den alliierten
 Besatzungsmächten alle politischen Aktivitäten zunächst strikt verboten
 waren, traf sich Henny Neu schon am 1. Mai 1945 mit einigen anderen
@@ -124,7 +134,7 @@ Jahr 1967 engagierte sie sich auf vielfältige Weise ehrenamtlich, vor
 allem für die Arbeiterwohlfahrt, der sie ebenfalls schon seit der
 Weimarer Republik angehörte, und für den Seniorenbeirat.
 
-{{bild(bilder,4)}}
+{{bild_einfuegen(bilder,'Abb 6.jpg')}}
 1981 wurde sie mit der Bürgermedaille der Landeshauptstadt Wiesbaden in
 Bronze ausgezeichnet. Bis kurz vor ihrem Tod nahm sie an den
 regelmäßigen Treffen des Freundeskreises ehemalige SAJ Wiesbaden teil.

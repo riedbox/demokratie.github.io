@@ -2,18 +2,27 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Josef Leber
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1067
+    exclude_from_overview: true
  - Abb 2.jpg:
     format: links
     unterzeile: Das Mitte 1932 von Aktivisten des KJMV initiierte Presseorgan war dezidiert antinazistisch positioniert, weshalb dieser Leitartikel bereits zu einem ersten Verbot führte. Anfang 1936 ereilte das Periodikum, das noch mehrmals verboten worden ist und im Sommer 1935 in „Michael. Wochenschrift junger Deutscher“ umbenannt werden musste, das endgültige Verbot.  
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1067
  - Abb 3.jpg:
     format: links
     unterzeile: Karlsheim in Kirchähr, Ortsteil von Gackenbach
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1067
  - Abb 4.jpg:
     format: links
     unterzeile: Erstes Blatt des Sondergerichtsurteils gegen Josef Leber
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1067
  - Abb 5.jpg:
     format: links
     unterzeile: k.A.
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1067
 geburtsdaten: 30.9.1923 – 13.3.1943
 name: Josef Leber
 ---
@@ -43,7 +52,7 @@ Rosa Eufinger verhaftet und ins Gefängnis verbracht worden. Sind im
 Alten Haus der Einrichtung im November 1938 Juden aus dem seinerzeitigen
 Unterwesterwaldkreis zwangsweise einquartiert gewesen, so war das Heim
 bald darauf der HJ zur Nutzung zugewiesen worden. Dies hatte dann im
-{{bild(bilder,0)}} März 1941 vor Ort letztlich aus dem Augenblick heraus den Unmut Lebers
+{{bild_einfuegen(bilder,'Abb 2.jpg')}} März 1941 vor Ort letztlich aus dem Augenblick heraus den Unmut Lebers
 und acht anderer junger Katholiken aus Limburg bzw. aus Frickhofen
 hervorgerufen. Leber gehörte zwar seit 1935 selbst der HJ an, dies aber
 ohne sich in dieser NS-Jugendorganisation sonderlich engagiert zu haben.
@@ -83,7 +92,7 @@ sogenannten Jugenddienstverordnung von 1939 nahezu alle deutschen
 Jugendlichen zwischen 10 und 18 Jahren zum – wie es explizit hieß –
 „Ehrendienst am Deutschen Volke“ verpflichtet waren.
 
-{{bild(bilder,1)}} Kraft bei den antinazistischen Aktivitäten im nunmehrigen, an
+{{bild_einfuegen(bilder,'Abb 3.jpg')}} Kraft bei den antinazistischen Aktivitäten im nunmehrigen, an
 jenem Tag allerdings von den Jung-Nazis nicht genutzten HJ-Heim in
 Kirchähr war zweifellos Leber, der mit 17 Jahren Älteste der Gruppe.
 Dieser verlieh seiner Verärgerung über die Inbesitznahme jener
@@ -100,7 +109,7 @@ abendliche Jugendpredigt von Kaplan Bokler, der als entschiedener Gegner
 des NS-Regimes galt und in jenen Jahren daher auch mehrfach zum Verhör
 durch die Gestapo zitiert worden ist.
 
-{{bild(bilder,2)}} Zwar war von den Jugendlichen vor dem HJ-Heim sicherheitshalber eine
+{{bild_einfuegen(bilder,'Abb 4.jpg')}} Zwar war von den Jugendlichen vor dem HJ-Heim sicherheitshalber eine
 Wache postiert worden, aber ein Dorfbewohner hatte dennoch die ganze
 Aktion beobachtet und unverzüglich gemeldet. Etliche im Prozessmaterial
 wiedergegebene Zitate lassen nur den Schluss zu, dass einige Jugendliche
@@ -112,7 +121,7 @@ motivierter Widersetzlichkeit gegen das NS-Regime lediglich zu
 Arreststrafen verurteilt. Zwei Jugendliche sind sogar freigesprochen
 worden.
 
-{{bild(bilder,3)}} Nicht nur während der Untersuchungshaft in Frankfurt am Main, auch in
+{{bild_einfuegen(bilder,'Abb 5.jpg')}} Nicht nur während der Untersuchungshaft in Frankfurt am Main, auch in
 der Jugendstrafanstalt Rockenberg in der Wetterau, wo er unter
 menschenunwürdigen Bedingungen im Steinbruch hatte arbeiten müssen, ist
 Leber des Öfteren malträtiert worden, und zwar derart, dass sein Körper

@@ -2,24 +2,35 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Johannes Maaß
+    exclude_from_overview: true
+    bildquelle: Stadtarchiv Wiesbaden, Multimediaabteilung, F 003238
  - Abb 2.jpg:
     format: links
     unterzeile: k.A.  
+    bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 45
  - Abb 3.jpg:
     format: links
     unterzeile: k.A. 
+    bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 111
  - Abb 4.jpg:
     format: links
     unterzeile: Brief aus dem KZ Dachau an seine Ehefrau Anna
+    bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 5
  - Abb 5.jpg:
     format: links
     unterzeile: k.A.
+    bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 6
  - Abb 6.jpg:
     format: links
     unterzeile: k.A.
+    bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 12
  - Abb 7.jpg:
     format: links
     unterzeile: Todesanzeige der Landeshauptstadt Wiesbaden
+    bildquelle: „Wiesbadener Tagblatt“, 28. April 1953
 geburtsdaten: 30.9.1923 – 13.3.1943
 name: Johannes Maaß
 ---
@@ -29,7 +40,7 @@ Gastwirtssohn, der in Montabaur zum Volksschullehrer ausgebildet worden
 war, ist in diesem Beruf zunächst in Eddersheim, Sossenheim und Berod
 beschäftigt gewesen. Danach hatte er ohne Abitur einige Semester in
 Berlin u. a. Germanistik und Geschichte studieren dürfen und war dann
-{{bild(bilder,0)}} hierorts von 1909 bis 1933 pädagogisch tätig, unterbrochen nur 1914/15
+{{bild_einfuegen(bilder,'Abb 2.jpg')}} hierorts von 1909 bis 1933 pädagogisch tätig, unterbrochen nur 1914/15
 vom Militärdienst in Mainz. Während der Weimarer Republik wirkte er in
 Wiesbaden zudem als SPD-Stadtverordneter und ehrenamtlicher Stadtrat,
 und zwar von 1919 bis 1933, ebenso als Vorsitzender des von ihm 1920
@@ -63,7 +74,7 @@ Bildungsarbeit im demokratiestabilisierenden Sinne wurde schon bald nach
 der Machtübergabe an die „Nationalsozialisten“ von diesen zunichte
 gemacht.
 
-{{bild(bilder,1)}} Nachdem die NSDAP von ihm noch kurz zuvor nicht zuletzt wegen ihrer von
+{{bild_einfuegen(bilder,'Abb 3.jpg')}} Nachdem die NSDAP von ihm noch kurz zuvor nicht zuletzt wegen ihrer von
 ihm dezidiert als unsinnig und demokratiefeindlich verurteilten „Blut
 und Rasse“- bzw. ihrer „Blut und Boden“-Ideologie heftig kritisiert
 worden war, sah Maaß sich im Frühjahr 1933 gezwungen, vom Vorsitz des
@@ -130,17 +141,17 @@ nur indirekte Verbindung zum von Heinrich Maschmeyer konspirativ
 angeleiteten hiesigen Vertrauensleutestützpunkt Leuschners zwar als
 wahrscheinlich annehmen, nicht jedoch hieb- und stichfest nachweisen.
 
-{{bild(bilder,2)}} In den Umsturzversuch vom 20. Juli 1944 war Maaß jedenfalls nicht
+{{bild_einfuegen(bilder,'Abb 4.jpg')}} In den Umsturzversuch vom 20. Juli 1944 war Maaß jedenfalls nicht
 involviert. Er hätte sich allerdings im Falle des Gelingens jener Aktion
 mit Sicherheit sofort für die dann unmittelbar in Angriff zu nehmende
 demokratische Rekonstruktionsarbeit zur Verfügung gestellt. Im Zuge der
 reichsweiten Festnahmeaktion im Anschluss an das gescheiterte
-{{bild(bilder,3)}} Unternehmen militärischer und ziviler Widerstandskräfte wurde auch Maaß
+{{bild_einfuegen(bilder,'Abb 5.jpg')}} Unternehmen militärischer und ziviler Widerstandskräfte wurde auch Maaß
 im August 1944 inhaftiert. Nach mehrwöchiger Haft im Wiesbadener
 Polizeigefängnis wurde er ins KZ Dachau überstellt, aus dem er erst zu
 Beginn des folgenden Jahres wieder freikam.
 
-{{bild(bilder,4)}} Seit seiner Rückkehr nach Wiesbaden Ende Mai 1945 legte sich Johannes
+{{bild_einfuegen(bilder,'Abb 6.jpg')}} Seit seiner Rückkehr nach Wiesbaden Ende Mai 1945 legte sich Johannes
 Maaß unverzüglich für die Wiederherstellung demokratischer Strukturen
 auf kommunaler wie auch auf Landesebene ins Zeug. Erst machte er sich im
 Rahmen des Anti-Nazi-Bundes um die Vorbereitungen zur Wiedergründung der
@@ -155,7 +166,7 @@ zwar dies bis zu seinem Lebensende. Nicht weniger verdienstvoll war sein
 Engagement als Mitbegründer des neuen Volkshochschulbundes im Jahr 1946
 sowie als vorläufiger Leiter der nun neu gegründeten VHS, sodann 1948
 als pädagogischer Leiter der damaligen Parteischule der Wiesbadener SPD,
-{{bild(bilder,5)}} im Jahr darauf als Mitbegründer der Werkkunstschule und dazu noch als
+{{bild_einfuegen(bilder,'Abb 7.jpg')}} im Jahr darauf als Mitbegründer der Werkkunstschule und dazu noch als
 Aktivist in vielen weiteren, zumeist ehrenamtlichen Funktionen. Wie im
 Prinzip alle, die nach der Befreiung von der NS-Gewaltherrschaft unsere
 neue Demokratie schufen, war Maaß fest davon überzeugt, dass diese
