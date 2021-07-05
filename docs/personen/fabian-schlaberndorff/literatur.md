@@ -9,10 +9,12 @@ bilder:
  - Abb 1.jpg:
     format: links
     unterzeile: Dr. Fabian von Schlabrendorff
+    bildquelle: Dr. Fabian von Schlabrendorff, Wiesbaden
     exclude_from_overview: true
  - Abb 6.jpg:
     format: links
     unterzeile: Innentitel seines erstmals 1946 in Zürich erschienenen Widerstandsberichts
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 2786
 ---
 
 Fabian von Schlabrendorff: Offiziere gegen Hitler. Neue, durchges. u.

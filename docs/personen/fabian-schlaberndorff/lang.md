@@ -2,18 +2,27 @@
 title: LangBiografie
 hauptbild: Abb 1.jpg
 bilder:
+ - Abb 1.jpg:
+    format: links
+    unterzeile: Fabian von Schlabrendorff
+    bildquelle: Dr. Fabian von Schlabrendorff, Wiesbaden
+    exclude_from_overview: true
  - Abb 2.jpg:
     format: links
     unterzeile: Fabian von Schlabrendorff als Wehrmachtoffizier
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 206
  - Abb 3.jpg:
     format: links
     unterzeile: Oberst im Generalstab Henning von Tresckow (stehend, l.) und sein Ordonnanzoffizier Oberleutnant Fabian von Schlabrendorff (stehend, r.) während einer Lagebesprechung beim Stab der Heeresgruppe Mitte, 1942
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 206
  - Abb 4.jpg:
     format: links
     unterzeile: Zu seiner Zeit als Richter am Bundesverfassungsgericht
+    bildquelle: 'von Schlabrendorff: Begegnungen in fünf Jahrzehnten, Innentitelblatt'
  - Abb 5.jpg:
     format: links
     unterzeile: Traueranzeige der Familie
+    bildquelle: „Wiesbadener Kurier“, 5. September 1980, S. 12
 geburtsdaten: 24.09.1903 – 05.08.1995
 name: Dr. Fabian von Schlabrendorff
 ---
@@ -70,7 +79,7 @@ unmittelbar bevorstehenden Abschluss des Hitler-Stalin-Paktes in
 Kenntnis zu setzen, sondern auch vom Vorhandensein ernstzunehmender
 deutscher Widerstandskräfte. Er stieß jedoch auf taube Ohren.
 
-{{bild(bilder,0)}} Kurz nach Kriegsausbruch informierte Schlabrendorff in Berlin einen
+{{ bild_einfuegen(bilder,'Abb 2.jpg')}} Kurz nach Kriegsausbruch informierte Schlabrendorff in Berlin einen
 britischen Botschaftsrat von Planungen, Hitler bei einem Besuch der an
 der Westgrenze stehenden, seinerzeit von Generaloberst Kurt Freiherr von
 Hammerstein-Equord befehligten Armee-Abteilung A festzunehmen und zu
@@ -79,7 +88,7 @@ ersten Umsturzplänen beteiligt gewesen. Da ihm nach wenigen Tagen jenes
 Kommando wieder entzogen worden war, ist auch dieser neuerliche Plan,
 den Diktator unschädlich zu machen, hinfällig gewesen.
 
-{{bild(bilder,1)}} Schlabrendorff wurde im Oktober 1939 zur Wehrmacht eingezogen und
+{{ bild_einfuegen(bilder,'Abb 3.jpg')}} Schlabrendorff wurde im Oktober 1939 zur Wehrmacht eingezogen und
 zunächst als Infanterieoffizier eingesetzt. Seit 1941 war der
 Oberleutnant Ordonnanzoffizier beim damaligen Oberstleutnant Henning von
 Tresckow, dem Ersten Generalstabsoffizier der Heeresgruppe Mitte, der
@@ -137,7 +146,7 @@ Angehörige des militärischen und konservativen Widerstands gegen
 haltlose Anschuldigungen unverbesserlicher Rechtsextremisten in Schutz.
 Er selbst sah sich nicht nur einmal als „Landesverräter“ verunglimpft.
 
-{{bild(bilder,2)}} Von 1967 bis 1975 war er Richter am Bundesverfassungsgericht in
+{{ bild_einfuegen(bilder,'Abb 4.jpg')}} Von 1967 bis 1975 war er Richter am Bundesverfassungsgericht in
 Karlsruhe. 1967 erhielt er das Große Bundesverdienstkreuz. 1968 wurde er
 mit der Ehrendoktorwürde der Universität Göttingen ausgezeichnet.
 
@@ -147,4 +156,4 @@ liberalkonservativer Gesinnung prägnant als „aufrechten Demokraten“, der
 sich „durch seinen Widerstand gegen den Nationalsozialismus und sein
 Eintreten für die Gerechtigkeit“ hohe Wertschätzung erworben habe.
 
-{{bild(bilder,3)}}
+{{ bild_einfuegen(bilder,'Abb 5.jpg')}}

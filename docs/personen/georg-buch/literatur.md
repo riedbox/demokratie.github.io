@@ -6,9 +6,11 @@ bilder:
     format: links
     unterzeile: Georg Buch
     exclude_from_overview: true
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1557
  - Abb 2.jpg:
     format: links
     unterzeile: Anti-Nazi-Flugblatt Buchs zur Reichstagswahl am 31. Juli 1932
+    bildquelle: Stadtarchiv Wiesbaden, NL 35, Nr. 403
 beschreibung:
 geburtsdaten: 24.09.1903 – 05.08.1995
 name: Georg Buch

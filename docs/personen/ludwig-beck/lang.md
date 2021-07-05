@@ -6,21 +6,27 @@ bilder:
     format: links
     unterzeile: Ludwig Beck
     exclude_from_overview: true
+    bildquelle: National Archives, Washington
  - Abb 2.jpg:
     format: links
     unterzeile: General Ludwig Beck
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 206
  - Abb 3.jpg:
     format: links
     unterzeile: In Becks Domizil in Berlin-Lichterfelde fanden viele konspirative Treffen der Widerständler des „20. Juli“ statt.
+    bildquelle: Dr. Rolf Faber, Wiesbaden
  - Abb 4.jpg:
     format: rechts
     unterzeile: Aus dem Gedenkblock zum 20. Jahrestag des Umsturzversuchs
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 2765
  - Abb 5.jpg:
     format: links
     unterzeile: 1964 am Biebricher Elternhaus in der Rheingaustraße 138 / Ecke Am Parkfeld angebrachte Gedenktafel
+    bildquelle: Dr. Axel Ulrich, Wiesbaden
  - Abb 6.jpg:
     format: rechts
     unterzeile: Gedenktafel in der Wiesbadener Diltheyschule
+    bildquelle: Dr. Axel Ulrich, Wiesbaden
 beschreibung: Chef des Generalstabes des Heeres, Generaloberst a. D., Haupt der militärisch-bürgerlichen Opposition, designiertes Staatsoberhaupt der Verschwörer des „20. Juli"
 geburtsdaten: 29.06.1880 - 20.07.1944
 name: Ludwig Beck

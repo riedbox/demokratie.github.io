@@ -6,27 +6,35 @@ bilder:
     format: links
     unterzeile: Toni Sender
     exclude_from_overview: true
+    bildquelle: '(Fotograf: A. Binder, Berlin) – Historisches Museum Frankfurt'
  - Abb 2.jpg:
     format: links
     unterzeile: Bei einer SPD-Veranstaltung in Frankfurt/M., 1928 
+    bildquelle: Institut für Stadtgeschichte, Frankfurt/M.
  - Abb 3.jpg:
     format: links
     unterzeile: Ankündigung einer von Konrad Arndt geleiteten Veranstaltung zur bevorstehenden Reichstagswahl in der Aula der heutigen Elly-Heuss-Schule, „Volksstimme“, 25. Oktober 1932 
+    bildquelle: 'Bembenek, Ulrich: Widerstand und Verfolgung in Wiesbaden, S. 157'
  - Abb 4.jpg:
     format: links
     unterzeile: In New York, 1939
+    bildquelle: Historisches Museum Frankfurt
  - Abb 5.jpg:
     format: links
     unterzeile: Deutsche Erstausgabe, 1981
+    bildquelle: Fischer Taschenbuch Verlag, Frankfurt/M.
  - Abb 6.jpg:
     format: links
     unterzeile: Dankschreiben an Oberbürgermeister Georg Buch anlässlich seiner Gratulation zu ihrem 75. Geburtstag
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1521
  - Abb 7.jpg:
     format: links
     unterzeile: Begleitbroschüre zur Biebricher Ausstellung aus Anlass ihres 100. Geburtstages
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 239
  - Abb 8.jpg:
     format: links
     unterzeile: Zu Senders 50. Todestag an ihrem Biebricher Geburtshaus in der Stettiner Straße angebrachte Gedenktafel
+    bildquelle: Dr. Axel Ulrich, Wiesbaden
 geburtsdaten: 29.11.1888 – 26.06.1964
 name: Toni Sender
 ---

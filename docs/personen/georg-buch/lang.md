@@ -6,24 +6,31 @@ bilder:
     format: links
     unterzeile: Georg Buch
     exclude_from_overview: true
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1557
  - Abb 2.jpg:
     format: links
     unterzeile: Anti-Nazi-Flugblatt Buchs zur Reichstagswahl am 31. Juli 1932
+    bildquelle: Stadtarchiv Wiesbaden, NL 35, Nr. 403
  - Abb 3.jpg:
     format: links
     unterzeile: k.A.
+    bildquelle: "Axel Ulrich (Bearb.): Dokumente aus der Geschichte der Wiesbadener SAJ. Hrsg.: Union-Druckerei und Verlagsanstalt. Frankfurt/M. o. J. (Sonderedition zum 90. Geburtstag Georg Buchs), Stadtarchiv Wiesbaden, NL 75, Nr. 35"
  - Abb 4.jpg:
     format: links
     unterzeile: Wanderung von Mitgliedern der Widerstandsgruppe um Georg Buch (stehend, ganz l.) zum Ausflugslokal Hubertushütte am 1. Mai 1940
+    bildquelle: Stadtarchiv Wiesbaden, V 25, Nr. 270
  - Abb 5.jpg:
     format: links
     unterzeile: Passierschein für den sieben Wochen zuvor aus dem KZ befreiten NS-Gegner
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 2496
  - Abb 6.jpg:
     format: links
     unterzeile: Gedenktafel am Gemeinschaftszentrum Georg-Buch-Haus in der Wellritzstraße
+    bildquelle: Dr. Axel Ulrich, Wiesbaden
  - Abb 7.jpg:
     format: links
     unterzeile: Anlässlich des Todes von seiner Heimatstadt herausgegebene Broschüre mit Coverporträt von Klaus Böttger, Nachruf von Oberbürgermeister Achim Exner und einem biographischen Essay von Axel Ulrich
+    bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 40
 beschreibung:
 geburtsdaten: 24.09.1903 – 05.08.1995
 name: Georg Buch
