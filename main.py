@@ -140,7 +140,7 @@ def define_env(env):
             markup.extend("<div class=\"row\">")
             markup.extend("<div class=\"col-6\">")
             person_path = dir_path + "/" + dirname + "/" + directory
-            markup.extend("<img class=\"m-0\" src=\"" + dirname + "/" + directory + "/bilder/Abb 1.jpg\"" + "/>")
+            markup.extend("<img class=\"m-0\" src=\"" + dirname + "/" + directory + "/bilder_gross/Abb 1_sw.jpg\"" + "/>")
             markup.extend("</div>")
             markup.extend("<div class=\"p-0 col-6\">")
             name = read_file(dir_path + "/" + dirname + "/" + directory + "/name.txt")
