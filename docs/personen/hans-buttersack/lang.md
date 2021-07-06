@@ -4,16 +4,16 @@ hauptbild: Abb 1.jpg
 bilder:
  - Abb 1.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     exclude_from_overview: true
     bildquelle: Gretel Baumgart-Buttersack, Wiesbaden
  - Abb 2.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Gretel Baumgart-Buttersack, Wiesbaden
  - Abb 3.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Gretel Baumgart-Buttersack, Wiesbaden
  - Abb 4.jpg:
     format: links
@@ -21,7 +21,7 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1062
  - Abb 5.jpg:
     format: rechts
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Dr. Rolf Faber, Wiesbaden
 geburtsdaten: 11.08.1880 – 13.02.1945
 name: Dr. Hans Buttersack

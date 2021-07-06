@@ -113,7 +113,7 @@
                     <div class="carousel-item {{ "active" if (loop.index == 1) else "" }}">
                     {% for key, value in item.items() %}
                     <img class="d-block w-100" src="bilder_gross/{{ key }}" alt="{{ value.unterzeile }}">
-                    <p class="m-3 text-center carousel-caption unterzeile">{{value.unterzeile }}</p>
+                    <p class="m-3 text-center carousel-caption unterzeile">{{value.unterzeile if value.unterzeile }}</p>
                     {% endfor %}
                     </div>
                     {% endfor %}

@@ -25,7 +25,7 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, NL 35, Nr. 494
  - Abb 6.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: „Wiesbadener Kurier“, 2. Januar 1981, S. 5
 geburtsdaten: 24.09.1906 – 29.11.1994
 name: Henny Neu

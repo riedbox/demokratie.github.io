@@ -15,7 +15,7 @@ bilder:
     bildquelle: Bundesarchiv Koblenz, NS 6/22
  - Abb 8.jpg:
     format: links
-    unterzeile:	k.A.
+    unterzeile:	
     bildquelle: Stadtarchiv Wiesbaden, NL 1, Nr. 114
  - Abb 9.jpg:
     format: links

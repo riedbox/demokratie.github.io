@@ -8,7 +8,7 @@ bilder:
  - Abb 7.jpg:
     format: links
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 853
-    unterzeile: k.A.
+    unterzeile: 
 ---
 
 Betty Arndt: Überfall auf einen Wiesbadener Gewerkschaftssekretär, in:

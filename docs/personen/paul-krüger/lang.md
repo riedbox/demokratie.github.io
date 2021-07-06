@@ -21,7 +21,7 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, NL 38, Nr. 5
  - Abb 5.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Stadtarchiv Wiesbaden, NL 38, Nr. 5
 geburtsdaten: 17.06.1903 – 16.12.1990
 name: Paul Krüger

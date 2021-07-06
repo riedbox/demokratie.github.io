@@ -13,7 +13,7 @@ bilder:
     bildquelle: NS-Dokumentationszentrum Rheinland-Pfalz / Gedenkstätte KZ Osthofen
  - Abb 3.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 234
  - Abb 4.jpg:
     format: links
@@ -25,7 +25,7 @@ bilder:
     bildquelle: Aktives Museum Spiegelgasse für deutsch-jüdische Geschichte in Wiesbaden
  - Abb 6.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Aktives Museum Spiegelgasse für deutsch-jüdische Geschichte in Wiesbaden
 geburtsdaten: 14.06.1885 – 10.06.1945
 name: Heinrich Maschmeyer

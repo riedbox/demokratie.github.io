@@ -29,7 +29,7 @@ bilder:
  - Abb 7.jpg:
     format: links
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 853
-    unterzeile: k.a.
+    unterzeile: 
     unterzeile:
 geburtsdaten: 26.06.1899 – 13.11.1940
 name: Konrad Arndt

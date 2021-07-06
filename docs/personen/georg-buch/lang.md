@@ -13,7 +13,7 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, NL 35, Nr. 403
  - Abb 3.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: "Axel Ulrich (Bearb.): Dokumente aus der Geschichte der Wiesbadener SAJ. Hrsg.: Union-Druckerei und Verlagsanstalt. Frankfurt/M. o. J. (Sonderedition zum 90. Geburtstag Georg Buchs), Stadtarchiv Wiesbaden, NL 75, Nr. 35"
  - Abb 4.jpg:
     format: links

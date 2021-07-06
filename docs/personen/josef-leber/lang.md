@@ -21,7 +21,7 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1067
  - Abb 5.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 1067
 geburtsdaten: 30.9.1923 – 13.3.1943
 name: Josef Leber

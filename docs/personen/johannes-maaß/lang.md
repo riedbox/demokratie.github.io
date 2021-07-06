@@ -9,11 +9,11 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, Multimediaabteilung, F 003238
  - Abb 2.jpg:
     format: links
-    unterzeile: k.A.  
+    unterzeile:   
     bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 45
  - Abb 3.jpg:
     format: links
-    unterzeile: k.A. 
+    unterzeile:  
     bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 111
  - Abb 4.jpg:
     format: links
@@ -21,11 +21,11 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 5
  - Abb 5.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 6
  - Abb 6.jpg:
     format: links
-    unterzeile: k.A.
+    unterzeile: 
     bildquelle: Stadtarchiv Wiesbaden, NL 36, Nr. 12
  - Abb 7.jpg:
     format: links
