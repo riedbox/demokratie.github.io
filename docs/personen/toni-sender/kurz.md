@@ -39,3 +39,5 @@ US-Staatsbürgerin. Seit dem Jahr darauf arbeitete sie als
 Wirtschaftsexpertin für Zentraleuropa bei der United Nations Relief and
 Rehabilitation Administration und von 1947 bis 1956 als
 Gewerkschaftsvertreterin bei der UNO.
+
+Dr. Axel Ulrich
