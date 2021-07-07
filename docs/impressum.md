@@ -49,7 +49,7 @@ Programmierung Allen Ziegenfus
 
 **Gestaltung:**
 
-Installationskünstler Vollrad Kutscher
+Künstlerisches Konzept und Projektleitung Vollrad Kutscher
 
 Webdesign Horst Ziegenfusz
 
