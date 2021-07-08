@@ -72,5 +72,3 @@ Laufschrift, arctic Displays, Kiel
 Malerarbeiten, David Novic, Dreieich
 
 
-**Nutzungsbedingungen und Datenschutz sind durch den Webdesigner
-entsprechend zu ergänzen.**
