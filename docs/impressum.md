@@ -53,5 +53,19 @@ Künstlerisches Konzept Vollrad Kutscher
 
 Webdesign Horst Ziegenfusz
 
+Künstlerische Zusammenarbeit in der konzeptionellen Entwicklung,
+sowie Modellbau, Malerei des Ausgangsbildes auf Leinwand und deren digitale Nachbereitung
+Claudio Roig
+
+**Realisierung der Arbeit im Rathaus:**
+
+Fensters im Wandbogen, Glasmalerei Schillings, Frankfurt
+Metallrahmen, Schlosserei Willo Altfeld, Frankfurt
+Elektroinstallation, Reimund Kreuzer, Frankfurt
+Touchscreen, WES-Systeme Electronic GmbH, Nidderau
+Laufschrift, arctic Displays, Kiel
+Malerarbeiten, David Novic, Dreieich
+
+
 **Nutzungsbedingungen und Datenschutz sind durch den Webdesigner
 entsprechend zu ergänzen.**
