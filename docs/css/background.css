@@ -263,6 +263,9 @@ float: left; width: 100%;
 }
 img.hauptbild {
   max-width: 100%;
+  width: 100%;
+  height: 265px;
+  object-fit: cover;
   margin: 0;
   padding-bottom: 10px;
 }
