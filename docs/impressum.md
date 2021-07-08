@@ -59,7 +59,7 @@ Claudio Roig
 
 **Realisierung der Arbeit im Rathaus:**
 
-Fensters im Wandbogen, Glasmalerei Schillings, Frankfurt
+Fenster im Wandbogen, Glasmalerei Schillings, Frankfurt
 
 Metallrahmen, Schlosserei Willo Altfeld, Frankfurt
 
