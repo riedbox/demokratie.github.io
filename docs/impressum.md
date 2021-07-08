@@ -60,10 +60,15 @@ Claudio Roig
 **Realisierung der Arbeit im Rathaus:**
 
 Fensters im Wandbogen, Glasmalerei Schillings, Frankfurt
+
 Metallrahmen, Schlosserei Willo Altfeld, Frankfurt
+
 Elektroinstallation, Reimund Kreuzer, Frankfurt
+
 Touchscreen, WES-Systeme Electronic GmbH, Nidderau
+
 Laufschrift, arctic Displays, Kiel
+
 Malerarbeiten, David Novic, Dreieich
 
 
