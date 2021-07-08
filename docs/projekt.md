@@ -7,7 +7,7 @@ subtitle: Zur Entstehungsgeschichte dieses Gedenkortes
 
 Am 2. Juli 2020 fasste die Stadtverordnetenversammlung der
 Landeshauptstadt Wiesbaden den Beschluss, im Foyer des Rathauses einen
-vom renommierten Frankfurter Installationskünstler Vollrad Kutscher
+vom renommierten Frankfurter Künstler Vollrad Kutscher
 eingereichten Gestaltungsentwurf für eine zeitgemäße Form der Erinnerung
 an den von Wiesbadener Bürgerinnen und Bürgern geleisteten
 antinazistischen Widerstand zu realisieren. Zuvor schon hatten der 2014
