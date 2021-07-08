@@ -15,6 +15,9 @@ gebildete, von Wolfgang Nickel, dem damaligen Stadtverordnetenvorsteher,
 geleitete Arbeitskreis „Gedenkstätten“ und der Ältestenausschuss
 positive Voten hierzu abgegeben.
 
+<img class="projekt-bild" src="img/projekt.jpg"
+     alt="Wiesbaden -Für Demokratie Projekt"/>
+
 Dieses Kunstwerk ist mit einem PC-Terminal und einer zusätzlichen
 Internetpräsentation ausgestattet. So können die
 historiographisch-politischen Informationen in Schulen und anderen

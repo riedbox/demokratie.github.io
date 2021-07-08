@@ -258,7 +258,9 @@ h1 .modal .modal-content,
 .bottom-page-nav .navitem {
   max-width: 400px;
 }
-
+.projekt-bild {
+float: left; width: 100%;
+}
 img.hauptbild {
   max-width: 100%;
   margin: 0;
@@ -373,6 +375,11 @@ h2 {
 }
 
 @media (min-width: 576px) {
+
+  .projekt-bild {
+  margin: 1em;
+  max-width: 300px;
+  }
 }
 
 @media (min-width: 768px) {
