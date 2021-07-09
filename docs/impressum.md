@@ -76,10 +76,14 @@ Malerarbeiten, David Novic, Dreieich
 **Für den Inhalt der Webseite verantwortlich:**
 (Pflichtangaben nach § 5 TMG, Telemediengesetz)
  
-Horst Ziegenefusz
+Horst Ziegenfusz
+
 Veilchenweg 7
+
 64546 Mörfelden-Walldorf
+
 Fon: +49 6151454712
+
 E-mail: mail(at)riedbox.de 
  
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
