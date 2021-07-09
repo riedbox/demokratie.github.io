@@ -82,7 +82,7 @@ Veilchenweg 7
 
 64546 Mörfelden-Walldorf
 
-Fon: +49 6151454712
+Fon: +49 6105 454712
 
 E-mail: mail(at)riedbox.de 
  
