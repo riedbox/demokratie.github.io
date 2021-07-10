@@ -32,9 +32,14 @@
         {%- if config.theme.highlightjs %}
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ config.theme.hljs_style }}.min.css">
         {%- endif %}
+        <link href="{{ 'css/fonts.css'|url }}" rel="stylesheet">
         {%- for path in config['extra_css'] %}
         <link href="{{ path|url }}" rel="stylesheet">
         {%- endfor %}
+
+<style>
+    {% include "css/background.css" %}
+</style>
       {%- endblock %}
 
       {%- block libs %}
