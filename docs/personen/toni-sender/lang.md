@@ -33,7 +33,7 @@ bilder:
     bildquelle: Stadtarchiv Wiesbaden, NL 75, Nr. 239
  - Abb 8.jpg:
     format: links
-    unterzeile: Zu Senders 50. Todestag an ihrem Biebricher Geburtshaus in der Stettiner Straße angebrachte Gedenktafel
+    unterzeile: Zu Senders 50. Todestag an ihrem Biebricher Geburtshaus in der Stettiner Straße 6 angebrachte Gedenktafel
     bildquelle: Dr. Axel Ulrich, Wiesbaden
 geburtsdaten: 29.11.1888 – 26.06.1964
 name: Toni Sender
