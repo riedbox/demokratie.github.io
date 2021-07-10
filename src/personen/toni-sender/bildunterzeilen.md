@@ -17,4 +17,4 @@ Abb. 7: Begleitbroschüre zur Biebricher Ausstellung aus Anlass ihres
 100. Geburtstages
 
 Abb. 8: Zu Senders 50. Todestag an ihrem Biebricher Geburtshaus in der
-Stettiner Straße angebrachte Gedenktafel
+Stettiner Straße 6 angebrachte Gedenktafel
