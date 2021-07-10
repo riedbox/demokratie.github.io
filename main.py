@@ -55,7 +55,7 @@ def define_env(env):
         for key, value in bild.items():
             unterzeile = bild[key]["unterzeile"]
             format = bild[key]["format"]
-            markup.extend(f'<span data-toggle="modal" data-target="#imageModal"><img class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#imageCarousel"  data-slide-to="{index}"/></span>')
+            markup.extend(f'<span data-toggle="modal" data-target="#imageModal"><img loading=lazy class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#imageCarousel"  data-slide-to="{index}"/></span>')
         return "".join(markup)
 
     def bild_finden(bilder, name):
@@ -90,7 +90,7 @@ def define_env(env):
         for key, value in bild.items():
             unterzeile = bild[key]["unterzeile"]
             format = bild[key]["format"]
-            markup.extend(f'<span data-toggle="modal" data-target="#imageModal"><img class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#imageCarousel"  data-slide-to="{index}"/></span>')
+            markup.extend(f'<span data-toggle="modal" data-target="#imageModal"><img loading=lazy class="bild {format}" src="bilder/{key}" alt="{unterzeile}"  data-target="#imageCarousel"  data-slide-to="{index}"/></span>')
         return "".join(markup)
 
 
@@ -123,7 +123,7 @@ def define_env(env):
         for directory_file in directory_files:
             if directory_file.find(".jpg") != -1:
                 markup.extend("<li>")
-                markup.extend("<img src=\"" + directory_file + "\"/>")
+                markup.extend("<img loading=lazy src=\"" + directory_file + "\"/>")
                 markup.extend("</li>")
         markup.extend("</ul>")
         return "".join(markup);
@@ -140,7 +140,7 @@ def define_env(env):
             markup.extend("<div class=\"row\">")
             markup.extend("<div class=\"col-6\">")
             person_path = dir_path + "/" + dirname + "/" + directory
-            markup.extend("<img class=\"m-0\" src=\"" + dirname + "/" + directory + "/bilder_gross/Abb 1_sw.jpg\"" + "/>")
+            markup.extend("<img loading=lazy class=\"m-0\" src=\"" + dirname + "/" + directory + "/bilder/Abb 1_sw.jpg\"" + "/>")
             markup.extend("</div>")
             markup.extend("<div class=\"p-0 col-6\">")
             name = read_file(dir_path + "/" + dirname + "/" + directory + "/name.txt")
