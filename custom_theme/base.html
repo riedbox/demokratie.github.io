@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+    <link rel="preload" as="image" href="{{ base_url + "/img/Frag_4384_neu_hell_x2_small.jpg"}}">
+    <style>
+        body {
+            background-color: #cdc6ca !important; !important;
+            background-image: url({{ base_url + "/img/Frag_4384_neu_hell_x2_small.jpg"}});
+            background-size: auto;
+            background-repeat: repeat;
+        }
+    </style>
       {%- block site_meta %}
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,9 +32,14 @@
         {%- if config.theme.highlightjs %}
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ config.theme.hljs_style }}.min.css">
         {%- endif %}
+        <link href="{{ 'css/fonts.css'|url }}" rel="stylesheet">
         {%- for path in config['extra_css'] %}
         <link href="{{ path|url }}" rel="stylesheet">
         {%- endfor %}
+
+<style>
+    {% include "css/background.css" %}
+</style>
       {%- endblock %}
 
       {%- block libs %}
