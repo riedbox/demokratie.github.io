@@ -11,6 +11,11 @@ jobs:
         uses: actions/checkout@v2
       - name: Build mkdocs
         uses: ./.github/actions/mkdocs-build-action
+        env:
+           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+           FTP_HOST: ${{ secrets.FTP_HOST }}
+           FTP_TARGET_DIR: ${{ secrets.FTP_TARGET_DIR }}
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
