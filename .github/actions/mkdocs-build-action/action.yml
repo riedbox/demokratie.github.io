@@ -1,0 +1,6 @@
+# action.yml
+name: 'Mkdocs build'
+description: 'Build mkdocs site'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

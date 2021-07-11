@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
+      - name: Build mkdocs
+        uses: ./.github/actions/mkdocs-build-action
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
