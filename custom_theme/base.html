@@ -36,7 +36,9 @@
         {%- for path in config['extra_css'] %}
         <link href="{{ path|url }}" rel="stylesheet">
         {%- endfor %}
-
+<style>
+   {% include "css/desktop.css" %}
+</style>
 <style>
     {% include "css/background.css" %}
 </style>

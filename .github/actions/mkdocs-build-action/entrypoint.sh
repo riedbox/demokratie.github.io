@@ -2,6 +2,7 @@
 
 cd ${GITHUB_WORKSPACE}
 
+echo "" > custom_theme/css/desktop.css
 mkdocs build
 
 lftp -u ${FTP_USERNAME},${FTP_PASSWORD} ${FTP_HOST} << EOF
