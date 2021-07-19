@@ -15,7 +15,7 @@
                 {% if page.meta.hauptbild %}
                     <img class="hauptbild" src="bilder/{{ page.meta.hauptbild }}" alt="Hauptbild">
                 {%- else %}
-                     <div class="hauptbild-ersatz"></div>
+                     <div class="d-print-none hauptbild-ersatz"></div>
                 {%- endif %}
                 {%- if page.parent %}
                     <ul class=" nav flex-column">
@@ -86,8 +86,9 @@
                         </div>
                         <p class="m-2 text-center">{{key}}</p>
                     </div>
-                    <div class="col d-flex align-items-center">
-                        <p> {{ value.bildquelle}}</p>
+                    <div class="col d-flex flex-column justify-content-center align-items-start">
+                        <p class="text-left"> {{ value.bildquelle}}</p>
+                        <p class="d-none d-print-block text-left"> {{ value.unterzeile }} </p>
                     </div>
                 </div>
              {% endfor %}
@@ -132,7 +133,7 @@
         </div>
     </div>
 
-    <div class="col-xl-4">
+    <div class="col-xl-4 d-print-none">
         <div class="container uebersicht justify-content-center">
             {% for item in page.meta.bilder %}
                 {% set slide_index = loop.index -1 %}
@@ -150,7 +151,7 @@
 {%- endif %}
 
 {%- if page.parent %}
-<div  class="col bottom-page-nav d-xl-none bs-sidebar affix text-center page-nav bg-transparent mt-4">
+<div  class="d-print-none col bottom-page-nav d-xl-none bs-sidebar affix text-center page-nav bg-transparent mt-4">
     <ul class="nav flex-column">
         {%- for nav_item in page.parent.children %}
             {%- if not nav_item.children %}

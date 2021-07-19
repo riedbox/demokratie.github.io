@@ -323,7 +323,26 @@ h2 {
 .uebersicht img.bild {
   max-width: 25vw;
 }
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.close {
+  font-size: 3.5rem;
+}
+
+
 @media screen and (max-width: 576px) {
+
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 20px;
+    height: 20px;
+  }
+  .close {
+    font-size: 1.5rem;
+  }
   body {
     font-size: 16px;
   }
@@ -356,9 +375,7 @@ h2 {
 }
 
 @media (min-width: 576px) {
-  img.hauptbild {
-    height: 265px;
-  }
+
   .projekt-bild {
   margin: 1em;
   max-width: 300px;
@@ -366,6 +383,7 @@ h2 {
 }
 
 @media (min-width: 768px) {
+
   h1 {
     font-size: 2rem;
   }
@@ -382,6 +400,7 @@ h2 {
 }
 
 @media (min-width: 992px) {
+
   .page-nav {
     margin-left: 1em;
     margin-right: 1em;
@@ -414,6 +433,9 @@ h2 {
 }
 
 @media (min-width: 1200px) {
+  img.hauptbild {
+    height: 265px;
+  }
   .uebersicht {
     margin-top: 230px;
     max-width: 500px;
@@ -529,17 +551,18 @@ h3.bildquellen-header {
   opacity: 1;
 }
 
-.close {
-  font-size: 3.5rem;
-}
 
-.carousel-control-prev-icon, .carousel-control-next-icon {
-  width: 40px;
-  height: 40px;
-}
 
 #imageCarousel[data-images="1"] .carousel-control-prev,
 #imageCarousel[data-images="1"] .carousel-control-next
 {
   display: none;
+}
+
+
+@media print {
+  .bildquellen img {
+    max-width: 50vw;
+    max-height: 50vh;
+  }
 }
