@@ -202,6 +202,7 @@
                 shortcuts = {{ config.theme.shortcuts | tojson }};
         </script>
         <script src="{{ 'js/base.js'|url }}" defer></script>
+        <script src="{{ 'js/timeout.js'|url }}" defer></script>
         {%- for path in config['extra_javascript'] %}
         <script src="{{ path|url }}" defer></script>
         {%- endfor %}
