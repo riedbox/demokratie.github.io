@@ -1,11 +1,16 @@
 ---
 title: Projekt
 subtitle: Zur Entstehungsgeschichte dieses Gedenkortes
+exclude_bildquellen: true
 bilder:
  - projekt.jpg:
     format: links
-    unterzeile: Wiesbaden -Für Demokratie Projekt
-    bildquelle:
+    unterzeile: Gedenkinstallation
+    bildquelle: Photos von Horst Ziegenfusz
+ - Wiesbaden - Foyer.jpg:
+    format: links
+    unterzeile: Foyer Rathaus Wiesbaden
+    bildquelle: Photos von Horst Ziegenfusz
 ---
 
 Am 2. Juli 2020 fasste die Stadtverordnetenversammlung der
@@ -69,6 +74,7 @@ eingescannt und sofern erforderlich graphisch optimiert. Hierbei sind
 sämtliche Bildquellen mit knappen Bildunterzeilen und präzisen
 Herkunftsnachweisen versehen worden.
 
+{{bild_einfuegen(bilder,'Wiesbaden - Foyer.jpg')}}
 Der Bildschirm mit den Informationen ist eingebettet in eine farbig
 gestaltete Glasfläche. Die darin zu findenden Jahreszahlen beziehen sich
 auf die Geschichte des Rathauses, eines Ortes der Demokratie selbst. Sie

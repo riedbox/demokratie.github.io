@@ -73,7 +73,7 @@
             {{ page.content }}
         </div>
 
-        {% if page.meta.bilder %}
+        {% if page.meta.bilder and not page.meta.exclude_bildquellen %}
             <h3 class="bildquellen-header mt-xl-5 pt-2 pt-xl-5">Herkunft der Bildquellen</h3>
             <div class="bildquellen container-sm text-center">
             {% for item in page.meta.bilder %}
