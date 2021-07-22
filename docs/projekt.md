@@ -115,6 +115,7 @@ wurde am 20. Juli 2021 als Livestream übertragen. Dieses Video wie auch
 die Inhalte der Gedenkinstallation sind seither online abrufbar, und
 zwar auf der Website <a href="https://fuer-demokratie-33-45-wiesbaden.de/">https://fuer-demokratie-33-45-wiesbaden.de/</a>
 
-<video src="movie/Uebergabe.mp4" controls style="max-width: 100%"></video>
+
+{%- include "project-video-desktop.md" %}
 
 <strong>Die Gedenkinstallation "FÜR DEMOKRATIE – Wiesbadener Bürgerinnen und Bürger im Widerstand gegen das NS-Regime" wurde am 20. Juli im Rahmen einer Feierstunde im Rathaus der Bürgerschaft übergeben. </strong>
