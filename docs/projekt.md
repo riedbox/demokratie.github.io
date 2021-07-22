@@ -1,13 +1,16 @@
 ---
 title: Projekt
 subtitle: Zur Entstehungsgeschichte dieses Gedenkortes
+bilder:
+ - projekt.jpg:
+    format: links
+    unterzeile: Wiesbaden -Für Demokratie Projekt
+    bildquelle:
 ---
-
-
 
 Am 2. Juli 2020 fasste die Stadtverordnetenversammlung der
 Landeshauptstadt Wiesbaden den Beschluss, im Foyer des Rathauses einen
-vom renommierten Künstler Vollrad Kutscher
+vom renommierten Frankfurter Installationskünstler Vollrad Kutscher
 eingereichten Gestaltungsentwurf für eine zeitgemäße Form der Erinnerung
 an den von Wiesbadener Bürgerinnen und Bürgern geleisteten
 antinazistischen Widerstand zu realisieren. Zuvor schon hatten der 2014
@@ -15,10 +18,9 @@ gebildete, von Wolfgang Nickel, dem damaligen Stadtverordnetenvorsteher,
 geleitete Arbeitskreis „Gedenkstätten“ und der Ältestenausschuss
 positive Voten hierzu abgegeben.
 
-<img class="projekt-bild" src="img/projekt.jpg"
-     alt="Wiesbaden -Für Demokratie Projekt"/>
+{{bild_einfuegen(bilder,'projekt.jpg')}}
 
-Dieses Kunstwerk ist mit einem PC-Terminal und einer zusätzlichen
+Kunstwerk ist mit einem PC-Terminal und einer zusätzlichen
 Internetpräsentation ausgestattet. So können die
 historiographisch-politischen Informationen in Schulen und anderen
 Bildungseinrichtungen, aber auch zu Hause abgerufen werden.
@@ -67,6 +69,35 @@ eingescannt und sofern erforderlich graphisch optimiert. Hierbei sind
 sämtliche Bildquellen mit knappen Bildunterzeilen und präzisen
 Herkunftsnachweisen versehen worden.
 
+Der Bildschirm mit den Informationen ist eingebettet in eine farbig
+gestaltete Glasfläche. Die darin zu findenden Jahreszahlen beziehen sich
+auf die Geschichte des Rathauses, eines Ortes der Demokratie selbst. Sie
+wird in den Grundmauern und den Putzschichten des Rathauses ablesbar,
+die wir frei gelegt haben, als Orientierung für die Farbbänder.
+
+<strong>1884</strong> wurde der Bau errichtet, die Grundmauern bestehen aus Granit, weil
+das Rathaus im Quellgebiet errichtet wurde. In der untersten
+Malereischicht, gehalten in den Farben des Granits, befindet sich ein
+Fragment des historischen Grundrisses.
+
+<strong>1887</strong> erhielt der Bau die erste Putzschicht.
+
+<strong>1945</strong> wurde das Rathaus großenteils zerbombt, graue Rauchspuren waren auf
+der Farbschicht zu finden. Bildfragmente der Zerstörung befinden sich
+rechts in Höhe des Bildschirmes.
+
+<strong>1951</strong> wurde das Rathaus im Stil der 50er Jahre wieder aufgebaut und
+ergänzt. In der auf diese Farbschicht bezogenen Fläche befindet sich
+eine entsprechende Ansichtszeichnung.
+
+<strong>1989</strong> wurde der Bau renoviert und mit gebrochenen weissen Farbschichten
+versehen.
+
+Im hellen Feld darüber befindet sich die Leuchtschrift sowie darüber
+eine blaue Fläche, die einen Bezug dieses Ortes der Demokratie mit den
+Wiesbadener Personen des Widerstandes in der Vergangenheit gegen die
+Nazidiktatur, in die Gegenwart und die Zukunft andeutet.
+
 Nachdem bis dahin eine schrittweise Präsentationsfolge des bereits
 vorliegenden biographischen Materials vorgesehen war, wurde auf Anregung
 Kutschers zu guter Letzt vereinbart, dieses gleich vollständig zur
@@ -77,3 +108,7 @@ Gert-Uwe Mende, von Vollrad Kutscher, Dr. Rolf Faber und Dr. Axel Ulrich
 wurde am 20. Juli 2021 als Livestream übertragen. Dieses Video wie auch
 die Inhalte der Gedenkinstallation sind seither online abrufbar, und
 zwar auf der Website <a href="https://fuer-demokratie-33-45-wiesbaden.de/">https://fuer-demokratie-33-45-wiesbaden.de/</a>
+
+<video src="movie/Uebergabe.mp4" controls style="max-width: 100%"></video>
+
+<strong>Die Gedenkinstallation "FÜR DEMOKRATIE – Wiesbadener Bürgerinnen und Bürger im Widerstand gegen das NS-Regime" wurde am 20. Juli im Rahmen einer Feierstunde im Rathaus der Bürgerschaft übergeben. </strong>

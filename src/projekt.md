@@ -10,7 +10,8 @@ gebildete, von Wolfgang Nickel, dem damaligen Stadtverordnetenvorsteher,
 geleitete Arbeitskreis „Gedenkstätten“ und der Ältestenausschuss
 positive Voten hierzu abgegeben.
 
-Dieses Kunstwerk ist mit einem PC-Terminal und einer zusätzlichen
+<img src="media/image1.jpeg" style="width:2.97986in;height:3.975in" />Dieses
+Kunstwerk ist mit einem PC-Terminal und einer zusätzlichen
 Internetpräsentation ausgestattet. So können die
 historiographisch-politischen Informationen in Schulen und anderen
 Bildungseinrichtungen, aber auch zu Hause abgerufen werden.
@@ -59,6 +60,35 @@ eingescannt und sofern erforderlich graphisch optimiert. Hierbei sind
 sämtliche Bildquellen mit knappen Bildunterzeilen und präzisen
 Herkunftsnachweisen versehen worden.
 
+Der Bildschirm mit den Informationen ist eingebettet in eine farbig
+gestaltete Glasfläche. Die darin zu findenden Jahreszahlen beziehen sich
+auf die Geschichte des Rathauses, eines Ortes der Demokratie selbst. Sie
+wird in den Grundmauern und den Putzschichten des Rathauses ablesbar,
+die wir frei gelegt haben, als Orientierung für die Farbbänder.
+
+1884 wurde der Bau errichtet, die Grundmauern bestehen aus Granit, weil
+das Rathaus im Quellgebiet errichtet wurde. In der untersten
+Malereischicht, gehalten in den Farben des Granits, befindet sich ein
+Fragment des historischen Grundrisses.
+
+1887 erhielt der Bau die erste Putzschicht.
+
+1945 wurde das Rathaus großenteils zerbombt, graue Rauchspuren waren auf
+der Farbschicht zu finden. Bildfragmente der Zerstörung befinden sich
+rechts in Höhe des Bildschirmes.
+
+1951 wurde das Rathaus im Stil der 50er Jahre wieder aufgebaut und
+ergänzt. In der auf diese Farbschicht bezogenen Fläche befindet sich
+eine entsprechende Ansichtszeichnung.
+
+1989 wurde der Bau renoviert und mit gebrochenen weissen Farbschichten
+versehen.
+
+Im hellen Feld darüber befindet sich die Leuchtschrift sowie darüber
+eine blaue Fläche, die einen Bezug dieses Ortes der Demokratie mit den
+Wiesbadener Personen des Widerstandes in der Vergangenheit gegen die
+Nazidiktatur, in die Gegenwart und die Zukunft andeutet.
+
 Nachdem bis dahin eine schrittweise Präsentationsfolge des bereits
 vorliegenden biographischen Materials vorgesehen war, wurde auf Anregung
 Kutschers zu guter Letzt vereinbart, dieses gleich vollständig zur
@@ -68,5 +98,6 @@ von Stadtverordnetenvorsteher Dr. Gerhard Obermayr und Oberbürgermeister
 Gert-Uwe Mende, von Vollrad Kutscher, Dr. Rolf Faber und Dr. Axel Ulrich
 wurde am 20. Juli 2021 als Livestream übertragen. Dieses Video wie auch
 die Inhalte der Gedenkinstallation sind seither online abrufbar, und
-zwar auf der Website
-????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+zwar auf der Website:
+
+https://fuer-demokratie-33-45-wiesbaden.de
