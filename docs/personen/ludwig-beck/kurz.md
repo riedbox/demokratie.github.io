@@ -43,4 +43,4 @@ Heeres, der Berliner Kommandozentrale der Verschwörer, wurde Beck dort
 die Gelegenheit zur Selbsttötung gewährt, nach deren zweimaligem
 Scheitern der Schwerverwundete erschossen worden ist.
 
-Dr. Axel Ulrich
+Dr. Rolf Faber
