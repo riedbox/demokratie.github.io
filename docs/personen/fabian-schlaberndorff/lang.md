@@ -23,7 +23,7 @@ bilder:
     format: rechts
     unterzeile: Traueranzeige der Familie
     bildquelle: „Wiesbadener Kurier“, 5. September 1980, S. 12
-geburtsdaten: 24.09.1903 – 05.08.1995
+geburtsdaten: 01.07.1907-03.09.1980
 name: Dr. Fabian von Schlabrendorff
 ---
 Schon als Student der Rechtswissenschaft gehörte er in seiner
