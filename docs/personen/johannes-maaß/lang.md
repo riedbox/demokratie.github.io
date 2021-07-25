@@ -31,7 +31,7 @@ bilder:
     format: links
     unterzeile: Todesanzeige der Landeshauptstadt Wiesbaden
     bildquelle: „Wiesbadener Tagblatt“, 28. April 1953
-geburtsdaten: 27.02.1882-24.04.1953
+geburtsdaten: 27.02.1882 - 24.04.1953
 name: Johannes Maaß
 ---
 
