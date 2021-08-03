@@ -1,6 +1,6 @@
 ---
 title: KurzEinführung
-quote: Man darf niemals vergessen, welcher hohe Preis<br>insgesamt zu bezahlen war, nur weil die Demokraten unserer<br>ersten deutschen Republik in einer zweifellos schwierigen Situation<br>nicht zusammenzufinden vermochten.
+quote: Man darf niemals vergessen, welcher hohe Preis insgesamt zu bezahlen war,<br>nur weil die Demokraten unserer ersten deutschen Republik<br>in einer zweifellos schwierigen Situation nicht zusammenzufinden vermochten.
 quoteattribute: Georg Buch
 ---
 

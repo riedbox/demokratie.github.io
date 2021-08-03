@@ -25,7 +25,7 @@ positive Voten hierzu abgegeben.
 
 {{bild_einfuegen(bilder,'projekt.jpg')}}
 
-Kunstwerk ist mit einem PC-Terminal und einer zusätzlichen
+Das Kunstwerk ist mit einem PC-Terminal und einer zusätzlichen
 Internetpräsentation ausgestattet. So können die
 historiographisch-politischen Informationen in Schulen und anderen
 Bildungseinrichtungen, aber auch zu Hause abgerufen werden.
