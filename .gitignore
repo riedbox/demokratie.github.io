@@ -2,5 +2,4 @@ site/
 __pycache__/
 zugang
 geld
-docs/.DS_Store
-docs/personen/johannes-maaß/.DS_Store
+.DS_Store
