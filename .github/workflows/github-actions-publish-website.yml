@@ -1,6 +1,8 @@
 name: Publish website
 on:
-  workflow_dispatch
+  push:
+    branches:
+      - master
 jobs:
   Publish-Site:
     runs-on: ubuntu-latest
