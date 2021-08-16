@@ -1,0 +1,21 @@
+- performance improvements
+    - look into using cloudflare 
+    - or github with custom domain: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+- home page mobile video is scrolling
+- work on carousel transitions - i think there is no fade
+- navigation arrows for lightbox - bring them further up so that there is no conflict with the iPhone address bar
+- magnification - look into ways of improving
+   - https://sammlung.staedelmuseum.de/de/werk/ansicht-von-antwerpen-mit-zugefrorener-schelde
+   - tone done the magnification factor?
+- check to make sure no picture captions are getting cut off
+- some images are getting cut off left and right?
+- publish automatically on publish
+- ignore .DS_Store files
+- Simplify adding new people / site in general
+- Document project
+     - how to publish web site for both exhibit and iPhone 
+     - how to add new bios / people
+- Look into using a CMS UI (netlify cms with githu)
+- Mobile safari is not showing home page video, taking a very long time to load
+- Is timeout working on edge
+- is kiosk working
