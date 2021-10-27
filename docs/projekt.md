@@ -46,7 +46,7 @@ Autorinnen und Autoren erstelltes biographisches Material in diese
 PC-Anlage eingegeben werden. Jene Anregungen waren von Dr. Müller
 positiv aufgenommen worden.
 
-2016 hatten die Leiterin des Hauptamtes Heike Zieren-Hesse, der Leiter
+2016 hatten die seinerzeitige Leiterin des Hauptamtes Heike Zieren-Hesse, der Leiter
 des Amtes der Stadtverordnetenversammlung Dr. Jörn Heimlich und Dr. Axel
 Ulrich vom Stadtarchiv die ersten 14 biographischen Beiträge für diesen
 Gedenkort festgelegt. Dies wurde vom Arbeitskreis, dem damaligen
@@ -79,7 +79,7 @@ Der Bildschirm mit den Informationen ist eingebettet in eine farbig
 gestaltete Glasfläche. Die darin zu findenden Jahreszahlen beziehen sich
 auf die Geschichte des Rathauses, eines Ortes der Demokratie selbst. Sie
 wird in den Grundmauern und den Putzschichten des Rathauses ablesbar,
-die wir frei gelegt haben, als Orientierung für die Farbbänder.
+die wir freigelegt haben, und zwar als Orientierung für die Farbbänder.
 
 <strong>1884</strong> wurde der Bau errichtet, die Grundmauern bestehen aus Granit, weil
 das Rathaus im Quellgebiet errichtet wurde. In der untersten
@@ -92,17 +92,17 @@ Fragment des historischen Grundrisses.
 der Farbschicht zu finden. Bildfragmente der Zerstörung befinden sich
 rechts in Höhe des Bildschirmes.
 
-<strong>1951</strong> wurde das Rathaus im Stil der 50er Jahre wieder aufgebaut und
+<strong>1951</strong> wurde das Rathaus im Stil der 1950er Jahre wieder aufgebaut und
 ergänzt. In der auf diese Farbschicht bezogenen Fläche befindet sich
 eine entsprechende Ansichtszeichnung.
 
 <strong>1989</strong> wurde der Bau renoviert und mit gebrochenen weissen Farbschichten
 versehen.
 
-Im hellen Feld darüber befindet sich die Leuchtschrift sowie darüber
+Im hellen Feld darüber befindet sich die Leuchtschrift sowie wiederum über dieser
 eine blaue Fläche, die einen Bezug dieses Ortes der Demokratie mit den
-Wiesbadener Personen des Widerstandes in der Vergangenheit gegen die
-Nazidiktatur, in die Gegenwart und die Zukunft andeutet.
+Wiesbadener Personen des Widerstandes gegen die Nazidiktatur in der Vergangenheit, 
+in der Gegenwart und der Zukunft andeutet.
 
 Nachdem bis dahin eine schrittweise Präsentationsfolge des bereits
 vorliegenden biographischen Materials vorgesehen war, wurde auf Anregung
