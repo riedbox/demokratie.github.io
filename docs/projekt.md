@@ -117,5 +117,3 @@ zwar auf der Website <a href="https://fuer-demokratie-33-45-wiesbaden.de/">https
 
 
 {%- include "project-video-desktop.md" %}
-
-<strong>Die Gedenkinstallation "FÜR DEMOKRATIE – Wiesbadener Bürgerinnen und Bürger im Widerstand gegen das NS-Regime" wurde am 20. Juli im Rahmen einer Feierstunde im Rathaus der Bürgerschaft übergeben. </strong>
