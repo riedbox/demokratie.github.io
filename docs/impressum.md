@@ -29,7 +29,7 @@ Im Rad 42
 
 E-Mail: stadtarchiv@wiesbaden.de
 
-Telefon 0611 31-3329
+Telefon 0611 31-3022
 
 **Verfasser der Texte:**
 
