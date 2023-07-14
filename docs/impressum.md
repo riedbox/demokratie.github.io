@@ -71,7 +71,7 @@ Laufschrift, arctic Displays, Kiel
 
 Malerarbeiten, David Novic, Dreieich
 
-**Die Urheberechte der Texte und Bilder liegen bei den Autoren**
+**Die Urheberrechte der Texte und Bilder liegen bei den Autoren**
 
 **Für den Inhalt der Webseite verantwortlich:**
 (Pflichtangaben nach § 5 TMG, Telemediengesetz)
